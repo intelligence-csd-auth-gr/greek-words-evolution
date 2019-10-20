@@ -7,14 +7,22 @@ import glob
 import codecs
 import os
 import re
+import string
 import fasttext
 import pandas
 import nltk
+from scipy import spatial
+from sklearn.metrics.pairwise import cosine_similarity
 
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
     nltk.download('punkt')
+
+try:
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    nltk.download('stopwords')
 
 DATA_FOLDER = './data'
 MODELS_FOLDER = './models'
@@ -25,7 +33,7 @@ COMBINED_TEXTS_FILENAME = 'corpus_combined.txt'
 COMBINED_MODEL_FILENAME = MODELS_FOLDER + '/corpus_combined_model.bin'
 
 FASTTEXT_PATH = './fastText/fasttext'
-NEIGHBORS_COUNT = 10
+NEIGHBORS_COUNT = 20
 
 #---------------------------------------------------------------
 
@@ -73,7 +81,7 @@ def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
 def enhanceMetadata(metadata):
     for index, row in metadata.iterrows():
         textFileContentsAsLines = getTextFileContents(TEXT_FILES_FOLDER + '/' + row['id'] + '.txt')
-        textFileContentsAsString = " ".join(textFileContentsAsLines)
+        textFileContentsAsString = preProcessText('\n'.join(textFileContentsAsLines))
 
         metadata.loc[index, 'text'] = textFileContentsAsString
         firstNLines = " ".join(textFileContentsAsLines[:100])
@@ -89,6 +97,23 @@ def enhanceMetadata(metadata):
 
     return metadata
 
+def preProcessText(text):
+    stopWords = set(nltk.corpus.stopwords.words('greek'))
+
+    text = text.lower()
+    # remove stopwords
+    text = re.compile(r'\b(' + r'|'.join(stopWords) + r')\b\s*').sub('', text)
+    # remove special characters
+    text = re.sub('[»«‒§—·•]', '', text)
+    # remove digits
+    text = re.sub(r'\d+', '', text)
+    # remove multiple whitespaces
+    text = re.sub('\s\s+', ' ', text)
+    # remove punctuation
+    text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
+
+    return text
+
 def exportTextToFile(text, filename):
     f = open(filename, 'w')
     f.write(text)
@@ -102,14 +127,29 @@ def exportMetadata(metadata, filename):
                                                                            'tokensCount'])
 
 def exportTextByDecade(enhancedMetadata):
-    for i in range(1800, 2000, 10):
+    for i in range(1800, 2000, 100):
         text = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= i) &
-                                    (enhancedMetadata['publishedYear'] < (i + 10))]
+                                    (enhancedMetadata['publishedYear'] < (i + 100))]
         #print(text)
         exportTextToFile(text['text'].str.cat(sep='\n'), './tmp/%s.txt' % i)
 
 def createModel(textsFilename, modelsFolder):
-    model = fasttext.train_unsupervised(textsFilename, model='skipgram')
+    # model             # unsupervised fasttext model {cbow, skipgram} [skipgram]
+    # lr                # learning rate [0.05]
+    # dim               # size of word vectors [100]
+    # ws                # size of the context window [5]
+    # epoch             # number of epochs [5]
+    # minCount          # minimal number of word occurences [5]
+    # minn              # min length of char ngram [3]
+    # maxn              # max length of char ngram [6]
+    # neg               # number of negatives sampled [5]
+    # wordNgrams        # max length of word ngram [1]
+    # loss              # loss function {ns, hs, softmax, ova} [ns]
+    # bucket            # number of buckets [2000000]
+    # thread            # number of threads [number of cpus]
+    # lrUpdateRate      # change the rate of updates for the learning rate [100]
+    # t                 # sampling threshold [0.0001]
+    model = fasttext.train_unsupervised(textsFilename, model='skipgram', epoch=25, dim=100, minCount=5, minn=3, maxn=6, neg=10, thread=8)
     modelFilename = os.path.join(modelsFolder, os.path.basename(textsFilename).replace('txt', 'model'))
     model.save_model(modelFilename)
 
@@ -119,6 +159,15 @@ def createModelsFromTextFiles(textFilesFolder):
     for filename in filenames:
         if os.stat(filename).st_size != 0:
             createModel(filename, MODELS_FOLDER)
+
+def getCosineDistanceOfVectors(vectorA, vectorB):
+    return spatial.distance.cosine(vectorA, vectorB)
+
+def getCosineSimilarityOfVectors(vectorA, vectorB):
+    # assuming that the two vectors have already the same size
+    size = len(vectorA)
+
+    return cosine_similarity(vectorA.reshape(1, size), vectorB.reshape(1, size))[0][0]
 
 #---------------------------------------------------------------
 
@@ -141,9 +190,34 @@ def modelParser(args):
     elif args.action == 'getNN':
         nearestNeighbours = NearestNeighbours(FASTTEXT_PATH, './models/' + args.decade + '.model', NEIGHBORS_COUNT)
         print(nearestNeighbours.getNeighboursForWord(args.word))
+    elif args.action == 'getCD':
+        modelA = fasttext.load_model(os.path.join('models', '1800.model'))
+        modelB = fasttext.load_model(os.path.join('models', '1900.model'))
+
+        cosineDistances = {}
+        for word in modelA.words:
+            if word in modelB.words:
+                cosineDistances[word] = getCosineDistanceOfVectors(modelA[word], modelB[word])
+
+        sortedCosineDistances = sorted(cosineDistances.items(), key=lambda x: x[1], reverse=True)
+
+        print(sortedCosineDistances[:10])
+    elif args.action == 'getCS':
+        modelA = fasttext.load_model(os.path.join('models', '1800.model'))
+        modelB = fasttext.load_model(os.path.join('models', '1900.model'))
+
+        cosineSimilarities = {}
+        for word in modelA.words:
+            if word in modelB.words:
+                cosineSimilarities[word] = getCosineSimilarityOfVectors(modelA[word], modelB[word])
+
+        sortedCosineSimilarities = sorted(cosineSimilarities.items(), key=lambda x: x[1])
+
+        print(sortedCosineSimilarities[:10])
+
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--version', action='version', version='0.0.1')
+parser.add_argument('--version', action='version', version='0.0.2')
 subparsers = parser.add_subparsers()
 
 parser_metadata = subparsers.add_parser('metadata')

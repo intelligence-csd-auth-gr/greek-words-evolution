@@ -1,5 +1,7 @@
 import pexpect
 
+# note it seems that there is a built in method for that used like that: model.get_nearest_neighbors('άνδρας')
+
 class NearestNeighbours:
     """Class for using the command-line interface to fasttext nn to lookup neighbours.
     It's rather fiddly and depends on exact text strings. But it is at least short and simple."""
