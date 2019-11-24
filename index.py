@@ -1,18 +1,22 @@
 import warnings
-warnings.filterwarnings("ignore")
+warnings.filterwarnings('ignore')
 
 import argparse
-from lib.NearestNeighbours import NearestNeighbours
-import glob
 import codecs
-import os
-import re
-import string
 import fasttext
-import pandas
+import glob
+from lib.NearestNeighbours import NearestNeighbours
 import nltk
+import os
+import pandas
+import re
 from scipy import spatial
 from sklearn.metrics.pairwise import cosine_similarity
+import string
+
+########################################################################################################################
+#-----------------------------------------------------------------------------------------------------------------------
+########################################################################################################################
 
 try:
     nltk.data.find('tokenizers/punkt')
@@ -23,6 +27,10 @@ try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
     nltk.download('stopwords')
+
+########################################################################################################################
+#-----------------------------------------------------------------------------------------------------------------------
+########################################################################################################################
 
 DATA_FOLDER = './data'
 MODELS_FOLDER = './models'
@@ -35,13 +43,14 @@ COMBINED_MODEL_FILENAME = MODELS_FOLDER + '/corpus_combined_model.bin'
 FASTTEXT_PATH = './fastText/fasttext'
 NEIGHBORS_COUNT = 20
 
-#---------------------------------------------------------------
+########################################################################################################################
+#-----------------------------------------------------------------------------------------------------------------------
+########################################################################################################################
 
 def readMetadata(filename):
     dataFrame = pandas.read_csv(filename, sep='\t')
 
     dataFrame['text'] = ''
-    dataFrame['publishedYear'] = ''
 
     return dataFrame
 
@@ -78,22 +87,25 @@ def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
 
     return estimatedPublishedYear
 
-def enhanceMetadata(metadata):
+def enhanceMetadata(metadata, detectPublishedYear, calculateTokens):
     for index, row in metadata.iterrows():
         textFileContentsAsLines = getTextFileContents(TEXT_FILES_FOLDER + '/' + row['id'] + '.txt')
         textFileContentsAsString = preProcessText('\n'.join(textFileContentsAsLines))
 
         metadata.loc[index, 'text'] = textFileContentsAsString
-        firstNLines = " ".join(textFileContentsAsLines[:100])
 
-        publishedYear = extractPublishedYear(firstNLines) or \
-                        estimatePublishedYear(row['authorYearOfBirth'], row['authorYearOfDeath'])
+        if detectPublishedYear:
+            firstNLines = " ".join(textFileContentsAsLines[:100])
 
-        metadata.loc[index, 'publishedYear'] = publishedYear or -1
+            publishedYear = extractPublishedYear(firstNLines) or \
+                            estimatePublishedYear(row['authorYearOfBirth'], row['authorYearOfDeath'])
 
-        #print(row['id'] + ' - %s' % publishedYear)
+            metadata.loc[index, 'publishedYear'] = publishedYear or -1
 
-        #metadata.loc[index, 'tokensCount'] = int(len(nltk.word_tokenize(textFileContentsAsString)))
+            #print(row['id'] + ' - %s' % publishedYear)
+
+        if calculateTokens:
+            metadata.loc[index, 'tokensCount'] = int(len(nltk.word_tokenize(textFileContentsAsString)))
 
     return metadata
 
@@ -101,16 +113,26 @@ def preProcessText(text):
     stopWords = set(nltk.corpus.stopwords.words('greek'))
 
     text = text.lower()
+    text = re.sub('-\n', '', text)
+    # remove special characters
+    #text = re.sub('[»«‒§—·•■·][^A-Za-z0-9]', '', text)
     # remove stopwords
     text = re.compile(r'\b(' + r'|'.join(stopWords) + r')\b\s*').sub('', text)
-    # remove special characters
-    text = re.sub('[»«‒§—·•·]', '', text)
+    # remove anything that is not latin or greek letters
+    text = re.sub('[^Α-Ωα-ωίϊΐόάέύϋΰήώ\s]', '', text)
+    text = re.sub('[ά]', 'α', text)
+    text = re.sub('[έ]', 'ε', text)
+    text = re.sub('[ή]', 'η', text)
+    text = re.sub('[ί]', 'ι', text)
+    text = re.sub('[ό]', 'ο', text)
+    text = re.sub('[ύ]', 'υ', text)
+    text = re.sub('[ώ]', 'ω', text)
     # remove digits
-    text = re.sub(r'\d+', '', text)
+    #text = re.sub(r'\d+', '', text)
     # remove multiple whitespaces
     text = re.sub('\s\s+', ' ', text)
     # remove punctuation
-    text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
+    #text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
 
     return text
 
@@ -127,7 +149,7 @@ def exportMetadata(metadata, filename):
                                                                            'tokensCount'])
 
 def exportTextByDecade(enhancedMetadata):
-    for i in range(1800, 2000, 100):
+    for i in range(1800, 2100, 100):
         text = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= i) &
                                     (enhancedMetadata['publishedYear'] < (i + 100))]
         #print(text)
@@ -149,7 +171,7 @@ def createModel(textsFilename, modelsFolder):
     # thread            # number of threads [number of cpus]
     # lrUpdateRate      # change the rate of updates for the learning rate [100]
     # t                 # sampling threshold [0.0001]
-    model = fasttext.train_unsupervised(textsFilename, model='skipgram', epoch=25, dim=100, minCount=5, minn=3, maxn=6, neg=10, thread=8)
+    model = fasttext.train_unsupervised(textsFilename, model='skipgram', epoch=5, dim=100, minCount=5, minn=0, maxn=3, neg=10, thread=8)
     modelFilename = os.path.join(modelsFolder, os.path.basename(textsFilename).replace('txt', 'model'))
     model.save_model(modelFilename)
 
@@ -169,11 +191,13 @@ def getCosineSimilarityOfVectors(vectorA, vectorB):
 
     return cosine_similarity(vectorA.reshape(1, size), vectorB.reshape(1, size))[0][0]
 
-#---------------------------------------------------------------
+########################################################################################################################
+#-----------------------------------------------------------------------------------------------------------------------
+########################################################################################################################
 
 def metadataParser(args):
     metadata = readMetadata(METADATA_FILENAME)
-    enhancedMetadata = enhanceMetadata(metadata)
+    enhancedMetadata = enhanceMetadata(metadata=metadata, detectPublishedYear=False, calculateTokens=False)
 
     if args.printStandard:
         print(metadata)
@@ -189,7 +213,7 @@ def modelParser(args):
         createModelsFromTextFiles(args.textsFolder)
     elif args.action == 'getNN':
         nearestNeighbours = NearestNeighbours(FASTTEXT_PATH, './models/' + args.decade + '.model', NEIGHBORS_COUNT)
-        print(nearestNeighbours.getNeighboursForWord(args.word))
+        print(nearestNeighbours.getNeighboursForWord(preProcessText(args.word)))
     elif args.action == 'getCD':
         modelA = fasttext.load_model(os.path.join('models', '1800.model'))
         modelB = fasttext.load_model(os.path.join('models', '1900.model'))
@@ -215,6 +239,9 @@ def modelParser(args):
 
         print(sortedCosineSimilarities[:10])
 
+########################################################################################################################
+#-----------------------------------------------------------------------------------------------------------------------
+########################################################################################################################
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--version', action='version', version='0.0.2')

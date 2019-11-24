@@ -38,4 +38,4 @@ If running for first time, create the text files per decade by running:
 
 Later, after the models have been generated try to see the nearest neighbours of a word by running something similar to this example:
     
-        python index.py model --action getNN --word αισθάνομαι --decade 1870
+        python index.py model --action getNN --word αισθάνομαι --decade 1800
