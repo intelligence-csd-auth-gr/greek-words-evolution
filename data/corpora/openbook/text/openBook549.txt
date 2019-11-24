@@ -1,0 +1,4142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69 THE ST. JOHN’S REVIEW 
+ 
+
+ 
+
+Η παροφςα μονογραφία ςτθν ΑΓΓΛΙΚΗ:  http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_ 
+
+ 
+
+ 
+
+Authorized  translation  in  Modern  Greek  of  the  original, entitled  
+"The Concept of Measure and the Criterion of Sustainability", 
+
+first published in English in: 
+
+ The St. John’s Review 
+ 
+
+Volume 56.1 (Fall 2014), pp. 74-94 
+
+ 
+
+ 
+
+Αυτή η μονογραφία θέτει ένα κρίσιμο γεωπολιτικό 
+
+ζήτημα σχετικά με την εκτεταμένη ακαδημαϊκή 
+
+σύγχυση περί τής κλασικής εννοίας τού μέτρου… 
+ 
+
+    (απφζπαζκα απφ ην Πξννίκην ) 
+
+ 
+
+―  
+‖ 
+
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+
+
+70  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+Δπιτομή 
+ 
+
+Η θιαζηθή έλλνηα ηνχ κέηξνπ, πνπ είλαη ζπλαθήο κε ηηο έλλνηεο ηήο 
+
+κεηξηνπαζείαο θαη ηζνξξνπίαο, έρεη πξνζδηνξηζζεί αξηζκεηηθά ζηελ αξρηηε-
+
+θηνληθή θαη ηηο ηέρλεο. Αιιά ζηα λνκηθά, ηελ πνιηηηθή, ηηο θνηλσληθέο 
+
+επηζηήκεο θαη ηελ επηζηήκε ηήο ςπρνινγίαο, ην κέηξν είλαη κία αζαθήο 
+
+έλλνηα. Απηή ε απξνζδηνξηζηία ηήο ελλνίαο ηνχ κέηξνπ, ζε ζπλδπαζκφ κε 
+
+ηελ αλζξψπηλε παξνξκεηηθή ηάζε γηα ππεξβνιή, έρεη θαηαζηήζεη πνιιά 
+
+άηνκα, θνηλσλίεο θαη θξάηε επηξξεπή ζε ππεξβνιηθέο απνθιίζεηο (εθηξνπέο) 
+
+απφ ην κέηξν—ήηνη ζε θαηλφκελα ύβξεσο, ε νπνία έρεη νδεγήζεη θνηλσλίεο, 
+
+θξάηε, ή αθφκε θαη απηνθξαηνξίεο ζηελ θαηαζηξνθή. Γηφηη νζάθηο νη 
+
+άλζξσπνη ζηεξνχληαη κηαο ζηνηρεηψδνπο αηζζήζεσο ηνχ κέηξνπ, ηφηε ράλνπλ 
+
+ηελ επαθή ηνπο κε ηελ πξαγκαηηθφηεηα. ΢ε ηέηνηεο πεξηπηψζεηο, κπνξνχλ λα 
+
+εθαξκφδνπλ ελαιιαθηηθψο ην θξηηήξην ηήο βησζηκόηεηνο—ειιείπνληνο ελφο 
+
+ζαθνχο θαη κε ακθηιεγνκέλνπ νξηζκνχ ηνχ κέηξνπ—πξνθεηκέλνπ λα 
+
+αληρλεχζνπλ εγθαίξσο πβξηζηηθέο εθηξνπέο ηνπο απφ ην κέηξν ψζηε λα 
+
+πεξηνξηνξίζνπλ ηηο δπζκελείο ή θαη νιέζξηεο επηπηψζεηο ηήο λνκνηειεηαθψο 
+
+επαθνινχζνπ λεκέζεσο. 
+
+ 
+
+ 
+
+ii 
+
+ 
+
+Η παροφςα μονογραφία ςτθν ΑΓΓΛΙΚΗ:  http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_ 
+
+ 
+
+ 
+
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+
+
+ESSAYS & LECTURES | PAPPAS 71 
+ 
+
+  
+
+iii 
+
+Πεπιεσόμενα 
+ 
+
+ 
+
+ 
+
+Επιτομι  .....................................  ................ ii 
+ 
+
+Πρoοίμιο ..................................... .............. iv 
+ 
+
+Η οικουμενικι ζννοια τοφ μζτρου  ........... 74 
+ 
+
+Το Αριςτοτζλειο μζςον ............................... 83 
+  
+
+Βιωςιμότθτα ................................................. 88 
+ 
+
+Συμπζραςμα ................................................. 94 
+ 
+
+(Στο τζλοσ τοφ εντφπου:) 
+ 
+
+cited references   ..................................... 95 
+ 
+
+γλϊςςα τοφ κειμζνου  ........................... vii 
+ 
+
+copyright endnotes  ............................... viii 
+ 
+
+acknowledgments  .................................... x 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Η ζειηδαξίζκεζε ηήο ελ κεηαθξάζεη κνλνγξαθίαο 
+
+αληηζηνηρεί ζε εθείλε ηνχ πξσηνηχπνπ ζηελ Αγγιηθή, 
+
+δεκνζηεπζέληνο ζηελ παλεπηζηεκηαθή επηζεψξεζε  
+
+ The St. John's Review, 56.1 (2014): 74–94, 
+
+θαη αλαξηεζέληνο ζην αθαδεκατθφ site academia.edu. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Δμψθπιιν   
+
+θφλην: Η Αξηζηνηέιεηα πξνζέγγηζε ηήο ελλνίαο 
+
+ηνχ κέηξνπ (Αξηζηνηέιεο, Ηζηθά Νηθνκά-
+
+ρεηα, 1106a25–35) · επίζεο ζηε ζει. 87 
+
+ηήο παξνχζεο εθδφζεσο. 
+ 
+
+Οπηζζφθπιιν 
+
+πξνθείκελν: Η θνχπα ηνχ Ππζαγφξα.   
+
+θφλην: Η ζηξαηεγηθή ζπκβνπιή ηνχ Αξηαβάλνπ 
+
+πξνο ηνλ Ξέξμε θαηά Όβξεσο 
+
+(Ηξφδνηνο, Ιζηνξίαη, 7.10e.) · επίζεο ζηε 
+
+ζει. 82 ηήο παξνχζεο εθδφζεσο.  
+
+ 
+ 
+
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+
+
+72  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+Πποοίμιο 
+ 
+
+Απηή ε κνλνγξαθία ζέηεη έλα θξίζηκν γεσπνιηηηθφ δήηεκα ζρεηηθά κε ηελ 
+
+εθηεηακέλε αθαδεκατθή ζχγρπζε πεξί ηήο θιαζηθήο ελλνίαο ηνχ κέηξνπ. 
+
+΢πλνπηηθά, ―επί ρηιηεηίεο, απφ ηελ επνρή ηνχ Οκήξνπ κέρξη ζήκεξα, ε θηινζνθία 
+
+απέηπρε λα δηαηππψζεη έλαλ νινθιεξσκέλν νξηζκφ ηνχ κέηξνπ φζνλ αθνξά ζηελ 
+
+αλζξψπηλε ζπκπεξηθνξά‖ (ζει. 94). ΢ε πξαθηηθφ επίπεδν, ―ε θιαζηθή έλλνηα ηνχ 
+
+κέηξνπ, πνπ είλαη ζπλαθήο κε ηηο έλλνηεο ηήο κεηξηνπαζείαο θαη ηζνξξνπίαο, έρεη 
+
+πξνζδηνξηζζεί αξηζκεηηθά ζηελ αξρηηεθηνληθή θαη ηηο ηέρλεο. Αιιά ζηα λνκηθά, ηελ 
+
+πνιηηηθή, ηηο θνηλσληθέο επηζηήκεο θαη ηελ επηζηήκε ηήο ςπρνινγίαο, ην κέηξν 
+
+είλαη κία αζαθήο έλλνηα... Απηή ε απξνζδηνξηζηία ηήο ελλνίαο ηνχ κέηξνπ, ζε ζπλ-
+
+δπαζκφ κε ηελ αλζξψπηλε παξνξκεηηθή ηάζε γηα ππεξβνιή, έρεη θαηαζηήζεη πνιιά 
+
+άηνκα, θνηλσλίεο θαη θξάηε επηξξεπή ζε πβξηζηηθέο απνθιίζεηο απφ ην κέηξν‖       
+
+—ήηνη εθηξνπέο πνπ ―ηζηνξηθά έρνπλ νδεγήζεη θνηλσλίεο, θξάηε, ή αθφκε θαη 
+
+απηνθξαηνξίεο ζηελ θαηαζηξνθή. Καη επεηδή δελ πθίζηαηαη έλαο  επξέσο 
+
+απνδεθηφο νξηζκφο ηνχ κέηξνπ ζε πξαθηηθά δεηήκαηα,* είλαη δχζθνιν γηα εγέηεο 
+
+θαη πνιηηηθνχο ηζχλνληεο λα δηίδνπλ πφηε αξρίδνπλ λα ππεξβαίλνπλ ηα φξηα,  ψζηε 
+
+λα απνηξέςνπλ εγθαίξσο ηνλ θίλδπλν‖ (ζει. 74).  
+
+Πξάγκαηη, εάλ ην κέηξν δελ νξίδεηαη επαθξηβώο, ηφηε θαη νη (πβξηζηηθέο) 
+
+εθηξνπέο απφ απηφ δελ κπνξνχλ λα νξηζζνχλ ex ante: Πξνθαλψο, νπδείο δχλαηαη λα 
+
+λα πξνζδηνξίζεη ηί απνηειεί αθξαία απφθιηζε (ύβξη) απφ θάηη ην νπνίν δελ έρεη θαλ 
+
+νξηζζεί  (κέηξν).  Δλδεηθηηθά,  πνιινί  πνιηηηθνί  ζπγρένπλ  ηελ  έλλνηα  ηνχ  κέηξνπ  κε 
+
+ζεζκηθνχο ―ειέγρνπο θαη ηζνξξνπίεο‖ (checks and balances). Δπί πιένλ, πνιινί νηθν- 
+
+ 
+
+ 
+ 
+
+                                       . 
+ 
+
+* Πνιινί ιεμηθνγξάθνη ζε φιν ηνλ θφζκν ζπγρένπλ ηελ θιαζηθή έλλνηα ηνχ κέηξνπ κε ηηο 
+έλλνηεο ηήο κεηξηνπαζείαο θαη ηήο κεηξηόηεηνο, ή κε ην Γειθηθφ επίγξακκα πεξί 
+
+απνθπγήο ησλ ππεξβνιώλ—σζάλ ην ―ἀμείνω αἴςιμα πάντα‖ ηνχ Οκήξνπ ή ην ―μζτρον 
+
+ἄριςτον‖ ηνχ Κιενβνχινπ λα ήζαλ ζεκαζηνινγηθψο ηαπηφζεκα κε ην ην ―μηδζν ἄγαν‖ 
+
+ηνχ Υίισλνο. Καηά ζπλέπεηα, νη νξηζκνί πεξί κέηξνπ ζε πνιιά ιεμηθά κέρξη ζήκεξα 
+
+είλαη ελ πνιινίο ηαπηνινγηθνί, κεξηθψο παξαπιαλεηηθνί  θαη κε κάιινλ πεξηνξηζκέλν 
+
+βαζκφ εθαξκνζηκφηεηνο ζε πνιηηηθννηθνλνκηθφ ή γεσζηξαηεγηθφ επίπεδν.  
+
+Ωο παξάδεηγκα, ν ρξνλνινγηθψο πξσηαξρηθφο νξηζκφο ηνχ κέηξνπ ζε έγθπξα 
+
+ιεμηθά ηήο αγγιηθήο γιψζζεο (Μerriam-Webster θ.η.ι.), δηαηππψλεηαη σο―κατάλληλη 
+
+αλαινγία‖, (due proportion), ―κατάλληλος απηνπεξηνξηζκόο‖, (due restraint), θ.ν.θ. 
+
+Πξνθαλψο ε πεξηνξηζκέλε εθαξκνζηκφηεηα ηέηνησλ ηαπηνινγηθψλ νξηζκψλ 
+
+θαηαδεηθλχεηαη κφιηο ππνβιεζνχλ ζην ηεζη ηνχ σο άλσ ζπλαθνινχζνπ εξσηήκαηνο: 
+
+―Δάλ ην κέηξν είλαη κατάλληλη αλαινγία, ηφηε ηη επαθξηβώο ζεκαίλεη κατάλληλη ελ 
+
+πξνθεηκέλσ;‖ Παξνκνίσο, ε έλλνηα ηνχ κέηξνπ δελ νξίδεηαη θαηά ζαθή (κε 
+
+ηαπηνινγηθφ) ηξφπν ζε θαλέλα απφ ηα ιεμηθά  ηήο  Νέαο  Διιεληθήο.  Δλδεηθηηθά  ζην  
+
+έγθπξν  Λεμηθό  ηήο  Νέαο  Ειιεληθήο Γιώζζαο ηνχ Γεσξγίνπ Μπακπηληψηε,  απηή ε έλλνηα  
+
+iv 
+
+
+
+ESSAYS & LECTURES | PAPPAS 73 
+ 
+
+  
+
+λνκνιφγνη ζπγρένπλ απηήλ ηελ θιαζηθή έλλνηα κε ηηο λενθιαζηθέο έλλνηεο ηήο 
+
+βξαρπρξφληαο ηζνξξνπίαο (equilibrium) θαη ηήο θνηλσληθννηθνλνκηθήο δηθαηνζύλεο 
+
+(equity), ελψ ξεηέο αλαθνξέο ζηηο έλλνηεο ηνχ κέηξνπ θαη ηήο ύβξεσο είλαη ζπάληεο 
+
+ζηελ νηθνλνκηθή βηβιηνγξαθία. 
+
+΢ε απηφ ην πιαίζην, ην παξφλ άξζξν κπνξεί λα απνβεί ηδηαίηεξα ρξήζηκν ζε 
+
+εθείλνπο ηνχο αθαδεκατθνχο θαη πνιηηηθνχο ηζχλνληεο πνπ αθφκε λνκίδνπλ φηη 
+
+―μέξνπλ‖ ηελ έλλνηα ηνχ κέηξνπ, παξφηη ν νξηζκφο ηνπ ζπλερίδεη λα δηαιαλζάλεη 
+
+ηελ αλζξψπηλε δηαλφεζε απφ ηνχο Οκεξηθνχο ρξφλνπο κέρξη ζήκεξα, ηνπιάρηζηνλ 
+
+φζνλ αθνξά ζε έλαλ επαξθώο πξαθηηθφ νξηζκφ απηήο ηήο θιαζηθήο ελλνίαο. 
+
+Πξνθεηκέλνπ κάιηζηα λα θαξπνθνξήζεη ε έξεπλα γηα νηηδήπνηε ρξήζηκν ζην νξαηφ 
+
+κέιινλ, θαη κάιηζηα γηα θάηη ηφζν ζεκαληηθφ φζν ε δηαηχπσζε ελφο ηέηνηνπ 
+
+νξηζκνχ, ή αθφκε θαη γηα λα πθίζηαηαη κία εχινγε πηζαλφηεηα γηα επφδσζε κηαο 
+
+ηέηνηαο έξεπλαο ζην κέιινλ, νη επίδνμνη εξεπλεηέο πξέπεη πξψηα λα αληηιεθζνχλ 
+
+φηη πξνο ην παξφλ ηνλ ελ ιφγσ νξηζκφ δελ ηνλ θαηέρνπλ.** 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+                                       . 
+ 
+
+ νξίδεηαη επί ιέμεη σο ―ε απνθπγή αθξνηήησλ θαη ππεξβνιώλ‖, δειαδή παξαθξάδνληαο 
+έλα γλσκηθφ (ηνχ Υίισλνο) πεξί κεηξηνπαζείαο γηα λα ―εξκελεπζεί‖ έλα άιιν (ηνχ 
+
+Κιενβνχινπ) πεξί κέηξνπ. Πξνθαλψο, ζπγρένληαο απηέο ηηο δχν ζπγγελείο αιιά φρη 
+
+ηαπηφζεκεο έλλνηεο (κεηξηνπάζεηα θαη κέηξν), νη αλαγλψζηεο απηψλ ησλ ιεμηθψλ 
+
+παξσζνχληαη λα εμαγάγνπλ ηζηνξηθψο παξάινγα (αλαθφινπζα) ζπκπεξάζκαηα θαηά 
+
+θαηλνκεληθψο ―ινγηθφ‖ (επαγσγηθφ) ηξφπν, φπσο π.ρ. ν εμήο:  
+ 
+
+Η κέρξηο εζράησλ κάρε ηνχ Λεσλίδνπ ζηηο Θεξκνπχιεο δελ ―απέθπγε‖ ηελ 
+
+(δηφινπ ―κεηξηνπαζή‖ θαη θαη' εμνρήλ ―αθξαία‖) ―ππεξβνιή‖ ηνχ (νιηθνύ) 
+
+αθαληζκνχ ηνχ ζηξαηνχ ηνπ επί ηνχ πεδίνπ ηήο κάρεο· επνκέλσο ν Λεσλίδαο 
+
+δηεμήγαγε εθείλε ηελ κάρε ―πέξαλ ηνύ κέηξνπ‖, ήηνη ε ππεξηάηε (εθνπζίσο 
+
+νινθιεξσηηθή) απηνζπζία ησλ 300 ΢παξηηαηψλ θαη 700 Θεζπηαίσλ ζηηο 
+
+Θεξκνπχιεο απεηέιεζε ειιεληθή... Ύβξη ! 
+ 
+
+** Σν Πξννίκην δελ απνηειεί κέξνο ηνχ πξσηνηχπνπ [The St. John’s Review, 56.1 (Fall 
+
+2014): 74-94] θαη ζπλεγξάθε απφ ηελ Γήκεηξα Αζεκαθνπνχινπ (Παλεπηζηήκην Αζε-
+
+λψλ, Φηινζνθηθή ΢ρνιή, Σκήκα Φηινινγίαο). 
+
+v 
+
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+
+
+74  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+Η Έννοια τού Μέτπος  
+
+και το Κπιτήπιο τήρ Βιωσιμότητορ 
+ 
+
+John D. Pappas   
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Η θιαζηθή έλλνηα ηνχ κέηξνπ, πνπ είλαη ζπλαθήο κε ηηο έλλνηεο ηήο κεηξηνπαζείαο 
+
+θαη ηζνξξνπίαο, έρεη πξνζδηνξηζζεί αξηζκεηηθά ζηελ αξρηηεθηνληθή θαη ηηο ηέρλεο. 
+
+Αιιά ζηα λνκηθά, ηελ πνιηηηθή, ηηο θνηλσληθέο επηζηήκεο θαη ηελ επηζηήκε ηήο 
+
+ςπρνινγίαο, ην κέηξν είλαη κία αζαθήο έλλνηα. Έλαο νξζνινγηθφο νξηζκφο ηνχ 
+
+κέηξνπ ζηηο αλζξψπηλεο ζρέζεηο ζα πεξηφξηδε ηελ παξνξκεηηθή ηάζε ηνχ αλζξψπνπ 
+
+πξνο ηελ ππεξβνιή θαη ζα κπνξνχζε θαη' απηφλ ηνλ ηξφπν λα πξναζπίζεη ηελ 
+
+Αλζξσπφηεηα απφ ηηο ζπλέπεηεο ηήο ύβξεσο, ε νπνία ηζηνξηθψο έρεη νδεγήζεη 
+
+θνηλσλίεο, θξάηε, ή αθφκε θαη απηνθξαηνξίεο ζηελ θαηαζηξνθή.  
+
+΋ηαλ νη άλζξσπνη ζηεξνχληαη αηζζήζεσο ηνχ κέηξνπ, ηφηε ράλνπλ θαη ηελ 
+
+επαθή ηνπο κε ηελ πξαγκαηηθφηεηα. Ωο απνηέιεζκα, επεηδή δελ πθίζηαηαη έλαο  
+
+επξέσο απνδεθηφο νξηζκφο ηνχ κέηξνπ ζε πξαθηηθά δεηήκαηα, είλαη δχζθνιν γηα 
+
+εγέηεο θαη πνιηηηθνχο ηζχλνληεο λα δηίδνπλ πφηε αξρίδνπλ λα ππεξβαίλνπλ ηα φξηα,  
+
+ψζηε λα απνηξέςνπλ εγθαίξσο ηνλ θίλδπλν.  
+
+΢ηελ παξνχζα κνλνγξαθία δηαηππψλεηαη ε πξφηαζε φηη, δεδνκέλεο ηήο ειιεί-
+
+ςεσο ελφο ζαθνχο νξηζκνχ ηνχ κέηξνπ, κπνξεί λα εθαξκφδεηαη ελαιιαθηηθψο ην 
+
+θξηηήξην ηήο βησζηκόηεηνο γηα ηελ έγθαηξε αλίρλεπζε πβξηζηηθώλ εθηξνπψλ απφ ην 
+
+κέηξν ψζηε λα πεξηνξηνξηζζνχλ νη αξλεηηθέο ζπλέπεηεο ηήο εθάζηνηε ύβξεσο.  
+ 
+
+ 
+
+1. Η οικοςμενική έννοια τού μέτροσ 
+
+ 
+
+Η έλλνηα ηνχ κέηξνπ ή κέζνπ όξνπ απεηέιεζε ηνλ αθξνγσληαίν ιίζν ηνχ θιαζηθνχ 
+
+πνιηηηζκνχ. Σν κέηξν,
+1
+ πνπ ελλνηνινγηθψο είλαη ζπγγελέο κε ηελ Κνκθνπθηαλή 
+
+Μέζε Οδό (Zhong Yong) θαη ην Βνπδηζηηθφ Μεζαίν Μνλνπάηη (majjhimā paṭipadā), 
+
+ππνδεινί αηζζεηηθή ζπκκεηξία θαη ιεηηνπξγηθή αξκνλία ζηελ αλζξψπηλε αιιειε-
+
+πίδξαζε κε ην θνηλσληθφ θαη θπζηθφ πεξηβάιινλ.  
+
+΢ηηο ηέρλεο θαη ηδηαίηεξα ζηελ αξρηηεθηνληθή, ην κέηξν έρεη πξνζδηνξηζζεί δη' 
+
+εμεηδηθεπκέλσλ  αξηζκεηηθψλ  αλαινγηψλ  θαη  καζεκαηηθψλ  ηχπσλ.  Ωο  παξάδεηγκα, 
+
+ 
+ 
+
+                                         . 
+
+1. Δηπκνινγηθψο, ε αγγιηθή ιέμε measure (κέηξν) πξνέξρεηαη απφ ηελ ιαηηληθή mensura, ε 
+
+νπνία κε ηελ ζεηξά ηεο πξνέξρεηαη απφ ην ξήκα metiri, ην νπνίν ζρεηίδεηαη κε ηελ ειιεληθή 
+
+ιέμε κέηξνλ, πνπ είλαη ε εηπκνινγηθή ξίδα ησλ meter, metro–, –metric, θ.η.ι., θαη ζπζηαηηθφ 
+
+ηήο ιέμεσο symmetry θαη ησλ παξαγψγσλ ηεο (symmetric, asymmetry, θ.ν.θ.).  
+
+http://www.perseus.tufts.edu/hopper/morph?la=greek&l=ME%2FTRON#lexicon
+
+
+ESSAYS & LECTURES | PAPPAS 75 
+ 
+
+  
+
+ε ρξπζή αλαινγία, υ (= 1,6180339...), ηελ νπνία ν Δπθιείδεο νλνκαηνδφηεζε σο 
+
+αθξαία θαη κέζε αλαινγία,
+2
+ απνηειεί έλαλ επξέσο γλσζηφ καζεκαηηθφ νξηζκφ ηνχ 
+
+γεσκεηξηθνχ κέηξνπ (Δπθιείδεο, Σηνηρεία, Βηβι.6, oξηζκφο 3):  
+
+ 
+
+Έλα επζχγξακκν ηκήκα νξίδεηαη σο ηεηκεκέλν ζε αθξαία θαη κέζε 
+
+αλαινγία φηαλ ν ιφγνο φινπ ηνχ ηκήκαηνο σο πξνο ην κεγαιχηεξφ ηνπ 
+
+ηκήκα είλαη ίζνο πξνο ηνλ ιφγν ηνχ κεγαιπηέξνπ ηκήκαηνο σο πξνο ην 
+
+κηθξφηεξν.  
+
+ 
+
+(ἄκρον καὶ μζςον λόγον εὐκεῖα τετμῆςκαι λζγεται, ὅταν ᾖ ὡσ ἡ ὅλθ 
+
+πρὸσ τὸ μεῖηον τμῆμα, οὕτωσ τὸ μεῖηον πρὸσ τὸ ἔλαττον.)  
+
+ 
+
+Πξηλ αθφκε ν Δπθιείδεο πξνζδηνξίζεη ηνλ γεσκεηξηθφ ππνινγηζκφ ηνχ υ,       
+
+ν Φεηδίαο (πεξ. 480-430 π.Υ.) είρε ήδε δεκηνπξγήζεη κία δηαρξνληθή απνηχπσζε 
+
+ηνχ αηζζεηηθνύ κέηξνπ ζηελ γεσκεηξία θαη ηελ αξρηηεθηνληθή αλαδεηθλχνληαο 
+
+(―ζθαιίδνληαο‖)  απηφλ  ηνλ  ιφγν  ζε  κάξκαξν  (΢ρ. 1).  Ο  Παξζελψλαο  θαίλεηαη  λα 
+
+νξηνζεηείηαη λνεηηθψο απφ κηα Φηκπνλάηζηα αθνινπζία ρξπζώλ νξζνγσλίσλ:   Κάζε 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                         . 
+
+2. Ο ιφγνο υ απνηειεί ην αζπκπησηηθφ φξην ηήο αθνινπζίαο Fn  + 1 / Fn ηνχ Fibonacci θαη 
+
+―έρεη εκπλεχζεη θηινζφθνπο φισλ ησλ εηδηθνηήησλ φπσο νπδείο άιινο αξηζκφο ζηελ 
+
+ηζηνξία ησλ καζεκαηηθψλ.‖  [Mario Livio, The Golden Ratio: The Story of Phi, the World’s 
+
+Most Astonishing Number (New York: Broadway Books, 2002), 6].  
+
+΢ρ.1: Η Χξπζή Τνκή ζηελ Πξφζνςε ηνχ Παξζελψλνο  
+
+ 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fkron&la=greek&can=a%29%2Fkron0
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=a)/kron
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fson&la=greek&can=me%2Fson0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgon&la=greek&can=lo%2Fgon0&prior=me/son
+http://www.perseus.tufts.edu/hopper/morph?l=eu%29qei%3Da&la=greek&can=eu%29qei%3Da0&prior=lo/gon
+http://www.perseus.tufts.edu/hopper/morph?l=tetmh%3Dsqai&la=greek&can=tetmh%3Dsqai0&prior=eu)qei=a
+http://www.perseus.tufts.edu/hopper/morph?l=le%2Fgetai&la=greek&can=le%2Fgetai0&prior=tetmh=sqai
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Ftan&la=greek&can=o%28%2Ftan0&prior=le/getai
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%3D%7C&la=greek&can=h%29%3D%7C0&prior=o(/tan
+http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s0&prior=h)=|
+http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=w(s
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Flh&la=greek&can=o%28%2Flh0&prior=h(
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=o(/lh
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=mei%3Dzon&la=greek&can=mei%3Dzon0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=tmh%3Dma&la=greek&can=tmh%3Dma0&prior=mei=zon
+http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftws&la=greek&can=ou%28%2Ftws0&prior=tmh=ma
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C1&prior=ou(/tws
+http://www.perseus.tufts.edu/hopper/morph?l=mei%3Dzon&la=greek&can=mei%3Dzon1&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs1&prior=mei=zon
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C2&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Flatton&la=greek&can=e%29%2Flatton0&prior=to/
+http://www.amazon.com/The-Golden-Ratio-Worlds-Astonishing/dp/0767908163
+http://www.amazon.com/The-Golden-Ratio-Worlds-Astonishing/dp/0767908163
+
+
+76  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+νξζνγψλην έρεη κήθνο πνπ είλαη ην πξντφλ ηνχ πιάηνπο ηνπ επί υ, ελψ ην πιάηνο 
+
+ηνπ είλαη ην κήθνο ηνχ ακέζσο πξνεγνπκέλνπ νξζνγσλίνπ.
+3
+ Σν αηζζεηηθφ 
+
+απνηέιεζκα ηνχ ρξπζνύ νξζνγσλίνπ ζπλνςίδεηαη απφ ηνλ Joe Sachs σο εμήο:  
+
+ 
+
+Πνηεο είλαη νη ζσζηέο αλαινγίεο γηα ηελ είζνδν ζε έλαλ [αξραηνειιεληθφ] 
+
+λαφ; . . . Σν νξζνγψλην πνπ ζρεκαηίδεηαη απφ ηνχο θίνλεο έρεη 
+
+κεγαιχηεξν πιάηνο απφ ην χςνο ηνπ. Πφζν κεγαιχηεξν; Αξθεηφ ψζηε 
+
+λα κε θαίλεηαη ζπκπηεζκέλν, αιιά φρη ηφζν πνιχ πνπ ζα ην έθαλε λα 
+
+θαίλεηαη απηζρλαζκέλν (ηλψδεο). Αθήζηε ηελ θαληαζία ζαο λα ην 
+
+ζπκπηέζεη θαη λα ην ηεληψζεη γηα λα δείηε ηη πάεη ζηξαβά, θαη ζηε 
+
+ζπλέρεηα παξαηεξήζηε φηη γηα λα ην επαλαδηαηάμηε ζσζηά, ζχκθσλα κε 
+
+ηελ αηζζεηηθή ζαο, ζα πξέπεη λα ην επαλαθέξεηε ζε θάπνην πνιχ 
+
+ζπγθεθξηκέλν ζρήκα. Απηφ είλαη ην ρξπζό νξζνγώλην. Έρεη αλαπαξαρζεί 
+
+έθηνηε απζφξκεηα απφ θαιιηηέρλεο, αξρηηέθηνλεο θαη μπινπξγνχο ζε 
+
+θάζε ρξφλν θαη ηφπν.4  
+
+ 
+
+Αιιά πνιχ πξηλ απφ ηνλ Φεηδία θαη ηνλ Δπθιείδε, ε έλλνηα ηνχ κέηξνπ 
+
+απεηέιεζε έλα θνκβηθφ ζέκα ζηνλ αξραηνειιεληθφ πνιηηηζκφ, φπσο θαίλεηαη απφ 
+
+ηελ ζπρλή επαλάιεςε απηήο ηήο ελλνίαο ζηελ Οδχζζεηα ηνχ Οκήξνπ (ελδεηθηηθά, 
+
+ζην Bηβι. 2, ζη. 230,  Bηβι. 5, ζη. 9, Bηβι. 7, ζη. 310, Bηβι. 14, ζη. 434, Bηβι. 15, 
+
+ζη. 71, Bηβι. 17, ζη. 321, Bηβι. 21, ζη. 294, θαη Bηβι. 22, ζη. 46)—παξ' φηη ν 
+
+΋κεξνο ρξεζηκνπνηεί πξνο ηνχην ηελ ιέμε αἴςιμα αληί ηήο ιέμεσο κέηξνλ. Ωο 
+
+παξάδεηγκα, ζην Bηβι. 7, ζη. 310, ν Αιθίλννο αληηκεησπίδεη ηνλ Οδπζζέα κε ηελ 
+
+ίδηα θξάζε πνπ ρξεζηκνπνηεί ν Μελέιανο ζην Bηβι. 15, ζη. 71, φηαλ απεπζχλεηαη 
+
+ζηνλ Σειέκαρν: ―ἀμείνω δ᾽ αἴςιμα πάντα‖.  
+
+΢ην Οκεξηθφ ιεμηιφγην, αἴςιμα ζρεηίδεηαη κε Αἶςα, ηελ ζεά ησλ αξραίσλ 
+
+Διιήλσλ πνπ πξνζσπνπνηεί ηελ αλζξψπηλε κνίξα. Δπνκέλσο, θαηά εηπκνινγηθή 
+
+ζπλάθεηα, ε εθπεθξαζκέλε αληίιεςε ηνχ Οκήξνπ πεξί κέηξνπ πεξηιακβάλεη ηηο 
+
+έλλνηεο ηνχ εθ θύζεσο θαηαλεκεζέληνο κεξηδίνπ, ηχρεο ή δηαξθείαο δσήο, ζχκθσλα 
+
+ 
+
+ 
+ 
+
+                                         . 
+
+3. Σν 1909, ν Ακεξηθαλφο καζεκαηηθφο Mark Barr πξνζδηφξηζε ηελ ρξπζή αλαινγία κε ην 
+
+πεδφ ειιεληθφ γξάκκα υ, ην πξψην γξάκκα ζην φλνκα ηνχ Φεηδίνπ, γηα λα ηηκήζεη ηνλ 
+
+θιαζηθφ γιχπηε θαη αξρηηέθηνλα. (Theodore Andrea Cook, The Curves of Life [London: 
+
+Constable, 1914; reprinted in New York: Dover Publications, 1979], 420). Σν θεθαιαίν 
+
+γξάκκα Φ ρξεζηκνπνηείηαη ζπρλά γηα λα ζπκβνιίζεη ην αληίζηξνθν ηνχ υ, δειαδή                
+
+Φ = 1 / υ = 0.6180339.  .  .  
+
+ 
+
+4. Joe Sachs, ―Measure, Moderation, and the Mean,‖ The St. John’s Review, 46.2 (2002): 7. 
+
+Σν άξζξν είλαη πξνζβάζηκν ζηνλ αθφινπζν δηαδηθηπαθφ ζχλδεζκν:  
+
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf 
+
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D2%3Acard%3D224
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D5%3Acard%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D7%3Acard%3D287
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D14%3Acard%3D401
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D17%3Acard%3D290
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D21%3Acard%3D256
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D22%3Acard%3D42
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D7%3Acard%3D287
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/morph?l=a%29mei%2Fnw&la=greek&can=a%29mei%2Fnw0&prior=e)xqai/rh|sin
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%275&prior=a)mei/nw
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta1&prior=ai)/sima
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+https://www.google.gr/search?q=Theodore+Andrea+Cook%2C+The+Curves+of+Life&oq=Theodore+Andrea+Cook%2C+The+Curves+of+Life&aqs=chrome..69i57j0.512j0j7&sourceid=chrome&es_sm=93&ie=UTF-8
+https://www.google.gr/search?q=Theodore+Andrea+Cook%2C+The+Curves+of+Life&oq=Theodore+Andrea+Cook%2C+The+Curves+of+Life&aqs=chrome..69i57j0.512j0j7&sourceid=chrome&es_sm=93&ie=UTF-8
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+
+
+ESSAYS & LECTURES | PAPPAS 77 
+ 
+
+  
+
+κε ηελ κνίξα ή ην πεπξσκέλν θάζε αλζξψπνπ—δειαδή ζχκθσλα κε ηελ 
+
+ηδηνζπγθξαζία ηνπ θαη ζε ζπλάθεηα κε θνηλσληθνχο πεξηνξηζκνχο θαη θπζηθά φξηα. 
+
+Δπί πιένλ, ν ΋κεξνο ήηαλ ίζσο ν πξψηνο πνπ πξνζπάζεζε λα πξνζδηνξίζεη 
+
+πεξηγξαθηθψο ηελ έλλνηα ηνχ κέηξνπ ζηελ αλζξψπηλε θνηλσληθή αιιειεπίδξαζε. 
+
+΢ην 15.68-74, πξφηεηλε κία δπλακηθή θαη ππνθεηκεληθηζηηθή αληίιεςε πεξί 
+
+θνηλσληθνύ κέηξνπ παξαβάιινληαο ηηο (γεληθφηεξεο) θνηλσληθέο ζρέζεηο κεηαμχ 
+
+ησλ αλζξψπσλ δηα κηαο επζηφρνπ παξαβνιήο, πνπ αλαθέξεηαη ζηελ (εηδηθφηεξε) 
+
+ηζφξξνπε θνηλσληθή ζπκπεξηθνξά κεηαμχ νηθνδεζπφηνπ θαη θηινμελνπκέλνπ: 
+
+ 
+
+Σειέκαρε, δελ ζα ζε θξαηήζσ εδψ γηα πνιχ ρξφλν, φηαλ πξνηίζεζαη λα 
+
+αλαρσξήζεηο: Θα επηηηκνχζα κάιηζηα έλαλ άιινλ άλδξα πνπ, σο νηθνδε-
+
+ζπφηεο, είλαη ππεξβνιηθά επγεληθφο ή ππεξβνιηθά αγελήο έλαληη ηνχ 
+
+επηζθέπηνπ ηνπ  · ην κέηξν είλαη πάληνηε άξηζην. Γειαδή είλαη εμ ίζνπ 
+
+θαθφ γηα θάπνηνλ νηθνδεζπφηε αθ' ελφο ην λα επηζπεχδεη ηελ αλαρψξεζε 
+
+ηνχ θηινμελνκέλνπ ηνπ φηαλ απηφο δελ ζέιεη αθφκε λα ζπλερίζεη ηελ 
+
+πνξεία ηνπ, θαη αθ' εηέξνπ λα θαζπζηεξεί ηελ αλαρψξεζή ηνπ φηαλ απηφο 
+
+επείγεηαη λα αλαρσξήζεη. Ο νηθνδεζπφηεο πξέπεη λα ζπκπεξηθέξεηαη 
+
+πξνο ηνλ επηζθέπηε κε επγέλεηα θαηά ηελ δηάξθεηα ηήο θηινμελίαο, θαη λα 
+
+ηνλ αθήλεη λα θχγεη ακέζσο φηαλ ζέιεη.  
+
+ 
+
+(Τθλζμαχ᾽, οὔ τί ς᾽ ἐγϊ γε πολὺν χρόνον ἐνκάδ᾽ ἐρφξω ἱζμενον νόςτοιο· 
+
+νεμεςςῶμαι δὲ καὶ ἄλλῳ ἀνδρὶ ξεινοδόκῳ, ὅσ κ᾽ ἔξοχα μὲν φιλζῃςιν, 
+
+ἔξοχα δ᾽ ἐχκαίρῃςιν· ἀμείνω δ᾽ αἴςιμα πάντα. ἶςόν τοι κακόν ἐςκ᾽, ὅσ τ᾽ 
+
+οὐκ ἐκζλοντα νζεςκαι ξεῖνον ἐποτρφνει καὶ ὃσ ἐςςφμενον κατερφκει. 
+
+Xρὴ ξεῖνον παρεόντα φιλεῖν, ἐκζλοντα δὲ πζμπειν.) 
+
+ 
+
+΢ε ζεκαληηθφ βαζκφ, ην αξηζηνχξγεκα ηνχ Οκήξνπ απνηειεί κία πνηεηηθή 
+
+απφδνζε ηεζζάξσλ αιιειέλδεησλ ελλνηψλ: (1) αλζξψπηλν κέηξνλ · (2) ύβξηο, ήηνη 
+
+αθξαία εθηξνπή απφ ην κέηξν, φπσο ε ΢θαγή ηήο Σξνίαο, ή φπσο ε πεξηθξφλεζε 
+
+ηνχ Οδπζζέσο πξνο ηελ δχλακε ηήο Φχζεσο, κε ηελ κνξθή ηήο ξεηψο θαη έξγσ 
+
+εθπεθξαζκέλεο πεξηθξνλήζεψο ηνπ έλαληη ησλ ζεψλ, ή φπσο ε θαηαρξεζηηθή 
+
+ζπκπεξηθνξά ησλ κλεζηήξσλ ηήο Πελειφπεο θαηά ηελ δηάξθεηα ηήο απνπζίαο ηνχ 
+
+Οδπζζέσο · (3) Άηε, ε ζεά πνπ πξνζσπνπνηεί ηελ απηαπάηε θαη ηελ αλνεζία ή 
+
+―θνπηνπνλεξηά‖, πνπ δηέπνπλ ηελ δηάλνηα θάζε ππνθεηκέλνπ ύβξεσο, κε 
+
+απνηέιεζκα ηελ επηηάρπλζε ηήο παξαθκήο ή πηψζεψο ηνπ  · (4) Νέκεζηο, ε ζεά πνπ 
+
+πξνζσπνπνηεί ηελ δηθαηνζχλε θαη απνθαζηζηά ηελ θνηλσληθή ηζνξξνπία.  
+
+Πνιχ πξηλ απφ ηνλ ΋κεξν, νη έλλνηεο απηέο απεηθνλίζζεζαλ ζπκβνιηθά ζηνλ 
+
+κχζν ηνχ Ιθάξνπ. Ο Ίθαξνο πξνζπάζεζε λα μεθχγεη απφ ηελ Μηλστθή Κξήηε 
+
+πεηψληαο ζηνλ αέξα κε έλα ηερλεηφ ζχζηεκα δχν πηεξπγίσλ, θαηαζθεπαζκέλσλ 
+
+απφ θεξσκέλα πηεξά κηθξψλ πηελψλ, αιιά ππεξεθηίκεζε ηηο δπλαηφηεηέο ηνπ θαη 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/morph?l=*thle%2Fmax%27&la=greek&can=*thle%2Fmax%271&prior=*mene/laos
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29%2F&la=greek&can=ou%29%2F1&prior=*thle/max%27
+http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F0&prior=ou)/
+http://www.perseus.tufts.edu/hopper/morph?l=s%27&la=greek&can=s%270&prior=ti/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29gw%2F&la=greek&can=e%29gw%2F0&prior=s%27
+http://www.perseus.tufts.edu/hopper/morph?l=ge&la=greek&can=ge0&prior=e)gw/
+http://www.perseus.tufts.edu/hopper/morph?l=polu%5Cn&la=greek&can=polu%5Cn0&prior=ge
+http://www.perseus.tufts.edu/hopper/morph?l=xro%2Fnon&la=greek&can=xro%2Fnon0&prior=polu/n
+http://www.perseus.tufts.edu/hopper/morph?l=e%29nqa%2Fd%27&la=greek&can=e%29nqa%2Fd%270&prior=xro/non
+http://www.perseus.tufts.edu/hopper/morph?l=e%29ru%2Fcw&la=greek&can=e%29ru%2Fcw0&prior=e)nqa/d%27
+http://www.perseus.tufts.edu/hopper/morph?l=i%28e%2Fmenon&la=greek&can=i%28e%2Fmenon0&prior=e)ru/cw
+http://www.perseus.tufts.edu/hopper/morph?l=no%2Fstoio&la=greek&can=no%2Fstoio0&prior=i(e/menon
+http://www.perseus.tufts.edu/hopper/morph?l=nemessw%3Dmai&la=greek&can=nemessw%3Dmai0&prior=no/stoio
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C3&prior=nemessw=mai
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C2&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fllw%7C&la=greek&can=a%29%2Fllw%7C0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29ndri%5C&la=greek&can=a%29ndri%5C0&prior=a)/llw|
+http://www.perseus.tufts.edu/hopper/morph?l=ceinodo%2Fkw%7C&la=greek&can=ceinodo%2Fkw%7C0&prior=a)ndri/
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Fs&la=greek&can=o%28%2Fs1&prior=ceinodo/kw|
+http://www.perseus.tufts.edu/hopper/morph?l=k%27&la=greek&can=k%270&prior=o(/s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fcoxa&la=greek&can=e%29%2Fcoxa0&prior=k%27
+http://www.perseus.tufts.edu/hopper/morph?l=me%5Cn&la=greek&can=me%5Cn0&prior=e)/coxa
+http://www.perseus.tufts.edu/hopper/morph?l=file%2Fh%7Csin&la=greek&can=file%2Fh%7Csin0&prior=me/n
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fcoxa&la=greek&can=e%29%2Fcoxa1&prior=file/h|sin
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%274&prior=e)/coxa
+http://www.perseus.tufts.edu/hopper/morph?l=e%29xqai%2Frh%7Csin&la=greek&can=e%29xqai%2Frh%7Csin0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=a%29mei%2Fnw&la=greek&can=a%29mei%2Fnw0&prior=e)xqai/rh|sin
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%275&prior=a)mei/nw
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta1&prior=ai)/sima
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%3Dso%2Fn&la=greek&can=i%29%3Dso%2Fn0&prior=pa/nta
+http://www.perseus.tufts.edu/hopper/morph?l=toi&la=greek&can=toi0&prior=i)=so/n
+http://www.perseus.tufts.edu/hopper/morph?l=kako%2Fn&la=greek&can=kako%2Fn0&prior=toi
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sq%27&la=greek&can=e%29sq%270&prior=kako/n
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Fs&la=greek&can=o%28%2Fs2&prior=e)sq%27
+http://www.perseus.tufts.edu/hopper/morph?l=t%27&la=greek&can=t%270&prior=o(/s
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k0&prior=t%27
+http://www.perseus.tufts.edu/hopper/morph?l=e%29qe%2Flonta&la=greek&can=e%29qe%2Flonta0&prior=ou)k
+http://www.perseus.tufts.edu/hopper/morph?l=ne%2Fesqai&la=greek&can=ne%2Fesqai0&prior=e)qe/lonta
+http://www.perseus.tufts.edu/hopper/morph?l=cei%3Dnon&la=greek&can=cei%3Dnon0&prior=ne/esqai
+http://www.perseus.tufts.edu/hopper/morph?l=e%29potru%2Fnei&la=greek&can=e%29potru%2Fnei0&prior=cei=non
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C3&prior=e)potru/nei
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%5Cs&la=greek&can=o%28%5Cs0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29ssu%2Fmenon&la=greek&can=e%29ssu%2Fmenon0&prior=o(/s
+http://www.perseus.tufts.edu/hopper/morph?l=kateru%2Fkei&la=greek&can=kateru%2Fkei0&prior=e)ssu/menon
+http://www.perseus.tufts.edu/hopper/morph?l=xrh%5C&la=greek&can=xrh%5C0&prior=kateru/kei
+http://www.perseus.tufts.edu/hopper/morph?l=cei%3Dnon&la=greek&can=cei%3Dnon1&prior=xrh/
+http://www.perseus.tufts.edu/hopper/morph?l=pareo%2Fnta&la=greek&can=pareo%2Fnta0&prior=cei=non
+http://www.perseus.tufts.edu/hopper/morph?l=filei%3Dn&la=greek&can=filei%3Dn0&prior=pareo/nta
+http://www.perseus.tufts.edu/hopper/morph?l=e%29qe%2Flonta&la=greek&can=e%29qe%2Flonta1&prior=filei=n
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C4&prior=e)qe/lonta
+http://www.perseus.tufts.edu/hopper/morph?l=pe%2Fmpein&la=greek&can=pe%2Fmpein0&prior=de/
+
+
+78  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+παξαγλψξηζε ηηο δπλάκεηο ηήο Φχζεσο: Αγλφεζε ηηο ζπκβνπιέο ηνχ παηέξα ηνπ, 
+
+Γαηδάινπ, λα αθνινπζήζεη θαηά ηελ πηήζε ηνπ κία ―κέζε πνξεία‖ κεηαμχ ηήο 
+
+ζαιάζζεο θαη ζεξκφηεηνο ηνχ ειίνπ νχησο ψζηε ηα πηεξχγηά ηνπ νχηε λα βαξχ-
+
+λνπλ πγξαηλφκελα νχηε λα αθαληζζνχλ θαηφκελα. Ο Ίθαξνο φκσο πέηαμε ζηα χςε 
+
+θαηά πβξηζηηθό ηξφπν πξνο ηνλ ήιην, ν νπνίνο ζχληνκα έιησζε ην θεξί ζηα θηεξά 
+
+ηνπ, κε ηειηθφ απνηέιεζκα λα πέζεη ζηε ζάιαζζα θαη λα ράζεη ηελ δσή ηνπ.  
+
+Αιιά ν ΋κεξνο ήηαλ ν πξαγκαηηθά πξσηνπφξνο θηιφζνθνο φζνλ αθνξά ζηελ 
+
+έλλνηα ηνχ κέηξνπ. Γηα ησλ πνηεηηθψλ ηνπ αλαπαξαζηάζεσλ ζθηαγξάθεζε κία 
+
+ζηέξεα θηινζνθηθή βάζε ζρεηηθά κε ηηο ιεπηέο (νξηαθέο) ζρέζεηο κεηαμχ κέηξνπ, 
+
+χβξεσο, παξαλνίαο θαη δηθαηνζχλεο. Απηή ε βάζε απεηέιεζε ην ελλνηνινγηθφ 
+
+ζεκέιην γηα ηα κεηέπεηηα επηκειεκέλα έξγα ησλ θηινζφθσλ θαη ησλ ηξαγηθψλ ζηελ 
+
+πξνθιαζηθή θαη θιαζηθή πεξίνδν. Γηα παξάδεηγκα, ε έλλνηα ηνχ Οκήξνπ πεξί 
+
+κέηξνπ επαλαδηαηππψζεθε πνιχ αξγφηεξα απφ ηνλ Κιεφβνπιν ηνλ Ρφδην (απ. πεξί 
+
+ην 560 π.Υ.), έλαλ απφ ηνχο Δπηά ΢νθνχο ηήο αξραίαο Διιάδνο, κε ην πιένλ 
+
+δεκνθηιέο απφθζεγκά ηνπ ―μζτρον ἄριςτον‖, πνπ πξνθαλψο είλαη παξφκνην κε ην 
+
+Οκεξηθφ ―ἀμείνω δ᾽ αἴςιμα πάντα‖. Δπίζεο, αξγφηεξα, έλαο άιινο θηιφζνθνο, ν 
+
+Πξσηαγφξαο ν Αβδεξίηεο (πεξ. 490 - 420 π.Υ.), φξηζε ηελ έλλνηα ηνχ κέηξνπ ζε 
+
+ππνθεηκεληθηζηηθή (Οκεξηθή) βάζε, φπσο δηαηππψλεηαη επηγξακκαηηθά ζηνλ 
+
+Θεαίηεην ηνχ Πιάησλνο (170e):  
+
+ 
+
+Ο άλζξσπνο [είλαη] ην κέηξν φισλ ησλ ρξεζίκσλ πξαγκάησλ. 
+ 
+
+(πάντων χρθμάτων μζτρον ἄνκρωποσ.) 
+ 
+
+Δπί πιένλ, απηφ ην απφθζεγκα αλαθέξζεθε, ζρεδφλ ipsissima verba, απφ ηνλ 
+
+Πιάησλα (Θεαίηεηνο 152a) θαη αξγφηεξα απφ ηνλ ΢έμην Δκπεηξηθφ ζην έξγν ηνπ 
+
+Adversus Mathematicos (7.60):  
+
+ 
+
+[Ο Πξσηαγφξαο είπε φηη] ν άλζξσπνο είλαη ην κέηξν φισλ ησλ ρξεζίκσλ 
+
+πξαγκάησλ, δειαδή, ζε ζρέζε κελ κε εθείλα ηα πξάγκαηα πνπ ππάξρνπλ, 
+
+πψο είλαη, ζε ζρέζε δε κε εθείλα πνπ δελ ππάξρνπλ, πψο δελ είλαη.  
+ 
+
+([Πρωταγόρασ εἶπεν] ―πάντων χρθμάτων μζτρον‖ ἄνκρωπον εἶναι, 
+―τῶν μὲν ὄντων ὡσ ἔςτι, τῶν δὲ μὴ ὄντων ὡσ οὐκ ἔςτιν.‖ ) 
+
+ 
+
+΢εκεησηένλ φηη ην επαθξηβέο λφεκα ηήο παξαπάλσ δηαηππψζεσο (πνπ είλαη 
+
+ππνθεηκεληθηζηηθή θαη ρξεζηηθή) έρεη παξαιιαγεί ζε κεηαθξάζεηο ηφζν ζηελ 
+
+Αγγιηθή φζν θαη ζηε Νενειιεληθή. ΢ε φιεο ηηο κεηαθξάζεηο πνπ έρνπλ ππνπέζεη 
+
+ζηελ αληίιεςή κνπ, ην χρημάτων έρεη κεηαθξαζηεί ιαλζαζκέλα σο things (ζηελ 
+
+Αγγιηθή) ή πξαγκάησλ (ζηε Νενειιεληθή). Ωο απνηέιεζκα, κία ππεξβνιηθά 
+
+αλζξσπνθεληξηθή δηάζηαζε έρεη θαηαινγηζζεί ζηε δηαηχπσζε ηνχ Πξσηαγφξα, 
+
+σζάλ λα ζήκαηλε φηη ―ν άλζξσπνο είλαη ην θξηηήξην ησλ πάλησλ ζην ζχκπαλ‖.     
+
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Ftron&la=greek&can=me%2Ftron0&prior=*ba/kxou&d=Perseus:text:2008.01.0477:volume=1:text=29:section=2&i=1
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Friston&la=greek&can=a%29%2Friston0&prior=me/tron&d=Perseus:text:2008.01.0477:volume=1:text=29:section=2&i=1
+http://www.perseus.tufts.edu/hopper/morph?l=a%29mei%2Fnw&la=greek&can=a%29mei%2Fnw0&prior=e)xqai/rh|sin
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%275&prior=a)mei/nw
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta1&prior=ai)/sima
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D170d
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D170d
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fntwn&la=greek&can=pa%2Fntwn0&prior=pou
+http://www.perseus.tufts.edu/hopper/morph?l=xrhma%2Ftwn&la=greek&can=xrhma%2Ftwn0&prior=pa/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Ftron&la=greek&can=me%2Ftron0&prior=xrhma/twn
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fnqrwpon&la=greek&can=a%29%2Fnqrwpon0&prior=me/tron
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D152a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D152a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D152a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D152a
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fntwn&la=greek&can=pa%2Fntwn0&prior=pou
+http://www.perseus.tufts.edu/hopper/morph?l=xrhma%2Ftwn&la=greek&can=xrhma%2Ftwn0&prior=pa/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Ftron&la=greek&can=me%2Ftron0&prior=xrhma/twn
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fnqrwpon&la=greek&can=a%29%2Fnqrwpon0&prior=me/tron
+http://www.perseus.tufts.edu/hopper/morph?l=ei%29%3Dnai&la=greek&can=ei%29%3Dnai0&prior=a)/nqrwpon
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=ei)=nai
+http://www.perseus.tufts.edu/hopper/morph?l=me%5Cn&la=greek&can=me%5Cn0&prior=tw=n
+http://www.perseus.tufts.edu/hopper/morph?l=o%29%2Fntwn&la=greek&can=o%29%2Fntwn0&prior=me/n
+http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s0&prior=o)/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fsti&la=greek&can=e%29%2Fsti0&prior=w(s
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn1&prior=e)/sti
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C0&prior=tw=n
+http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=o%29%2Fntwn&la=greek&can=o%29%2Fntwn1&prior=mh/
+http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s1&prior=o)/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k0&prior=w(s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fstin&la=greek&can=e%29%2Fstin0&prior=ou)k
+http://www.perseus.tufts.edu/hopper/morph?l=xrhma%2Ftwn&la=greek&can=xrhma%2Ftwn0&prior=pa/ntwn
+
+
+ESSAYS & LECTURES | PAPPAS 79 
+ 
+
+  
+
+Δλ ηνχηνηο, ζηελ αξραία Διιεληθή, ε ιέμε ρξήκαηα δελ ζεκαίλεη ηα πάληα ζην 
+
+ζχκπαλ, αιιά κφλν πξάγκαηα πνπ ρξεηάδνληαη ή ρξεζηκνπνηνύληαη απφ ηνλ 
+
+άλζξσπν ζηε γε: Σν νπζηαζηηθφ ζρεηίδεηαη κε ην ξήκα χρῆςθαι, πνπ ζεκαίλεη 
+
+ρξεηάδνκαη ή ρξεζηκνπνηώ (χρῶμαι). Δλδεηθηηθά, ν Αξηζηνηέιεο δηεηχπσζε ηνλ 
+
+αθφινπζν νξηζκφ ζηα Ηζηθά Νηθνκάρεηα (1119b26):  
+
+ 
+
+Γηα ηνχ φξνπ ρξήκαηα ελλννχκε φια ηα πξάγκαηα ησλ νπνίσλ ε αμία 
+
+κεηξηέηαη κε λνκίζκαηα.  
+ 
+
+(χριματα λζγομεν πάντα ὅςων ἡ ἀξία νομίςματι μετρεῖται.)  
+
+ 
+
+Δπνκέλσο, ζην ππνθεηκεληθηζηηθφ πιαίζην ηνχ Πξσηαγφξα, ε έλλνηα ηνχ 
+
+κέηξνπ είλαη ζπλαθήο κφλνλ κε αλζξψπηλεο ηδηφηεηεο ή δξαζηεξηφηεηεο. Αιιά 
+
+ιίγν λσξίηεξα, ν Ηξάθιεηηνο (πεξ. 535-475 π.Υ.) είρε ήδε πξνρσξήζεη έλα βήκα 
+
+παξαπέξα, δηαιακβάλνληαο ην κέηξν σο έλα θπζηθφ θαηλφκελν, ή αθφκα θαη σο 
+
+ηελ ζεκειηψδε αξρή ηνχ θνζκηθνχ ζπζηήκαηνο.  
+
+Δηδηθφηεξα, ν Ηξάθιεηηνο δηεηχπσζε ηελ ζεσξία φηη θάζε εθδήισζε ύβξεσο  
+5
+ 
+
+επηθέξεη αδπζψπεηε ζεία ηηκσξία, πνπ πξνζσπνπνηείηαη απφ ηελ αλειέεηε ζεά 
+
+Νέκεζη. Σν φλνκα ηήο ζεάο είλαη ζρεηηθφ κε ην ξήκα λέκεηλ, πνπ ζεκαίλεη ην “λα 
+
+δηαλέκσ θαηαιιήισο”, απφ ην νπνίν παξάγεηαη επίζεο ε ειιεληθή ιέμε λόκνο, πνπ 
+
+ζεκαίλεη “έζηκν” ή “δίθαην” (φπσο ζηελ νηθνλνκία ή economy θαη αζηξνλνκία ή 
+
+astronomy). Κάζε παξαβίαζε ή θαηάθσξε αδηθία (ύβξηο) απφ ζλεηνχο ελαληίνλ 
+
+άιισλ ζλεηψλ δηαζαιεχεη ην “εθ θχζεσο αλαινγνχλ” πνζνζηφ (θπζηθψλ) 
+
+δηθαησκάησλ πνπ πξέπεη λα απνδίδεηαη ζηνπο αδηθνπκέλνπο (πβξηδνκέλνπο) 
+
+ζχκθσλα  κε  ην  πεπξσκέλν  ή  κνίξα  ελφο  εθάζηνπ.  ΢ε  απηφ  ην  πιαίζην  εζηθνχ  θαη 
+
+ 
+
+ 
+
+                                         . 
+
+5. Η έλλνηα ηήο ύβξεσο εηζήρζε ζηε ζχγρξνλε αθαδεκατθή βηβιηνγξαθία απφ ηνλ Friedrich 
+
+Nietzsche ζηε κε νινθιεξσζείζα πξαγκαηεία ηνπ Philosophy in the Tragic Age of the 
+
+Greeks (1873), ηελ νπνία ν ίδηνο ζπλδέεη ξεηά κε ηνλ Ηξάθιεηην. ―Απηή ε επηθίλδπλε ιέμε, 
+
+ε ύβξηο, απνηειεί πξάγκαηη ηελ ιπδία ιίζν γηα θάζε καζεηή ηνύ Ηξαθιείηνπ. Επ' απηήο ηήο 
+
+ελλνίαο ν καζεηήο ζα πξέπεη λα απνδείμεη εάλ έρεη θαηαλνήζεη ή εάλ απέηπρε λα αλαγλσξίζεη 
+
+ηνλ δηδάζθαιό ηνπ.‖ [Friedrich Nietzsche, Philosophy in the Tragic Age of   the Greeks, 
+
+trans. Mariann Cowan (Washington, D.C.: Regnery Publishing, 1962), 61.]  ΢ηελ Αγγιηθή, 
+
+ν φξνο ύβξηο (hubris) ζεκαίλεη ππεξβνιηθή ππεξεθάλεηα, ή ζξαζεία απηνπεπνίζεζε, ή 
+
+ππεξνςία, ήηνη ελ πνιινίο επξέσο δηαδεδνκέλεο ςπρνπαζνινγηθέο εθδειψζεηο. Δλ ηνχηνηο 
+
+ιίγνη ζχγρξνλνη αγγιφθσλνη έρνπλ επίγλσζε φηη ζπγγξαθείο ηήο ειιεληθήο θιαζηθήο 
+
+επνρήο εθαξκφδνπλ απηφλ ηνλ φξν ζε έλα κάιινλ εμεηδηθεπκέλν πιαίζην. Δλδεηθηηθά, ην 
+
+δεκνθηιέο αγγινακεξηθαληθφ ξεηφ ―ν νπξαλόο είλαη ην όξην‖ (the sky is the limit) ζα 
+
+εμειακβάλεην απφ πνιινχο θιαζηθνχο ζπγγξαθείο σο αξθεηά πβξηζηηθό (έλαληη ηήο 
+
+θχζεσο)—παξ' φηη σο ιατθφ ξεηφ, απηφ θαζ' εαπηφ, δελ ππνδειψλεη απαξαηηήησο ζξάζνο ή 
+
+ππεξνςία (αιιά νξκή ηήο ληόηεο θ.ν.θ.). 
+
+http://www.perseus.tufts.edu/hopper/morph?l=xrhma%2Ftwn&la=greek&can=xrhma%2Ftwn0&prior=pa/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dma&la=greek&can=xrh%3Dma0
+http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dma&la=greek&can=xrh%3Dma0
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3Dpos%3D54%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3Dpos%3D54%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3Dpos%3D54%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/morph?l=xrh%2Fmata&la=greek&can=xrh%2Fmata0&prior=paraxrh=ma
+http://www.perseus.tufts.edu/hopper/morph?l=le%2Fgomen&la=greek&can=le%2Fgomen0&prior=xrh/mata
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta0&prior=le/gomen
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Fswn&la=greek&can=o%28%2Fswn0&prior=pa/nta
+http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=o(/swn
+http://www.perseus.tufts.edu/hopper/morph?l=a%29ci%2Fa&la=greek&can=a%29ci%2Fa0&prior=h(
+http://www.perseus.tufts.edu/hopper/morph?l=nomi%2Fsmati&la=greek&can=nomi%2Fsmati0&prior=a)ci/a
+http://www.perseus.tufts.edu/hopper/morph?l=metrei%3Dtai&la=greek&can=metrei%3Dtai0&prior=nomi/smati
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta0&prior=le/gomen
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta0&prior=le/gomen
+http://cnqzu.com/library/Philosophy/neoreaction/Friedrich%20Nietzsche/Friedrich_Nietzsche%20-%20Philosophy_in_the_Tragic_Age_of_the_Greeks_(tr._Marianne_Cowan_1996).pdf
+http://cnqzu.com/library/Philosophy/neoreaction/Friedrich%20Nietzsche/Friedrich_Nietzsche%20-%20Philosophy_in_the_Tragic_Age_of_the_Greeks_(tr._Marianne_Cowan_1996).pdf
+
+
+80  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+θπζηθνχ λφκνπ, σο ύβξηο νξίδεηαη θάζε αλζξψπηλε δξαζηεξηφηεηα ή θπζηθφ 
+
+θαηλφκελν πνπ εμειίζζεηαη πέξαλ ησλ νξίσλ ηνχ κέηξνπ ή άλεπ κέηξνπ, φπσο π.ρ. 
+
+ππνδεινχηαη δηα ησλ ιέμεσλ πβξίδην/πβξηδηθόο, πβξηδνπνηώ, πβξηδνπνίεζε θ.η.ι. 
+
+(αγγιηζηί hybrid, hybridize, hybridization αληίζηνηρα). Σέηνηεο παξαβηάζεηο 
+
+απνθιίλνπλ απφ ηελ πξσηαξρηθή νπζία θαη ηελ ηειενινγηθή εμέιημε ηήο θχζεσο · 
+
+ηφηε παξεκβαίλεη ε εθδηθεηηθή Νέκεζηο σο δίθαηνο εμηζνξξνπηζηήο πνπ απνθαζηζηά 
+
+ηελ θπζηθή ηάμε, αλάγνληάο ηελ ζε έλα λέν επίπεδν ηζνξξνπίαο. ΢πλεπψο, απφ ηελ 
+
+Ηξαθιείηεηα αλαιπηηθή γσλία ζεάζεσο ηνχ θνζκηθνχ ζπζηήκαηνο, ε θχζε ηείλεη 
+
+πξνο αξκνληθή βηνπνηθηιφηεηα κέζσ ηζνξξφπνπ εμειίμεσο, ήηνη δηα δπλακηθήο 
+
+ηζνξξνπίαο, ε νπνία εκπνδίδεη (δηα ηήο Νεκέζεσο) θάζε πιάζκα ή είδνο απφ ην λα 
+
+αλαπηπρζεί ζε ηέηνην βαζκφ πνπ ηειηθά λα εθηνπίζεη φια ηα άιια πιάζκαηα ή είδε 
+
+ζηε θχζε. 
+ 
+
+Ο ελνπνηεκέλνο, δηαηεηαγκέλνο θφζκνο [ηνχ Ηξαθιείηνπ] είλαη έλαο θφ-
+
+ζκνο εμηζνξξνπεηηθψλ αιιαγψλ θαη επί πιένλ έλαο θφζκνο φπνπ επηθξα-
+
+ηνχλ νη ―λφκνη‖ ή θαλφλεο.  .  . . ―Η Δηθαηνζύλε [Νέκεζηο] ζα επηπέζεη ηειηθά 
+
+επί ησλ ςεπδνινγνύλησλ κεραλνξξάθσλ θαη επί ησλ ςεπδνκαξηύξσλ 
+
+ηνπο‖ (Απφζπαζκα 28β). Γεληθφηεξα, ηέηνηνη θαλφλεο κπνξνχλ λα πξνζ-
+
+δηνξηζζνχλ σο ―ζείνο λφκνο‖ ζηε θχζε, έλαο λφκνο πνπ είλαη ―θνηλφο‖ ή 
+
+θαζνιηθφο φζνλ αθνξά ζηελ πξνζβαζηκφηεηα θαη ηελ εθαξκνζηκφηεηά 
+
+ηνπ: ―Εθείλνη πνπ κηινύλ κε δηνξαηηθόηεηα πξέπεη λα βαζίδνληαη  ζηαζεξά 
+
+ζε απηό πνπ είλαη θνηλό ζε όινπο, όπσο ε πόιε-θξάηνο θάλεη επί ηνύ λόκνπ 
+
+— θαη κάιηζηα πνιύ πην ζηαζεξά! Δηόηη όινη νη αλζξώπηλνη λόκνη αληινύλ 
+
+ηελ δύλακή ηνπο από έλαλ [λφκν], ηνλ ζείν [λφκν]‖ (Απφζπαζκα 114). 
+
+Αιιά ε δηθαηνζχλε πνπ απνηειεί ηνλ θνζκηθφ λφκν είλαη ε δηθαηνζχλε 
+
+ηήο δηαηαξάμεσο θαη ηήο επαλαζηάζεσο, ηνχ πνιέκνπ θαη ηήο βίαο, φρη 
+
+κηα δηθαηνζχλε ηνχ βαιζάκνπ θαη ηήο επνπιψζεσο. ―Κάζε άλζξσπνο 
+
+πξέπεη λα ζπλεηδεηνπνηήζεη,‖ ιέεη, ―όηη ν πόιεκνο είλαη θνηλόο θαη ε 
+
+δηθαηνζύλε καρεηηθή, θαη όηη όια ηα πξάγκαηα πξνθύπηνπλ κέζα από 
+
+δηακάρεο θαη [λνκνηειεηαθψο] εληέιινληαη‖.  .  . Κάζε αιιαγή, νζνλδήπνηε 
+
+βηαία θαη αλ είλαη, είηε πξφθεηηαη γηα καθξναιιαγή ηήο θχζεσο θαη ηνχ 
+
+ζχκπαληνο είηε γηα πφιεκν κεηαμχ θξαηψλ, ή γηα πνιηηηθή ζχγθξνπζε,    
+
+ή γηα κάρε πνπ καίλεηαη ζηελ αλζξψπηλε θαξδηά, κπνξεί λα ζεσξεζεί 
+
+αλαπφζπαζην κέξνο ηνχ λφκνπ ή ηνχ [ζείνπ] ―ζρεδίνπ‖ πνπ ―αλαηαξάζζεη 
+
+όια ηα πξάγκαηα‖ παξάγνληαο, κέζσ ηήο αιιαγήο, εθείλε ηελ πςειφηεξε 
+
+ελφηεηα πνπ είλαη ν Κφζκνο.
+6  
+
+ 
+
+                                         . 
+
+6. T. M. Robinson, Heraclitus: Fragments, trans. and ed. T. M. Robinson (Toronto: 
+
+University of Toronto Press, 1987), 185. ΢εκεησηένλ επίζεο φηη ζην Απφζπαζκα 43 ν 
+
+Ηξάθιεηηνο ιέεη, ―ππάξρεη κεγαιχηεξε αλάγθε λα θαηαζβέζνπκε κία χβξη απ' φηη κία 
+
+καηλνκέλε ππξθατά‖ (απη. 33).   
+
+http://www.amazon.com/Heraclitus-Fragments-Phoenix-Presocractic-Series/dp/0802069134
+http://www.amazon.com/Heraclitus-Fragments-Phoenix-Presocractic-Series/dp/0802069134
+http://www.amazon.com/Heraclitus-Fragments-Phoenix-Presocractic-Series/dp/0802069134
+
+
+ESSAYS & LECTURES | PAPPAS 81 
+ 
+
+  
+
+Μηα παξφκνηα θνζκηθή πξννπηηθή ζεσξήζεσο ηνχ κέηξνπ δηαηππψλεηαη ζην 
+
+Κνξάλην, φπνπ ην κέηξν παξνπζηάδεηαη σο ην θχξην ραξαθηεξηζηηθφ ηήο ζνθίαο θαη 
+
+παληνδπλακίαο ηνχ Θενχ: 
+7
+ 
+
+ 
+
+ΔΚΔΙΝΟ΢ ζηνλ νπνίν αλήθεη ε βαζηιεία ησλ νπξαλψλ θαη ηήο γεο, 
+
+ΔΚΔΙΝΟ΢ πνπ δελ έρεη πξνζιάβεη πξνο Δαπηφλ θαλέλαλ πηφλ θαη δελ έρεη 
+
+ζπκκέηνρνλ εηο ην Βαζίιεην, είλαη ΔΚΔΙΝΟ΢ πνπ έρεη δεκηνπξγήζεη ηα 
+
+πάληα, θαη εληέιιεη γηα θάζε νλ ην θαηάιιειφ ηνπ κέηξν (Al-Furqan, 25:2).  
+
+ 
+
+Καη Πνίνο απέζηεηιε θάησ, απφ ηα χςε ησλ νπξαλψλ, χδσξ ελ κέηξσ; θαη 
+
+δη' απηνχ Δκείο αλαβηψζακε κία γε πνπ ήηαλ λεθξή; Αθφκα θαη κε απηφλ 
+
+ηνλ ηξφπν πξφθεηηαη θαη εζχ λα αλαγελλεζείο (Az-Zukhruf, 43:11).  
+
+ 
+
+Καη νπνηνζδήπνηε εκπηζηεχεηαη ηνλ Θεφλ, ζα εθνδηαζζεί επαξθψο απφ 
+
+ΔΚΔΙΝΟΝ. Ο Θεφο πξαγκαηνπνηεί ηνλ ζθνπφλ ηνπ. Ο Θεφο έρεη νξίζεη 
+
+έλα κέηξν γηα ην θάζε ηη (At-Talaq, 65:3).  
+
+ 
+
+Πξνθαλψο, ε Ιζιακηθή αλαθνξά ζην  θαηλφκελν ηήο βξνρνπηψζεσο, σο εθδε-
+
+ιψζεσο ηνχ ζείνπ κέηξνπ, είλαη ελαξκνληζκέλε κε ηελ δηαρξνληθή Ηξαθιείηεηα 
+
+έλλνηα ηνχ θνζκηθνύ κέηξνπ: Η βξνρφπησζε κπνξεί λα δηαθπκαίλεηαη ζε έληαζε 
+
+θαη δηάξθεηα ζηνλ ρσξνρξφλν, αιιά δελ είλαη νχηε ππεξβνιηθά κεγάιε (ζε βαζκφ 
+
+πνπ ζα θαηεπιεκκπξίδεην ε γε, κε απνηέιεζκα ηνλ θαζνιηθφ αθαληζκφ θάζε 
+
+κνξθήο δσήο), νχηε αλεπαξθψο ιίγε (ζε βαζκφ πνπ νπδεκία δσή ζηε γε ζα κπν-
+
+ξνχζε λα δηαηεξεζεί).  Δλ ηνχηνηο,  ηνπηθέο πιεκκχξεο ή μεξαζίεο ιακβάλνπλ  ρψξα   
+
+ 
+
+ 
+
+                                         . 
+
+7. Οη λενειιεληθέο κεηαθξάζεηο απνζπαζκάησλ ηνχ Κνξαλίνπ έγηλαλ απφ αληίζηνηρεο  
+
+αγγιηθέο κεηαθξάζεηο σο εμήο: Σν πξψην απφζπαζκα είλαη απφ ην The Holy Qur’an: 
+
+Arabic Text and English Translation, ed. and trans. Maulawi Sher Ali (Islamabad: Islam 
+
+International, 2004), 412· ηα επφκελα δχν απνζπάζκαηα ειήθζεζαλ απφ ηνλ A. J. Arberry, 
+
+The Koran Interpreted: A Translation (New York: Simon and Schuster, 1996), 199 and 284. 
+
+΢ην πξσηφηππν ηα ελ ιφγσ ηξία απνζπάζκαηα απφ ην Κνξάλην έρνπλ σο εμήο: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+      
+ 
+
+             
+ 
+
+ 
+
+               
+
+      
+
+ 
+
+ 
+
+ 
+ 
+
+43:11 
+
+25:2 
+
+65:3 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D11
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D11
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D11
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D11
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D65%3Averse%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D65%3Averse%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D65%3Averse%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D65%3Averse%3D3
+https://www.alislam.org/quran/Holy-Quran-English.pdf
+https://www.alislam.org/quran/Holy-Quran-English.pdf
+https://www.alislam.org/quran/Holy-Quran-English.pdf
+http://www.worldcat.org/title/koran-interpreted-a-translation/oclc/36047393
+http://www.worldcat.org/title/koran-interpreted-a-translation/oclc/36047393
+http://www.perseus.tufts.edu/hopper/morph?l=Al%7Ea*iy&la=ar&can=al%7Ea*iy0
+http://www.perseus.tufts.edu/hopper/morph?l=lahu&la=ar&can=lahu0&prior=Al~a*iy
+http://www.perseus.tufts.edu/hopper/morph?l=muloku&la=ar&can=muloku0&prior=lahu
+http://www.perseus.tufts.edu/hopper/morph?l=Als%7EamaAwaAti&la=ar&can=als%7Eamaawaati0&prior=muloku
+http://www.perseus.tufts.edu/hopper/morph?l=waAloOaroDi&la=ar&can=waalooarodi0&prior=Als~amaAwaAti
+http://www.perseus.tufts.edu/hopper/morph?l=walamo&la=ar&can=walamo0&prior=waAloOaroDi
+http://www.perseus.tufts.edu/hopper/morph?l=yat%7Ea&la=ar&can=yat%7Ea0&prior=walamo
+http://www.perseus.tufts.edu/hopper/morph?l=i*o&la=ar&can=i*o0&prior=yat~a
+http://www.perseus.tufts.edu/hopper/morph?l=waladFA&la=ar&can=waladfa0&prior=i*o
+http://www.perseus.tufts.edu/hopper/morph?l=walamo&la=ar&can=walamo1&prior=waladFA
+http://www.perseus.tufts.edu/hopper/morph?l=yakun&la=ar&can=yakun0&prior=walamo
+http://www.perseus.tufts.edu/hopper/morph?l=l%7Eahu&la=ar&can=l%7Eahu0&prior=yakun
+http://www.perseus.tufts.edu/hopper/morph?l=%24ariykN&la=ar&can=%24ariykn0&prior=l~ahu
+http://www.perseus.tufts.edu/hopper/morph?l=fiy&la=ar&can=fiy0&prior=$ariykN
+http://www.perseus.tufts.edu/hopper/morph?l=Alomuloki&la=ar&can=alomuloki0&prior=fiy
+http://www.perseus.tufts.edu/hopper/morph?l=Alomuloki&la=ar&can=alomuloki0&prior=fiy
+http://www.perseus.tufts.edu/hopper/morph?l=wa&la=ar&can=wa0&prior=Alomuloki
+http://www.perseus.tufts.edu/hopper/morph?l=alaqa&la=ar&can=alaqa0&prior=wa
+http://www.perseus.tufts.edu/hopper/morph?l=alaqa&la=ar&can=alaqa0&prior=wa
+http://www.perseus.tufts.edu/hopper/morph?l=%24ayo%27K&la=ar&can=%24ayo%27k0&prior=kul~a
+http://www.perseus.tufts.edu/hopper/morph?l=faqad%7Earahu&la=ar&can=faqad%7Earahu0&prior=$ayo%27K
+http://www.perseus.tufts.edu/hopper/morph?l=taqodiyrFA&la=ar&can=taqodiyrfa0&prior=faqad~arahu
+http://www.perseus.tufts.edu/hopper/morph?l=waAl%7Ea*iy&la=ar&can=waal%7Ea*iy0
+http://www.perseus.tufts.edu/hopper/morph?l=naz%7Eala&la=ar&can=naz%7Eala0&prior=waAl~a*iy
+http://www.perseus.tufts.edu/hopper/morph?l=mina&la=ar&can=mina0&prior=naz~ala
+http://www.perseus.tufts.edu/hopper/morph?l=Als%7EamaA%27&la=ar&can=als%7Eamaa%270&prior=mina
+http://www.perseus.tufts.edu/hopper/morph?l=maA%27&la=ar&can=maa%270&prior=Als~amaA%27
+http://www.perseus.tufts.edu/hopper/morph?l=biqadarK&la=ar&can=biqadark0&prior=maA%27
+http://www.perseus.tufts.edu/hopper/morph?l=faOan%24aronaA&la=ar&can=faoan%24aronaa0&prior=biqadarK
+http://www.perseus.tufts.edu/hopper/morph?l=bihi&la=ar&can=bihi0&prior=faOan$aronaA
+http://www.perseus.tufts.edu/hopper/morph?l=balodapF&la=ar&can=balodapf0&prior=bihi
+http://www.perseus.tufts.edu/hopper/morph?l=m%7EayotFA&la=ar&can=m%7Eayotfa0&prior=balodapF
+http://www.perseus.tufts.edu/hopper/morph?l=ka*alika&la=ar&can=ka*alika0&prior=m~ayotFA
+http://www.perseus.tufts.edu/hopper/morph?l=tu&la=ar&can=tu0&prior=ka*alika
+http://www.perseus.tufts.edu/hopper/morph?l=orajuwna&la=ar&can=orajuwna0&prior=tu
+http://www.perseus.tufts.edu/hopper/morph?l=wayarozuqohu&la=ar&can=wayarozuqohu0
+http://www.perseus.tufts.edu/hopper/morph?l=mino&la=ar&can=mino0&prior=wayarozuqohu
+http://www.perseus.tufts.edu/hopper/morph?l=Hayovu&la=ar&can=hayovu0&prior=mino
+http://www.perseus.tufts.edu/hopper/morph?l=laA&la=ar&can=laa0&prior=Hayovu
+http://www.perseus.tufts.edu/hopper/morph?l=yaHotasibu&la=ar&can=yahotasibu0&prior=laA
+http://www.perseus.tufts.edu/hopper/morph?l=waman&la=ar&can=waman0&prior=yaHotasibu
+http://www.perseus.tufts.edu/hopper/morph?l=yatawak%7Ealo&la=ar&can=yatawak%7Ealo0&prior=waman
+http://www.perseus.tufts.edu/hopper/morph?l=EalaY&la=ar&can=ealay0&prior=yatawak~alo
+http://www.perseus.tufts.edu/hopper/morph?l=All%7Eahi&la=ar&can=all%7Eahi0&prior=EalaY
+http://www.perseus.tufts.edu/hopper/morph?l=fahuwa&la=ar&can=fahuwa0&prior=All~ahi
+http://www.perseus.tufts.edu/hopper/morph?l=Hasobuhu&la=ar&can=hasobuhu0&prior=fahuwa
+http://www.perseus.tufts.edu/hopper/morph?l=Iin%7Ea&la=ar&can=iin%7Ea0&prior=Hasobuhu
+http://www.perseus.tufts.edu/hopper/morph?l=All%7Eaha&la=ar&can=all%7Eaha0&prior=Iin~a
+http://www.perseus.tufts.edu/hopper/morph?l=baAligu&la=ar&can=baaligu0&prior=All~aha
+http://www.perseus.tufts.edu/hopper/morph?l=Oamorihi&la=ar&can=oamorihi0&prior=baAligu
+http://www.perseus.tufts.edu/hopper/morph?l=qado&la=ar&can=qado0&prior=Oamorihi
+http://www.perseus.tufts.edu/hopper/morph?l=qado&la=ar&can=qado0&prior=Oamorihi
+http://www.perseus.tufts.edu/hopper/morph?l=All%7Eahu&la=ar&can=all%7Eahu0&prior=jaEala
+http://www.perseus.tufts.edu/hopper/morph?l=likul%7Ei&la=ar&can=likul%7Ei0&prior=All~ahu
+http://www.perseus.tufts.edu/hopper/morph?l=%24ayo%27K&la=ar&can=%24ayo%27k0&prior=likul~i
+http://www.perseus.tufts.edu/hopper/morph?l=qadorFA&la=ar&can=qadorfa0&prior=$ayo%27K
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D43%3Averse%3D11
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D25%3Averse%3D2
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D65%3Averse%3D3
+
+
+82  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+πεξηζηαζηαθά πξνθεηκέλνπ λα ―αλαηαξάζζoπλ ηα πξάγκαηα‖ ζε ηνπηθφ επίπεδν ελφο 
+
+επξπηέξνπ θπζηθνχ πεξηβάιινληνο ηείλνπζεο φκσο πάληνηε πξνο κηα λέα δπλακηθή 
+
+ηζνξξνπία ζε ―εθείλε ηελ πςειόηεξε ελόηεηα πνπ είλαη ν Κόζκνο.‖ 
+
+Έλα ηζηνξηθφ παξάδεηγκα εθαξκνγήο ηνχ Ηξαθιεηηείνπ αλαιπηηθνχ πιαηζίνπ 
+
+πεξί κέηξνπ είλαη ε δηαιεθηηθή πξνζπάζεηα ηνχ Αξηαβάλνπ λα απνηξέςεη ηνχο 
+
+Πέξζεο απφ ην λα επηδηψμνπλ λα δηεπξχλνπλ ηελ απηνθξαηνξία ηνπο ζηελ Δπξψπε. 
+
+΢πγθεθξηκέλα, ν Αξηάβαλνο έδσζε ηελ παξαθάησ ζηξαηεγηθή ζπκβνπιή ζηνλ 
+
+Ξέξμε, ηφηε πνπ πξνεηνηκάδεην λα εηζβάιεη ζηελ Διιάδα:
+8  
+
+ 
+
+Βιέπεηο πψο ν Θεφο δελ επηηξέπεη ζηα κεγαιχηεξα δψα λα θαηαζηνχλ 
+
+αλαηδψο πεξηθαλή,  δεδνκέλνπ φηη θαη' απηψλ ν Θεφο εμαθνληίδεη ηνχο 
+
+θεξαπλνχο Tνπ [σο πςεινηέξσλ] παξά θαηά ησλ κηθξνηέξσλ δψσλ πνπ 
+
+νπδέπνηε Tνλ πξνζβάιινπλ; Βιέπεηο επίζεο φηη ξίρλεη απηά ηα βέιε Tνπ 
+
+[θεξαπλνχο] ζηα πςειφηεξα δέλδξα; Γηφηη ν Θεφο ηείλεη λα αλαζρέζεη 
+
+θαη ζκηθξχλεη θάζε ηη πνπ ππεξέρεη. Παξνκνίσο, αθφκε θαη έλαο ηζρπξφο 
+
+ζηξαηφο θαηαηξνπψλεηαη απφ έλαλ κηθξφ ζηξαηφ, θάζε θνξά πνπ ν Θεφο 
+
+ιφγσ ηήο νξγήο Tνπ εθζέηεη ηνλ πξψην ζε θφβν [αηζζήκαηα ηξφκνπ] ή 
+
+θαηαηγίδα [θπζηθέο θαηαζηξνθέο], δηα ησλ νπνίσλ κεγάινη ζηξαηνί 
+
+θαηαζηξέθνληαη θαηά ηξφπν πνπ δελ ζπλάδεη κε ηελ αμία ηνπο. Δπεηδή ν 
+
+Θεφο δελ επηηξέπεη ζε θαλέλαλ λα ζεσξεί φηη είλαη κέγαο, εθηφο απφ ηνλ 
+
+Δαπηφλ Σνπ.  
+
+ 
+
+(῾Oρᾷσ τὰ ὑπερζχοντα ηῷα ὡσ κεραυνοῖ ὁ κεὸσ οὐδὲ ἐᾷ φαντάηεςκαι, 
+
+τὰ δὲ ςμικρὰ οὐδζν μιν κνίηει· ὁρᾷσ δὲ ὡσ ἐσ οἰκιματα τὰ μζγιςτα αἰεὶ 
+
+καὶ δζνδρεα τὰ τοιαῦτα ἀποςκιπτει τὰ βζλεα· φιλζει γὰρ ὁ κεὸσ τὰ 
+
+ὑπερζχοντα πάντα κολοφειν. Οὕτω δὲ καὶ ςτρατὸσ πολλὸσ ὑπὸ ὀλίγου 
+
+διαφκείρεται κατὰ τοιόνδε· ἐπεάν ςφι ὁ κεὸσ φκονιςασ φόβον ἐμβάλῃ 
+
+ἢ βροντιν, δι᾽ ὦν ἐφκάρθςαν ἀναξίωσ ἑωυτῶν. Οὐ γὰρ ἐᾷ φρονζειν 
+
+μζγα ὁ κεὸσ ἄλλον ἢ ἑωυτόν.) 
+
+ 
+
+Ο Ξέξμεο, δηαηειψλ ππφ ηελ επήξεηα ηήο Άηεο, δηέπξαμε ην θαηαζηξνθηθφ 
+
+(πβξηζηηθφ) ιάζνο λα αγλνήζεη ηελ ζνθή (Ηξαθιείηεηα) ζπκβνπιή ηνχ Αξηαβάλνπ: 
+
+Η πάγηα ζχδεπμε ηήο χβξεσο θαη ηήο λεκέζεσο— ε νπνία εκθαλίδεηαη ζε θιαζηθέο 
+
+ηξαγσδίεο, φπσο Οηδίπνπο Τύξαλλνο ηνχ ΢νθνθιένπο, Αγακέκλσλ ηνχ Αηζρχινπ 
+
+θαη Ιππόιπηνο ηνχ Δπξηπίδνπ—ζρεηίδεηαη ζρεδφλ πάληνηε κε ηελ Οκεξηθή ζεά Άηε, 
+
+φπσο ζπλνςίδεηαη επηγξακκαηηθά ζην παξαθάησ απφζπαζκα απφ ρνξηθφ ηνχ 
+
+΢νθνθιένπο ζηελ Αληηγόλε (621-625):  
+
+ 
+
+                                         . 
+
+8. Ηξφδνηνο, Ιζηνξίαη, 7.10e. 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/morph?l=o%28ra%3D%7Cs&la=greek&can=o%28ra%3D%7Cs0
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C0&prior=o(ra=|s
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pere%2Fxonta&la=greek&can=u%28pere%2Fxonta0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=zw%3D%7Ca&la=greek&can=zw%3D%7Ca0&prior=u(pere/xonta
+http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s0&prior=zw=|a
+http://www.perseus.tufts.edu/hopper/morph?l=keraunoi%3D&la=greek&can=keraunoi%3D0&prior=w(s
+http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%280&prior=keraunoi=
+http://www.perseus.tufts.edu/hopper/morph?l=qeo%5Cs&la=greek&can=qeo%5Cs0&prior=o(
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%5C&la=greek&can=ou%29de%5C0&prior=qeo/s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29a%3D%7C&la=greek&can=e%29a%3D%7C0&prior=ou)de/
+http://www.perseus.tufts.edu/hopper/morph?l=fanta%2Fzesqai&la=greek&can=fanta%2Fzesqai0&prior=e)a=|
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C1&prior=fanta/zesqai
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=smikra%5C&la=greek&can=smikra%5C0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%2Fn&la=greek&can=ou%29de%2Fn0&prior=smikra/
+http://www.perseus.tufts.edu/hopper/morph?l=min&la=greek&can=min0&prior=ou)de/n
+http://www.perseus.tufts.edu/hopper/morph?l=kni%2Fzei&la=greek&can=kni%2Fzei0&prior=min
+http://www.perseus.tufts.edu/hopper/morph?l=o%28ra%3D%7Cs&la=greek&can=o%28ra%3D%7Cs1&prior=kni/zei
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C1&prior=o(ra=|s
+http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s1&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29s&la=greek&can=e%29s0&prior=w(s
+http://www.perseus.tufts.edu/hopper/morph?l=oi%29kh%2Fmata&la=greek&can=oi%29kh%2Fmata0&prior=e)s
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C2&prior=oi)kh/mata
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fgista&la=greek&can=me%2Fgista0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29ei%5C&la=greek&can=ai%29ei%5C0&prior=me/gista
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=ai)ei/
+http://www.perseus.tufts.edu/hopper/morph?l=de%2Fndrea&la=greek&can=de%2Fndrea0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C3&prior=de/ndrea
+http://www.perseus.tufts.edu/hopper/morph?l=toiau%3Dta&la=greek&can=toiau%3Dta0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29poskh%2Fptei&la=greek&can=a%29poskh%2Fptei0&prior=toiau=ta
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C4&prior=a)poskh/ptei
+http://www.perseus.tufts.edu/hopper/morph?l=be%2Flea&la=greek&can=be%2Flea0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=file%2Fei&la=greek&can=file%2Fei0&prior=be/lea
+http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr0&prior=file/ei
+http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%281&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=qeo%5Cs&la=greek&can=qeo%5Cs1&prior=o(
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C5&prior=qeo/s
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pere%2Fxonta&la=greek&can=u%28pere%2Fxonta1&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta0&prior=u(pere/xonta
+http://www.perseus.tufts.edu/hopper/morph?l=kolou%2Fein&la=greek&can=kolou%2Fein0&prior=pa/nta
+http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftw&la=greek&can=ou%28%2Ftw0&prior=kolou/ein
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C2&prior=ou(/tw
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=strato%5Cs&la=greek&can=strato%5Cs0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=pollo%5Cs&la=greek&can=pollo%5Cs0&prior=strato/s
+http://www.perseus.tufts.edu/hopper/morph?l=u%28po%5C&la=greek&can=u%28po%5C0&prior=pollo/s
+http://www.perseus.tufts.edu/hopper/morph?l=o%29li%2Fgou&la=greek&can=o%29li%2Fgou0&prior=u(po/
+http://www.perseus.tufts.edu/hopper/morph?l=diafqei%2Fretai&la=greek&can=diafqei%2Fretai0&prior=o)li/gou
+http://www.perseus.tufts.edu/hopper/morph?l=kata%5C&la=greek&can=kata%5C0&prior=diafqei/retai
+http://www.perseus.tufts.edu/hopper/morph?l=toio%2Fnde&la=greek&can=toio%2Fnde0&prior=kata/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29pea%2Fn&la=greek&can=e%29pea%2Fn0&prior=toio/nde
+http://www.perseus.tufts.edu/hopper/morph?l=sfi&la=greek&can=sfi0&prior=e)pea/n
+http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%282&prior=sfi
+http://www.perseus.tufts.edu/hopper/morph?l=qeo%5Cs&la=greek&can=qeo%5Cs2&prior=o(
+http://www.perseus.tufts.edu/hopper/morph?l=fqonh%2Fsas&la=greek&can=fqonh%2Fsas0&prior=qeo/s
+http://www.perseus.tufts.edu/hopper/morph?l=fo%2Fbon&la=greek&can=fo%2Fbon0&prior=fqonh/sas
+http://www.perseus.tufts.edu/hopper/morph?l=e%29mba%2Flh%7C&la=greek&can=e%29mba%2Flh%7C0&prior=fo/bon
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C0&prior=e)mba/lh|
+http://www.perseus.tufts.edu/hopper/morph?l=bronth%2Fn&la=greek&can=bronth%2Fn0&prior=h)/
+http://www.perseus.tufts.edu/hopper/morph?l=di%27&la=greek&can=di%270&prior=bronth/n
+http://www.perseus.tufts.edu/hopper/morph?l=w%29%3Dn&la=greek&can=w%29%3Dn0&prior=di%27
+http://www.perseus.tufts.edu/hopper/morph?l=e%29fqa%2Frhsan&la=greek&can=e%29fqa%2Frhsan0&prior=w)=n
+http://www.perseus.tufts.edu/hopper/morph?l=a%29naci%2Fws&la=greek&can=a%29naci%2Fws0&prior=e)fqa/rhsan
+http://www.perseus.tufts.edu/hopper/morph?l=e%28wutw%3Dn&la=greek&can=e%28wutw%3Dn0&prior=a)naci/ws
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%290&prior=e(wutw=n
+http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr1&prior=ou)
+http://www.perseus.tufts.edu/hopper/morph?l=e%29a%3D%7C&la=greek&can=e%29a%3D%7C1&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=frone%2Fein&la=greek&can=frone%2Fein0&prior=e)a=|
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fga&la=greek&can=me%2Fga0&prior=frone/ein
+http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%283&prior=me/ga
+http://www.perseus.tufts.edu/hopper/morph?l=qeo%5Cs&la=greek&can=qeo%5Cs3&prior=o(
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fllon&la=greek&can=a%29%2Fllon0&prior=qeo/s
+http://www.perseus.tufts.edu/hopper/morph?l=e%28wuto%2Fn&la=greek&can=e%28wuto%2Fn0&prior=h)/
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+
+
+ESSAYS & LECTURES | PAPPAS 83 
+ 
+
+  
+
+Σν θαθφ θαίλεηαη φηη είλαη (δήζελ) θαιφ, λσξίηεξα παξά αξγφηεξα,  
+
+ζε εθείλνλ πνπ ην κπαιφ ηνπ ν Θεφο ην πξνζάγεη ζηελ Άηε. 
+
+Σφηε δε [απηφο ν άλζξσπνο] δηαηειεί κφλν γηα ειάρηζην ρξφλν 
+
+εθηφο ηνχ ειέγρνπ ηήο Άηεο. 
+ 
+
+(τὸ κακὸν δοκεῖν ποτ᾽ ἐςκλὸν τῷδ᾽ ἔμμεν  
+
+ὅτῳ φρζνασ κεὸσ ἄγει πρὸσ ἄταν· 
+
+πράςςει δ᾽ ὀλίγιςτον χρόνον ἐκτὸσ ἄτασ.)  
+ 
+
+΢πλνπηηθά, ε Άηε ελζηαιάδεη ζχγρπζε ζην κπαιφ θάζε ππνθεηκέλνπ πβξηζηηθήο 
+
+ζπκπεξηθνξάο, θαη ηνηνπηνηξφπσο πξνζσπνπνηεί απηνθαηαζηξνθηθά ζχλδξνκα, 
+
+φπσο ακπληηθή απνθπγή (defensive avoidance), ππεξεγξήγνξζε (overvigilance), 
+
+αληηδξαζηηθφηεηα (reactivity), θαη άξλεζε ηήο πξαγκαηηθφηεηνο (denial), ήηνη 
+
+εκκνληθέο ςπρνδηαλνεηηθέο δηαηαξαρέο πνπ έρνπλ νδεγήζεη πνιιέο νηθνλνκίεο, 
+
+ζηξαηνχο, θξάηε θαη απηνθξαηνξίεο ζηελ θαηαζηξνθή ή αθφκε θαη ζε παηαγψδε 
+
+θαηάξξεπζε.  
+ 
+
+2. Το Απιστοτέλειο μέσον 
+
+ 
+
+Τπφ ην πξίζκα ησλ ζνβαξνηάησλ ζπλεπεηψλ ηήο χβξεσο, θαζίζηαηαη πξνθαλέο φηη 
+
+έλαο νξηζκφο ηνχ κέηξνπ έρεη θξίζηκε ζεκαζία: Δάλ δελ ππάξρεη έλαο ζαθήο θαη 
+
+νινθιεξσκέλνο νξηζκφο ηνχ κέηξνπ, ηφηε νη άλζξσπνη ίζσο λα κελ είλαη ζε ζέζε 
+
+λα αληρλεχνπλ εγθαίξσο (ψζηε λα απνθεχγνπλ) θαηαζηξνθηθέο πβξηζηηθέο εθηξνπέο 
+
+απφ απηφ. Σφηε ην κέιινλ θάζε θξάηνπο ζα είλαη επηζθαιέο, δηφηη νη εγέηεο ηνπ ζα 
+
+δηαηεινχλ ζε θαηάζηαζε αγλσζίαο ή ζπγρχζεσο πεξί ηνχ ηη ζπληζηά απνηειεζκα-
+
+ηηθή θαη βηψζηκε άζθεζε πνιηηηθήο, ε νπνία πξνυπνζέηεη κέηξν ζηελ αλζξψπηλε 
+
+ζπκπεξηθνξά θαη ηζνξξνπία ζηελ πνιηηηθννηθνλνκηθή νξγάλσζε. 
+
+Απηέο νη εθηηκήζεηο θαηέηξπραλ ηνλ Αξηζηνηέιε, ν νπνίνο έδεζε ζηελ επνρή 
+
+ηήο παξαθκήο ηήο θιαζηθήο Διιάδνο θαη ηήο αλφδνπ ηήο Μαθεδνληθήο εγεκνλίαο. 
+
+Ο Πιάησλ, δάζθαινο ηνχ Αξηζηνηέινπο, θαηέζηε απηφπηεο κάξηπο ηήο θαηαξξεχ-
+
+ζεσο ηήο Αζελατθήο δεκνθξαηίαο θαηά ηνλ πβξηζηηθφ Πεινπνλλεζηαθφ πφιεκν 
+
+(431-404 π.Υ.). Δθείλνο ν εκθχιηνο πφιεκνο, πνπ δηεμήρζε κεηαμχ ειιεληθψλ 
+
+πφιεσλ-θξαηψλ, θαηέδεημε φηη, παξ' φιν πνπ νη Έιιελεο είραλ επηθξαηήζεη 
+
+ζηξαηησηηθψο θαηά ηελ δηάξθεηα ησλ δχν πεξζηθψλ εηζβνιψλ ην 490-479 π.Υ.,     
+
+ελ ηνχηνηο ηειηθά νη Πέξζεο θαηίζρπζαλ ηφηε ησλ Διιήλσλ πνιηηηζκηθψο. Καηά ηελ 
+
+δηάξθεηα ησλ Πεξζηθψλ πνιέκσλ, νη Έιιελεο εμεηέζεζαλ ζε (θαη εμνηθεηψζεζαλ 
+
+βησκαηηθά κε) Αζηαηηθέο πιηζηηθέο αμίεο θαη εγεκνληθέο θηινδνμίεο. ΢ηνλ βαζκφ 
+
+πνπ εθείλεο νη αμίεο εκφιπλαλ ηελ ειιεληθή θνηλσλία, ηειηθά θαηέζηξεςαλ ην 
+
+κεγαιχηεξν κέξνο ηήο Διιάδνο. ΢ε κεγάιν βαζκφ, νη Πέξζεο αληηζηάζκηζαλ ηηο 
+
+απψιεηέο ηνπο ζην πεδίν ηήο κάρεο, ληθψληαο ηνλ ΋κεξν, ηνλ Ηξάθιεηην, θαη ηνχο 
+
+Σξαγηθνχο Πνηεηέο ζηελ πνιηηηθή αξέλα ηήο καηαηνδνμίαο θαη ηήο θηινδνμίαο. 
+
+Μεηά ηνχο Πεξζηθνχο πνιέκνπο, νη ληθεθφξνη Αζελαίνη απψιεζαλ ηελ κεηα-Οκεξηθή 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=pe/fantai
+http://www.perseus.tufts.edu/hopper/morph?l=kako%5Cn&la=greek&can=kako%5Cn0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=dokei%3Dn&la=greek&can=dokei%3Dn0&prior=kako/n
+http://www.perseus.tufts.edu/hopper/morph?l=pot%27&la=greek&can=pot%270&prior=dokei=n
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sqlo%5Cn&la=greek&can=e%29sqlo%5Cn0&prior=pot%27
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7Cd%27&la=greek&can=tw%3D%7Cd%270&prior=e)sqlo/n
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fmmen&la=greek&can=e%29%2Fmmen0&prior=tw=|d%27
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Ftw%7C&la=greek&can=o%28%2Ftw%7C0&prior=e)/mmen
+http://www.perseus.tufts.edu/hopper/morph?l=fre%2Fnas&la=greek&can=fre%2Fnas0&prior=o(/tw|
+http://www.perseus.tufts.edu/hopper/morph?l=qeo%5Cs&la=greek&can=qeo%5Cs0&prior=fre/nas
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fgei&la=greek&can=a%29%2Fgei0&prior=qeo/s
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=a)/gei
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Ftan&la=greek&can=a%29%2Ftan0&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=pra%2Fssei&la=greek&can=pra%2Fssei0&prior=*xoro/s
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%272&prior=pra/ssei
+http://www.perseus.tufts.edu/hopper/morph?l=o%29li%2Fgiston&la=greek&can=o%29li%2Fgiston0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=xro%2Fnon&la=greek&can=xro%2Fnon0&prior=o)li/giston
+http://www.perseus.tufts.edu/hopper/morph?l=e%29kto%5Cs&la=greek&can=e%29kto%5Cs0&prior=xro/non
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Ftas&la=greek&can=a%29%2Ftas0&prior=e)kto/s
+
+
+84  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+ηνπο αίζζεζε ηνύ κέηξνπ, θαη θαηά ζπλαθνινπζία έραζαλ ηελ επαθή ηνπο κε ηελ 
+
+πξαγκαηηθφηεηα. Μία έλδεημε πεξί απηνχ είλαη φηη νη Αζελαίνη εζεψξεζαλ ηελ 
+
+ζθαγή πνπ δηέπξαμαλ θαηά ησλ θαηνίθσλ ηήο Μήινπ, ην 416 π.Υ., σο κία επαξθψο 
+
+αηηηνινγεκέλε πξάμε (δήζελ) ζηξαηεγηθνχ πξαγκαηηζκνχ, φπσο πξνζδηφξηζαλ επη-
+
+γξακκαηηθά ζηνλ δηάινγφ ηνπο
+9
+ κε ηνχο πνιηνπξθνπκέλνπο Μειίνπο, φπνπ νη Αζε-
+
+λαίνη δηεθήξπμαλ ην επηιεγφκελν δίθαην ηνύ ηζρπξνηέξνπ, επί ιέμεη σο εμήο (5.89):  
+ 
+
+Σν δίθαην θαζνξίδεηαη ζηνλ αλζξψπηλν ιφγν βάζεη ηνχ θξηηεξίνπ ησλ 
+
+αλαγθψλ ησλ ίζσλ ζε δχλακε, αιιά ζηελ πξαγκαηηθφηεηα νη ηζρπξνί 
+
+θάλνπλ φ,ηη δχλαληαη θαη νη αδχλακνη φ,ηη εμαλαγθάδνληαη. 
+
+ 
+
+(Δίκαια μὲν ἐν τῷ ἀνκρωπείῳ λόγῳ ἀπὸ τῆσ ἴςθσ ἀνάγκθσ κρίνεται, 
+
+δυνατὰ δὲ οἱ προφχοντεσ πράςςουςι καὶ οἱ ἀςκενεῖσ ξυγχωροῦςιν.)  
+ 
+
+Οη Αζελαίνη είραλ πιένλ θαηαζηεί αλίθαλνη λα αμηνινγήζνπλ ην ηξνκαθηηθφ, 
+
+πβξηζηηθφ έγθιεκά ηνπο σο απηφ πνπ πξάγκαηη ήηαλ, ήηνη σο κία πξάμε 
+
+γελνθηνληαθήο βαξβαξφηεηνο—γηα ην νπνίν έγθιεκα επέπξσην λα ππνζηνχλ 
+
+ηειηθά ηελ ηηκσξία πνπ απαηηείηαη απφ ηελ θνζκηθή Γηθαηνζχλε (Νέκεζηο), φπσο 
+
+νξίδεηαη απφ ηνλ Ηξάθιεηην.  
+
+Δθείλε ηελ επνρή, ζα πξέπεη λα ήηαλ πξνθαλέο ζηνλ Αξηζηνηέιε φηη ε Διιάδα 
+
+είρε αξρίζεη ηελ απηνθαηαζηξνθηθή παξαθκηαθή ηξνρηά εθηξνπήο ηεο απφ ην κέηξν 
+
+ακέζσο κφιηο νη αλεμάξηεηεο πφιεηο-θξάηε κεηεμειίρζεζαλ ζε αιιεινεμαξηψκελα 
+
+κέιε αιιειναληαγσληδνκέλσλ ζπλνκνζπνλδηψλ θαη επεθηαηηθψλ ζπκκαρηψλ πνπ 
+
+ελεπιέθνλην κεηαμχ ηνπο ζε πνιεκηθέο επηρεηξήζεηο απνβιέπνπζεο ζε έλα 
+
+πβξηζηηθφ θαη εμσπξαγκαηηθφ έπαζιν: ζηελ πνιηηηθννηθνλνκηθή θπξηαξρία ηνπο εθ' 
+
+φιεο ηήο Διιάδνο θαη αθφκε πην πέξα—θάηη πνπ ζπληζηνχζε ζαθψο κία 
+
+εμνκνίσζε ηνχ αζηαηηθνχ (εμνπζηαζηηθνχ-πιηζηηθνχ) ππνδείγκαηνο. Δλδεηθηηθά, 
+
+απνηειεί ραξαθηεξηζηηθφ ηήο θιαζηθήο πεξηφδνπ φηη ν Παξζελψλαο αλεγέξζε κε 
+
+ηηο ρείξηζηεο ησλ αξρηθψλ πξνζέζεσλ: Γη' απηνχ, ν Πεξηθιήο επεδίσθε λα πξνβάιεη 
+
+ηελ πνιηηηζκηθή, πιηθή θαη εμνπζηαζηηθή δχλακε κηαο εγεκνληθήο Αζήλαο. Δπηπρψο 
+
+φκσο, κφλν θαη κφλνλ ιφγσ ηήο θαιιηηερληθήο ηδηνθπΐαο ηνχ Φεηδίνπ, ε Αζήλα 
+
+θαηφξζσζε ηειηθά λα αλεγείξεη κηα αμηνζαχκαζηε, δηαρξνληθή εθδήισζε ηνχ 
+
+κέηξνπ (δειαδή, ηήο σξαηφηεηνο, ηζνξξνπίαο θαη αξκνλίαο) αληί γηα έλα ηεξαηψδεο 
+
+κλεκείν καηαηνδνμίαο θαη θηινδνμίαο. 
+
+΢ε κία πξνζπάζεηα λα απνηξέςεη ηνλ αθαληζκφ ηνχ θιαζηθνχ ειιεληθνχ 
+
+πνιηηηζκνχ, ν Αξηζηνηέιεο πξνζπάζεζε δηα ηήο θηινζνθίαο ηνπ λα πξνζδηνξίζεη 
+
+κε αθξηβνινγηθή ζαθήλεηα ηα βαζηθά ραξαθηεξηζηηθά, ηηο εζηθέο αμίεο θαη ηηο 
+
+πνιηηηθέο αξρέο πνπ ζπκβνιίδνληαη απφ ηελ αξρηηεθηνληθή θαη ηελ γιππηηθή ηνχ 
+
+Παξζελψλνο.   ΢ηελ  πξαγκαηηθφηεηα  ν  Αξηζηνηέιεο  πξνζπάζεζε  λα  αλαβηψζεη  ην 
+
+ 
+
+                                         . 
+
+9. Θνπθπδίδεο, Πεινπνλλεζηαθόο Πόιεκνο, 5.84 - 111. 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D89%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D89%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D89%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D89%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/morph?l=di%2Fkaia&la=greek&can=di%2Fkaia0&prior=o(/ti
+http://www.perseus.tufts.edu/hopper/morph?l=me%5Cn&la=greek&can=me%5Cn165&prior=di/kaia
+http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n177&prior=me/n
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C81&prior=e)n
+http://www.perseus.tufts.edu/hopper/morph?l=a%29nqrwpei%2Fw%7C&la=greek&can=a%29nqrwpei%2Fw%7C0&prior=tw=|
+http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgw%7C&la=greek&can=lo%2Fgw%7C2&prior=a)nqrwpei/w|
+http://www.perseus.tufts.edu/hopper/morph?l=a%29po%5C&la=greek&can=a%29po%5C32&prior=lo/gw|
+http://www.perseus.tufts.edu/hopper/morph?l=th%3Ds&la=greek&can=th%3Ds110&prior=a)po/
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fshs&la=greek&can=i%29%2Fshs0&prior=th=s
+http://www.perseus.tufts.edu/hopper/morph?l=a%29na%2Fgkhs&la=greek&can=a%29na%2Fgkhs0&prior=i)/shs
+http://www.perseus.tufts.edu/hopper/morph?l=kri%2Fnetai&la=greek&can=kri%2Fnetai0&prior=a)na/gkhs
+http://www.perseus.tufts.edu/hopper/morph?l=dunata%5C&la=greek&can=dunata%5C2&prior=kri/netai
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C354&prior=dunata/
+http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%28237&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=prou%2Fxontes&la=greek&can=prou%2Fxontes0&prior=oi(
+http://www.perseus.tufts.edu/hopper/morph?l=pra%2Fssousi&la=greek&can=pra%2Fssousi0&prior=prou/xontes
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1067&prior=pra/ssousi
+http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%28238&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29sqenei%3Ds&la=greek&can=a%29sqenei%3Ds0&prior=oi(
+http://www.perseus.tufts.edu/hopper/morph?l=cugxwrou%3Dsin&la=greek&can=cugxwrou%3Dsin0&prior=a)sqenei=s
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D85%3Asection%3D1
+
+
+ESSAYS & LECTURES | PAPPAS 85 
+ 
+
+  
+
+Απνιιψλην πλεχκα ηήο Μάρεο ηνχ Μαξαζψλνο, φπνπ δχν αληηδηακεηξηθψο αληίζεηα 
+
+ζπζηήκαηα αμηψλ ζπλεθξνχζζεζαλ γηα πξψηε θνξά ζηελ ηζηνξία: ην ζχζηεκα 
+
+πιηζηηθψλ αμηψλ ηήο Αζίαο θαη ην ζχζηεκα ηδεαιηζηηθψλ αμηψλ ηήο πξνθιαζηθήο 
+
+Διιάδνο, ην πξψην κε ζηφρν ηελ εμνπζία, ην δεχηεξν κε ζθνπφ ηελ αξεηή, φπσο 
+
+πξνζδηνξίζζεθε κε παξξεζία απφ ηνλ ζηξαηεγφ ησλ Πεξζψλ Σηγξάλε, πηφ ηνχ 
+
+Αξηαβάλνπ, ελψπηνλ ηνχ Μαξδνλίνπ, αξρηζηξαηήγνπ ηνχ Ξέξμνπ (Ιζηνξίαη, 8.26c): 
+ 
+
+Αιινίκνλν Μαξδφληε, θαηά πνίσλ αλδξψλ κάο πξνζήγαγεο λα 
+
+εκπιαθνχκε ζε κάρε, νη νπνίνη δηεμάγνπλ ηνλ αγψλα φρη γηα πιηθά 
+
+νθέιε αιιά γηα ηελ αξεηή! 
+ 
+
+(παπαῖ Μαρδόνιε, κοίουσ ἐπ᾽ ἄνδρασ ἤγαγεσ μαχθςομζνουσ ἡμζασ, 
+
+οἳ οὐ περὶ χρθμάτων τὸν ἀγῶνα ποιoῦνται ἀλλὰ περὶ ἀρετῆσ.) 
+ 
+
+Δθείλε ε ζχγθξνπζε αμηψλ ππνδειψζεθε θαη ζην επίγξακκα επί ηνχ πεδίνπ ηήο 
+
+Μάρεο ηνχ Μαξαζψλνο, πνπ ιέγεηαη φηη ζπλεηάγε απφ ηνλ ΢ηκσλίδε ηνλ Κείν (πεξ. 
+
+556-468 π.Υ.):
+10  
+
+ 
+
+Οη Αζελαίνη, καρφκελνη σο εκπξνζζνθπιαθή ησλ Διιήλσλ,  
+
+απεζηέξεζαλ ηελ δχλακε απφ ηνχο ρξπζνθόξνπο Πέξζεο.  
+ 
+
+ ( Ἑλλινων προμαχοῦντεσ Ἀκθναῖοι Μαρακῶνι  
+
+χρυςοφόρων Μιδων ἐςτόρεςαν δφναμιν.)  
+ 
+
+Οη δπζθνιίεο ηνχ Αξηζηνηέινπο επεηείλνλην απφ ηνλ πιηζκφ ηήο επνρήο ηνπ. 
+
+Οη Έιιελεο, ήδε θαηεζηξακκέλνη απφ Αζηαηηθέο επηξξνέο, είραλ ηφηε απσιέζεη ηελ 
+
+αίζζεζε ηνύ κέηξνπ θαη είραλ παξαζπξζεί απφ ηνλ πφζν γηα πιηθή επεκεξία θαη 
+
+εμνπζηαζηηθή δχλακε. Η απψιεηα κίαο δηαηζζεηηθήο επηγλψζεσο ηνχ κέηξνπ είλαη 
+
+κάιινλ δχζθνιν λα αλαπιεξσζεί. Καηά ζπλέπεηα ν Αξηζηνηέιεο πξνζπάζεζε λα 
+
+παξσζήζεη ηνχο Έιιελεο λα απνθαηαζηήζνπλ ελ κέξεη ηελ αηζζεηηθή ηνπο 
+
+αληίιεςε πεξί κέηξνπ θαη ύβξεσο, απεπζπλφκελνο ζηε δηαλφεζή ηνπο παξά ζηελ 
+
+ςπρή ηνπο, κάιινλ δη' επηρεηξεκαηνινγίαο παξά δηα δηαηζζεηηθήο πξνζεγγίζεσο, 
+
+ήηνη κάιινλ δηα ηήο ινγηθήο παξά δηα ηήο αηζζεηηθήο. Δηδηθφηεξα, ν Αξηζηνηέιεο 
+
+δελ πξνζήγγηζε ηελ έλλνηα ηνχ κέηξνπ απιψο σο κηαο απηνλνήηνπ πξνυπνζέζεσο 
+
+πνπ εκθαλίδεηαη θαηά πξνθαλή ηξφπν σο ηζφξξνπε θπζηθή επκνξθία (αηζζεηηθή 
+
+νκνξθηά). Δλδεηθηηθά, δελ επηρεηξεκαηνιφγεζε φηη ε ζθαγή ηήο Μήινπ ζπληζηνχζε 
+
+κία πβξηζηηθή πξάμε επεηδή ήηαλ αηζζεηηθψο εθηξσκαηηθή, ήηνη άγξηα (καδηθά) 
+
+αηκνζηαγήο θαη αθχζηθα άζρεκε. Αλη' απηνχ, πξνζπάζεζε λα πξνζδηνξίζεη ην 
+
+κέηξν  θαη  ηελ  χβξη  ξεηψο,  δηα  ζαθνχο  νξηζκνχ,  θαη  ηνηνπηνηξφπσο  λα  θαηαδείμεη  
+ 
+
+                                         . 
+
+10. Lycurgus, Against Leocrates (1/109). 
+
+John H. Molyneux, Simonides: A Historical Study (Wauconda, Illinois: Bolchazy–
+
+Caducci, 1992), 150.  
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D26%3Asection%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D26%3Asection%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D26%3Asection%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D26%3Asection%3D3
+http://www.perseus.tufts.edu/hopper/morph?l=papai%3D&la=greek&can=papai%3D0&prior=ta/de
+http://www.perseus.tufts.edu/hopper/morph?l=*mardo%2Fnie&la=greek&can=*mardo%2Fnie0&prior=papai=
+http://www.perseus.tufts.edu/hopper/morph?l=koi%2Fous&la=greek&can=koi%2Fous0&prior=*mardo/nie
+http://www.perseus.tufts.edu/hopper/morph?l=e%29p%27&la=greek&can=e%29p%270&prior=koi/ous
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fndras&la=greek&can=a%29%2Fndras0&prior=e)p%27
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%2Fgages&la=greek&can=h%29%2Fgages0&prior=a)/ndras
+http://www.perseus.tufts.edu/hopper/morph?l=maxhsome%2Fnous&la=greek&can=maxhsome%2Fnous0&prior=h)/gages
+http://www.perseus.tufts.edu/hopper/morph?l=h%28me%2Fas&la=greek&can=h%28me%2Fas0&prior=maxhsome/nous
+http://www.perseus.tufts.edu/hopper/morph?l=oi%28%5C&la=greek&can=oi%28%5C0&prior=h(me/as
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%291&prior=oi(/
+http://www.perseus.tufts.edu/hopper/morph?l=peri%5C&la=greek&can=peri%5C0&prior=ou)
+http://www.perseus.tufts.edu/hopper/morph?l=xrhma%2Ftwn&la=greek&can=xrhma%2Ftwn0&prior=peri/
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn0&prior=xrhma/twn
+http://www.perseus.tufts.edu/hopper/morph?l=a%29gw%3Dna&la=greek&can=a%29gw%3Dna0&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=poieu%3Dntai&la=greek&can=poieu%3Dntai0&prior=a)gw=na
+http://www.perseus.tufts.edu/hopper/morph?l=a%29lla%5C&la=greek&can=a%29lla%5C0&prior=poieu=ntai
+http://www.perseus.tufts.edu/hopper/morph?l=peri%5C&la=greek&can=peri%5C1&prior=a)lla/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29reth%3Ds&la=greek&can=a%29reth%3Ds0&prior=peri/
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0151%3Aspeech%3D1%3Asection%3D109
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0151%3Aspeech%3D1%3Asection%3D109
+http://www.perseus.tufts.edu/hopper/morph?l=*%28ellh%2Fnwn&la=greek&can=*%28ellh%2Fnwn0&prior=progo/nois
+http://www.perseus.tufts.edu/hopper/morph?l=promaxou%3Dntes&la=greek&can=promaxou%3Dntes0&prior=*(ellh/nwn
+http://www.perseus.tufts.edu/hopper/morph?l=*%29aqhnai%3Doi&la=greek&can=*%29aqhnai%3Doi0&prior=promaxou=ntes
+http://www.perseus.tufts.edu/hopper/morph?l=*maraqw%3Dni&la=greek&can=*maraqw%3Dni0&prior=*)aqhnai=oi
+http://www.perseus.tufts.edu/hopper/morph?l=xrusofo%2Frwn&la=greek&can=xrusofo%2Frwn0&prior=*maraqw=ni
+http://www.perseus.tufts.edu/hopper/morph?l=*mh%2Fdwn&la=greek&can=*mh%2Fdwn0&prior=xrusofo/rwn
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sto%2Fresan&la=greek&can=e%29sto%2Fresan0&prior=*mh/dwn
+http://www.perseus.tufts.edu/hopper/morph?l=du%2Fnamin&la=greek&can=du%2Fnamin0&prior=e)sto/resan
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0151%3Aspeech%3D1%3Asection%3D109
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0151%3Aspeech%3D1%3Asection%3D109
+https://books.google.gr/books?id=E0KNpEHSmK4C&pg=PR2&lpg=PR2&dq=John+H.+Molyneux,+Simonides:+A+Historical+Study+(Wauconda,+Illinois:+Bolchazy%E2%80%93Carducci,+1992)&source=bl&ots=fW6aNN9mLt&sig=iPwEbkfnrgWTgqYW2jLfBaiuAlg&hl=el&sa=X&ved=0CB4Q6AEwAGoVChMIm
+https://books.google.gr/books?id=E0KNpEHSmK4C&pg=PR2&lpg=PR2&dq=John+H.+Molyneux,+Simonides:+A+Historical+Study+(Wauconda,+Illinois:+Bolchazy%E2%80%93Carducci,+1992)&source=bl&ots=fW6aNN9mLt&sig=iPwEbkfnrgWTgqYW2jLfBaiuAlg&hl=el&sa=X&ved=0CB4Q6AEwAGoVChMIm
+
+
+86  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+ζηνπο Έιιελεο φηη θάζε πξάμε βαξβαξφηεηνο είλαη πβξηζηηθή δηφηη ππεξβαίλεη 
+
+θαηά πνιχ ην κέηξν. Γηα ηνλ Αξηζηνηέιε, νη αθξαίεο ελέξγεηεο είλαη πξνζσξηλέο θαη 
+
+απηνθαηαζηξνθηθέο, ελψ νη ελ κέηξσ δξαζηεξηφηεηεο είλαη βηψζηκεο θαη 
+
+επνηθνδνκεηηθέο. ΢ε απηφ ην πιαίζην, κε ηελ νξζνινγηθή πξνζέγγηζή ηνπ γηα ηνλ 
+
+πξνζδηνξηζκφ ηνχ κέηξνπ, ν Αξηζηνηέιεο απέβιεπε ζην λα απεπζπλζεί κάιινλ ζην 
+
+έλζηηθην απηνζπληεξήζεσο ησλ Διιήλσλ παξά ζηελ ππνβαζκηζκέλε αίζζεηηθή 
+
+ηνπο αληίιεςε πεξί σξαηφηεηνο.  
+
+Η ινγηθή πξνζέγγηζε ηνχ Αξηζηνηέινπο γηα ηνλ πξνζδηνξηζκφ ηνχ κέηξνπ 
+
+ήηαλ επθπήο θαη πξαγκαηηζηηθή ζηε κεηαζσθξαηηθή επνρή, ήηνη ζε κία 
+
+παξαθκηαθή  (θαη  επνκέλσο  άθξσο  επηθίλδπλε)  πεξίνδν  ηήο  Διιεληθήο  Ιζηνξίαο, 
+
+φηαλ δειαδή νη Έιιελεο θιέξηαξαλ φιν θαη πεξηζζφηεξν κε ηελ επηδεηθηηθή 
+
+θαηαλάισζε, ηελ θαηαρξεζηηθή εμνπζία θαη ηελ εκπαζή δίσμε—ή θαη εθηέιεζε—
+
+ελαξέησλ αλδξψλ. Δπηπξνζζέησο φκσο ν Αξηζηνηέιεο αληηκεηψπηδε θαη έλα 
+
+ελλνηνινγηθφ πξφβιεκα. Ο πξνζδηνξηζκφο δηα ηήο ινγηθήο ηήο ελλνίαο ηνχ κέηξνπ, 
+
+κε κία κε ακθηιεγνκέλε δηαηχπσζε, ίζσο ππεξβαίλεη ηηο αλζξψπηλεο δπλαηφηεηεο. 
+
+Μία έλδεημε πεξί ηνχηνπ είλαη ην γεγνλφο φηη αθφκε θαη ε ρξπζή αλαινγία υ είλαη 
+
+έλαο άξξεηνο αξηζκφο πνπ αςεθά ηελ καζεκαηηθή αθξίβεηα:  
+
+ 
+
+Πνία είλαη ε αλαινγία ηνχ πιάηνπο [ηνχ λανχ] σο πξνο ην χςνο ηνπ; 
+
+Μπνξψ λα ζαο πσ αθξηβψο ηη είλαη, αιιά φρη κε αξηζκνχο. Μπνξψ επίζεο 
+
+λα ζαο ηελ εθθξάζσ κε αξηζκνχο, αιιά φρη επαθξηβψο. Δίλαη πεξίπνπ 
+
+61,8 κνλάδεο πιάηνο θαη 38,2 κνλάδεο χςνο. Απηφ ζα ζαο πάεη ζην 
+
+θέληξν ηνχ ζηφρνπ θαη ηφηε ζα πξέπεη λα πξνζαξκφζεηε πεξαηηέξσ ην 
+
+κάηη ζαο ψζηε λα λα δείηε ηελ επαθξηβή αλαινγία, αιιά κπνξεί λα απν-
+
+δεηρζεί φηη θαλέλα δεχγνο αξηζκψλ, ζε νπνηνδήπνηε επίπεδν πεπεξαζκέλεο 
+
+αθξηβείαο, δελ κπνξεί λα εθθξάζεη επαθξηβψο απηφλ ηνλ ιφγν, πνπ πξν-
+
+θχπηεη απφ ηελ ηνκή ελφο επζπγξάκκνπ ηκήκαηνο ζε ηέηνην ζεκείν ψζηε 
+
+ε νιφηεηά ηνπ λα έρεη σο πξνο ην κεγαιχηεξν ηκήκα ηνπ ηνλ ίδην ιφγν 
+
+πνπ έρεη ην κεγαιχηεξφ ηνπ σο πξνο ην κηθξφηεξν. Γλσξίδνπκε πνιιά 
+
+πξάγκαηα πεξί κεηξήζεσο, θαη ε ζπλήζεο κέζνδνο κεηξήζεσο εδξάδεηαη 
+
+επ' αξηζκψλ, αιιά ζε απηήλ ηελ πεξίπησζε (ηεο ελλνίαο ηνχ κέηξνπ) νη 
+
+αξηζκνί είλαη έλα πνιχ αθαηέξγαζην θαη ―αξγφ‖ εξγαιείν γηα λα κάζνπκε 
+
+θάηη πνπ ηα κάηηα καο ην αλαγλσξίδνπλ κε κία θεπγαιέα καηηά.
+11
+
+  
+
+ 
+
+Δθ' φζνλ ινηπφλ ε έλλνηα ηνχ κέηξνπ ζε πνζνηηθέο γεσκεηξηθέο δηαζηάζεηο 
+
+αςεθά ηελ καζεκαηηθή αθξίβεηα, ηφηε πφζν πην δχζθνιν είλαη ην έξγν γηα ηελ 
+
+επηλφεζε ελφο αθξηβνχο νξηζκνχ ηνχ κέηξνπ ζε πνηνηηθέο παξακέηξνπο ησλ 
+
+αλζξσπίλσλ ζρέζεσλ θαη δξαζηεξηνηήησλ;  
+ 
+
+ 
+
+                                         . 
+
+11. Sachs, ―Measure, Moderation, and the Mean,‖ 7-8. 
+
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+
+
+ESSAYS & LECTURES | PAPPAS 87 
+ 
+
+  
+
+΢σθξφλσο ν Αξηζηνηέιεο δελ ζπλέιαβε έλαλ νινθιεξσκέλν (απφιπην) νξηζκφ 
+
+ηνχ κέηξνπ, νχηε απνπεηξάζεθε λα νξίζεη ηη ζπληζηά κέηξν ζηηο αλζξψπηλεο 
+
+ζρέζεηο, δηφηη έλαο κε επαθξηβήο (ηαπηνινγηθφο) νξηζκφο ζα ήηαλ ακθηιεγφκελνο, 
+
+θαη σο εθ ηνχηνπ ζα είρε  πεξηνξηζκέλε πξαθηηθή ρξεζηκφηεηα ζηε ράξαμε 
+
+πνιηηηθήο ζε νπνηνδήπνηε επίπεδν. Δλ ηνχηνηο, ζε αληίζεζε κε ηελ ηδεαιηζηηθή 
+
+αλαδήηεζε ηνχ Πιάησλνο γηα έλα ζχζηεκα απνιχησλ αμηψλ, ν Αξηζηνηέιεο 
+
+δηεηχπσζε έλαλ πξαγκαηηζηηθφ θαη ζρεζηαθφ νξηζκφ ηνχ κέηξνπ: Αλέιπζε ηελ 
+
+έλλνηα ηνχ κέηξνπ κέζσ δηαδνρηθψλ ινγηθψλ πξνζεγγίζεσλ πνπ πεξηειάκβαλαλ 
+
+παξαδείγκαηα απφ ηελ πξαγκαηηθή δσή, κεηαθνξέο θαη αλαγσγηθέο αλαινγίεο. 
+
+Ο Αξηζηνηέιεο  δηελνήζε ην κέηξν σο έλα ππνθεηκεληθό κέζνλ αλάκεζα ζε δχν 
+
+δηακεηξηθψο αληίζεηα άθξα, ην έλα αλεπαξθείαο (ἔλλειψισ) θαη ην άιιν πεξηζζείαο 
+
+(ὑπερβολὴ) ζε ζρέζε κε έλαλ επηζπκεηφ ζηφρν. Δπί παξάδεηγκαηη, ην ζάξξνο 
+
+(ἀνδρεία) θαηέρεη κία κέζε ζέζε κεηαμχ ησλ πξνζσπηθψλ ζπλαηζζεκάησλ ελφο 
+
+αλζξψπνπ πεξί θφβνπ (φόβοσ) θαη ππεξαπηνπεπνηζήζεσο (θάρςοσ). Έλα ηέηνην 
+
+κέζνλ είλαη ζπλήζσο πην θνληά ζην έλα άθξν απ' φ,ηη ζην άιιν, αλάινγα αθ' ελφο 
+
+κε ηηο εζσηεξηθέο ηάζεηο (ηδηνζπγθξαζία) ηνχ ππνθεηκέλνπ θαη αθ' εηέξνπ κε       
+
+ηηο εμσηεξηθέο ζπλζήθεο (πεξηβάιινλ) πνπ αληηκεησπίδεη. Καηά ζπλέπεηα, ην 
+
+Αξηζηνηέιεην κέζνλ δελ είλαη έλα θαη ην ίδην γηα φινπο ηνχο αλζξψπνπο:
+12
+
+  
+
+ 
+
+Ωο εθ ηνχηνπ, απφ φ,ηη είλαη ζπλερέο θαη δηαηξεηόλ, είλαη δπλαηφλ λα 
+
+ιάβνπκε ην κεγαιχηεξν κέξνο, ή ην κηθξφηεξν κέξνο, ή έλα ίζν κέξνο, 
+
+θαη απηά ηα κέξε κπνξεί λα είλαη κεγαιχηεξα, κηθξφηεξα ή ίζα ζε 
+
+ζρέζε κε ην ίδην ην αληηθείκελν θαζ' εαπηφ ή ζε ζρέζε κε εκάο  —ην ίζν 
+
+κέξνο θαζνξηδφκελν απφ ηελ κέζε ηηκή κεηαμχ ππεξβνιήο θαη 
+
+ειιείςεσο. Γηα ηνχ φξνπ κέζε ηηκή αληηθεηκέλνπ νλνκαηνδνηψ έλα 
+
+ζεκείν πνπ απέρεη εμίζνπ καθξηά απφ εθάηεξν ησλ δχν άθξσλ, ην νπνίν 
+
+είλαη ην ίδην γηα φινπο, δηα δε ηνχ φξνπ κέζε ηηκή πξνο εκάο εθείλν ην 
+
+ζεκείν πνπ δελ επηθέξεη νχηε ππεξβνιή νχηε έιιεηςε ζην ππνθείκελν: 
+
+Απηή δε ε (ππνθεηκεληθή) ηηκή δελ είλαη κία νχηε θαη ίδηα κεηαμχ ησλ 
+
+αλζξψπσλ. Γηα παξάδεηγκα, εάλ 10 ζεσξνχληαη πνιιά θαη 2 ιίγα, ηφηε 
+
+ην 6 ζεσξείηαη ζηελ πξνθεηκέλε πεξίπησζε ε κέζε ηηκή αληηθεηκέλνπ, 
+
+δηφηη αξηζκεηηθψο ππεξβαίλεη (ην έλα άθξν) θαη ππνιείπεηαη (ηνπ άιινπ 
+
+άθξνπ) ηζνπφζσο, ήηνη απηφ ην κέγεζνο είλαη ελδηάκεζν ζχκθσλα κε 
+
+ηελ αξηζκεηηθή αλαινγία. Αιιά δελ κπνξεί λα πξνζδηνξίζνπκε ηελ 
+
+κέζε ηηκή πξνο εκάο ζχκθσλα κε απηήλ ηελ (αξηζκεηηθή) κέζνδν.  
+
+ 
+
+(᾿Eν παντὶ δὴ ςυνεχεῖ καὶ διαιρετῷ ἔςτι λαβεῖν τὸ μὲν πλεῖον τὸ δ᾽ 
+ἔλαττον τὸ δ᾽ ἴςον, καὶ ταῦτα ἢ κατ᾽ αὐτὸ τὸ πρᾶγμα ἢ πρὸσ ἡμᾶσ·   τὸ  δ᾽  
+
+ 
+
+                                         . 
+
+12. Ηζηθά Νηθνκάρεηα, 1106a25–35. 
+
+http://www.perseus.tufts.edu/hopper/morph?l=e%29llei%2Fyews&la=greek&can=e%29llei%2Fyews0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=u%28perbolh%3Ds&la=greek&can=u%28perbolh%3Ds0&prior=ti
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n0&prior=au)th=s
+http://www.perseus.tufts.edu/hopper/morph?l=panti%5C&la=greek&can=panti%5C0&prior=e)n
+http://www.perseus.tufts.edu/hopper/morph?l=dh%5C&la=greek&can=dh%5C0&prior=panti/
+http://www.perseus.tufts.edu/hopper/morph?l=sunexei%3D&la=greek&can=sunexei%3D0&prior=dh/
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=sunexei=
+http://www.perseus.tufts.edu/hopper/morph?l=diairetw%3D%7C&la=greek&can=diairetw%3D%7C0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fsti&la=greek&can=e%29%2Fsti0&prior=diairetw=|
+http://www.perseus.tufts.edu/hopper/morph?l=labei%3Dn&la=greek&can=labei%3Dn0&prior=e)/sti
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=labei=n
+http://www.perseus.tufts.edu/hopper/morph?l=me%5Cn&la=greek&can=me%5Cn0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=plei%3Don&la=greek&can=plei%3Don0&prior=me/n
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C1&prior=plei=on
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%270&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Flatton&la=greek&can=e%29%2Flatton0&prior=d'
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C2&prior=e)/latton
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%271&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fson&la=greek&can=i%29%2Fson0&prior=d'
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C2&prior=i)/son
+http://www.perseus.tufts.edu/hopper/morph?l=tau%3Dta&la=greek&can=tau%3Dta0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C0&prior=tau=ta
+http://www.perseus.tufts.edu/hopper/morph?l=kat%27&la=greek&can=kat%270&prior=h)/
+http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5C&la=greek&can=au%29to%5C0&prior=kat'
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C3&prior=au)to/
+http://www.perseus.tufts.edu/hopper/morph?l=pra%3Dgma&la=greek&can=pra%3Dgma0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C1&prior=pra=gma
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=h)/
+http://www.perseus.tufts.edu/hopper/morph?l=h%28ma%3Ds&la=greek&can=h%28ma%3Ds0&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C4&prior=h(ma=s
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%272&prior=to/
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+
+
+88  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+ἴςον μζςον τι ὑπερβολῆσ καὶ ἐλλείψεωσ. Λζγω δὲ τοῦ μὲν πράγματοσ 
+
+μζςον τὸ ἴςον ἀπζχον ἀφ᾽ ἑκατζρου τῶν ἄκρων, ὅπερ ἐςτὶν ἓν καὶ τὸ 
+
+αὐτὸ πᾶςιν, πρὸσ ἡμᾶσ δὲ ὃ μιτε πλεονάηει μιτε ἐλλείπει· τοῦτο δ᾽ οὐχ 
+
+ἕν, οὐδὲ ταὐτὸν πᾶςιν. Οἷον εἰ τὰ δζκα πολλὰ τὰ δὲ δφο ὀλίγα, τὰ ἓξ 
+
+μζςα λαμβάνουςι κατὰ τὸ πρᾶγμα· ἴςῳ γὰρ ὑπερζχει τε καὶ 
+
+ὑπερζχεται· τοῦτο δὲ μζςον ἐςτὶ κατὰ τὴν ἀρικμθτικὴν ἀναλογίαν. Τὸ 
+
+δὲ πρὸσ ἡμᾶσ οὐχ οὕτω λθπτζον.) 
+ 
+
+΢ε απηφ ην απφζπαζκα, ν Αξηζηνηέιεο νξίδεη δχν δηαθνξεηηθά είδε κέζεο ηηκήο,  
+
+κίαο  κηθξνηέξαο  θαη  κίαο  κεγαιπηέξαο, φζνλ  αθνξά  ζηελ απφζηαζή ηεο απφ έλα 
+
+εθ ησλ δχν άθξσλ. Η κηθξφηεξε ηηκή ή κέζε ηηκή αληηθεηκέλνπ, απνηειεί θάηη ζαλ 
+
+απιφ (κε ζηαζκηζκέλν) κέζν φξν, ζηαηηθφ θαη αληηθεηκεληθφ. Η κεγαιχηεξε ηηκή ή 
+
+κέζε ηηκή πξνο εκάο—πνπ ζηελ πξαγκαηηθφηεηα απνηειεί ην είδνο (ζηαζκηζκέλνπ) 
+
+κέζνπ φξνπ πνπ αθνξά ζηελ αλζξψπηλε ζθέςε θαη δξάζε—είλαη δπλακηθή θαη 
+
+δηαθπκαηλνκέλε · ζπαλίσο απνηειεί ηελ κέζε ηηκή κεηαμχ δχν αληη-ζέησλ άθξσλ. 
+
+Οχηε θαη είλαη ίδηα κεηαμχ δηαθνξεηηθψλ αλζξψπσλ, δηφηη εθιακβά-λεηαη απφ ηνλ 
+
+θάζε άλζξσπν ζε ππνθεηκεληθή βάζε. Οχηε θάλ παξακέλεη ίδηα γηα ηνλ ίδην 
+
+άλζξσπν, δηφηη εμειίζζεηαη δπλακηθά αλάινγα κε αιιαγέο ζε εζσηεξηθέο 
+
+(ςπρνδηαλνεηηθέο) θαηαζηάζεηο θαη εμσηεξηθέο (πεξηβαιινληηθέο) επηξξνέο. 
+
+Έλα παξάδεηγκα δηαθπκάλζεσο ηήο κέζεο ηηκήο πξνο εκάο ίζσο είλαη ε εμέιημε 
+
+ζην κέηξν ηνχ ζάξξνπο πνπ απαηηείην απφ ηνχο Έιιελεο ζηνπο Πεξζηθνχο 
+
+Πνιέκνπο θαη ζηνλ Πεινπνλλεζηαθφ Πφιεκν. Οη Έιιελεο ερξεηάδνλν έλαλ εμαη-
+
+ξεηηθά πςειφ βαζκφ ζάξξνπο (πιεζίζηην ζηελ αθξαία αθνβία) φηαλ πνιεκνχζαλ 
+
+ζηνλ ππέξ πάλησλ αγψλα ηνπο ελαληίνλ ησλ Πεξζψλ εηζβνιέσλ. Ωζηφζν αξγφηεξα, 
+
+ζηνλ Πεινπνλλεζηαθφ Πφιεκν, έλαο ρακειφηεξνο βαζκφο ζάξξνπο (πιεζίζηηνο 
+
+ζηνλ αθξαίν θφβν) ζα κπνξνχζε ίζσο λα ζπκβάιεη θαιχηεξα ζηελ πεξαηηέξσ 
+
+πνιηηηζκηθή ηνπο εμέιημε, δηφηη, αλ κε ηη άιιν, ζα ηνχο παξεκπφδηδε ίζσο λα 
+
+δηεμαγάγνπλ εθείλνλ ηνλ απηνθαηαζηξνθηθφ εκθχιην πφιεκν, ή ηνπιάρηζηνλ ζα 
+
+ηνχο παξσζνχζε λα ζέζνπλ έλα ηέινο ζηελ παξαθξνζχλε εθείλνπ ηνχ πνιέκνπ 
+
+πνιχ λσξίηεξα απ' φ,ηη ηειηθά έγηλε (ηξεηο δεθαεηίεο αιιεινζθαγήο). Απηφ ην 
+
+αλαγσγηθφ παξάδεηγκα θαηαδεηθλχεη φηη  έλαο επαξθήο νξηζκφο ηνχ κέηξνπ ζηηο 
+
+αλζξψπηλεο ζρέζεηο θαη δξαζηεξηφηεηεο πξέπεη λα είλαη ππνθεηκεληθφο ζε αηνκηθφ 
+
+επίπεδν, πνιηηηζκηθφο ζε καθξνθνηλσληθφ επίπεδν, θαη πάληα ζρεζηαθφο ζε πεξη-
+
+βαιινληηθφ επίπεδν, ήηνη ζπλαξηψκελνο κε κεηαβαιιφκελεο εμσηεξηθέο πεξηζηά-
+
+ζεηο. Δπνκέλσο έλαο ηέηνηνο νξηζκφο ζα πξέπεη λα είλαη δπλακηθφο παξά ζηαηηθφο, 
+
+φπσο ν ίδηνο ν Αξηζηνηέιεο άθεζε λα ελλνεζεί δηα ηήο αλαθνξάο ηνπ ζηε ζπλέρεηα 
+
+θαη δηαηξεηόηεηα ζηελ εηζαγσγή ηνχ παξαπάλσ απνζπάζκαηνο.  
+
+ 
+
+3. Βιωσιμότητα 
+ 
+
+΢χκθσλα κε ηνλ Αξηζηνηέιε, κία εθαξκνζκέλε πνιηηηθή πνπ θαηά ην παξφλ είλαη 
+
+απνηειεζκαηηθή, θαη θαηά ζπλαθνινπζία θαίλεηαη λα πινπνηείηαη ελ κέηξσ,          
+
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fson&la=greek&can=i%29%2Fson1&prior=d'
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fson&la=greek&can=me%2Fson0&prior=i)/son
+http://www.perseus.tufts.edu/hopper/morph?l=ti&la=greek&can=ti0&prior=me/son
+http://www.perseus.tufts.edu/hopper/morph?l=u%28perbolh%3Ds&la=greek&can=u%28perbolh%3Ds0&prior=ti
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C3&prior=u(perbolh=s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29llei%2Fyews&la=greek&can=e%29llei%2Fyews0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=le%2Fgw&la=greek&can=le%2Fgw0&prior=e)llei/yews
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C1&prior=le/gw
+http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=me%5Cn&la=greek&can=me%5Cn1&prior=tou=
+http://www.perseus.tufts.edu/hopper/morph?l=pra%2Fgmatos&la=greek&can=pra%2Fgmatos0&prior=me/n
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fson&la=greek&can=me%2Fson0
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=me/son
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fson&la=greek&can=i%29%2Fson0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29pe%2Fxon&la=greek&can=a%29pe%2Fxon0&prior=i)/son
+http://www.perseus.tufts.edu/hopper/morph?l=a%29f%27&la=greek&can=a%29f%270&prior=a)pe/xon
+http://www.perseus.tufts.edu/hopper/morph?l=e%28kate%2Frou&la=greek&can=e%28kate%2Frou0&prior=a)f'
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=e(kate/rou
+http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fkrwn&la=greek&can=a%29%2Fkrwn0&prior=tw=n
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Fper&la=greek&can=o%28%2Fper0&prior=a)/krwn
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sti%5Cn&la=greek&can=e%29sti%5Cn0&prior=o(/per
+http://www.perseus.tufts.edu/hopper/morph?l=e%28%5Cn&la=greek&can=e%28%5Cn0&prior=e)sti/n
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=e(/n
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C1&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5C&la=greek&can=au%29to%5C0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=pa%3Dsin&la=greek&can=pa%3Dsin0&prior=au)to/
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=pa=sin
+http://www.perseus.tufts.edu/hopper/morph?l=h%28ma%3Ds&la=greek&can=h%28ma%3Ds0&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C0&prior=h(ma=s
+http://www.perseus.tufts.edu/hopper/morph?l=o%28%5C&la=greek&can=o%28%5C0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=mh%2Fte&la=greek&can=mh%2Fte0&prior=o(/
+http://www.perseus.tufts.edu/hopper/morph?l=pleona%2Fzei&la=greek&can=pleona%2Fzei0&prior=mh/te
+http://www.perseus.tufts.edu/hopper/morph?l=mh%2Fte&la=greek&can=mh%2Fte1&prior=pleona/zei
+http://www.perseus.tufts.edu/hopper/morph?l=e%29llei%2Fpei&la=greek&can=e%29llei%2Fpei0&prior=mh/te
+http://www.perseus.tufts.edu/hopper/morph?l=tou%3Dto&la=greek&can=tou%3Dto0&prior=e)llei/pei
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%270&prior=tou=to
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29x&la=greek&can=ou%29x0&prior=d'
+http://www.perseus.tufts.edu/hopper/morph?l=e%28%2Fn&la=greek&can=e%28%2Fn0&prior=ou)x
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%5C&la=greek&can=ou%29de%5C0&prior=e(/n
+http://www.perseus.tufts.edu/hopper/morph?l=tau%29to%5Cn&la=greek&can=tau%29to%5Cn0&prior=ou)de/
+http://www.perseus.tufts.edu/hopper/morph?l=pa%3Dsin&la=greek&can=pa%3Dsin1&prior=tau)to/n
+http://www.perseus.tufts.edu/hopper/morph?l=oi%28%3Don&la=greek&can=oi%28%3Don0&prior=pa=sin
+http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%290&prior=oi(=on
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C0&prior=ei)
+http://www.perseus.tufts.edu/hopper/morph?l=de%2Fka&la=greek&can=de%2Fka0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=polla%5C&la=greek&can=polla%5C0&prior=de/ka
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C1&prior=polla/
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C1&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=du%2Fo&la=greek&can=du%2Fo0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=o%29li%2Fga&la=greek&can=o%29li%2Fga0&prior=du/o
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C2&prior=o)li/ga
+http://www.perseus.tufts.edu/hopper/morph?l=e%28%5Cc&la=greek&can=e%28%5Cc0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fsa&la=greek&can=me%2Fsa0&prior=e(/c
+http://www.perseus.tufts.edu/hopper/morph?l=lamba%2Fnousi&la=greek&can=lamba%2Fnousi0&prior=me/sa
+http://www.perseus.tufts.edu/hopper/morph?l=kata%5C&la=greek&can=kata%5C0&prior=lamba/nousi
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C2&prior=kata/
+http://www.perseus.tufts.edu/hopper/morph?l=pra%3Dgma&la=greek&can=pra%3Dgma0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fsw%7C&la=greek&can=i%29%2Fsw%7C0&prior=pra=gma
+http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr0&prior=i)/sw|
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pere%2Fxei&la=greek&can=u%28pere%2Fxei0&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=te&la=greek&can=te0&prior=u(pere/xei
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=te
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pere%2Fxetai&la=greek&can=u%28pere%2Fxetai0
+http://www.perseus.tufts.edu/hopper/morph?l=tou%3Dto&la=greek&can=tou%3Dto0&prior=u(pere/xetai
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C0&prior=tou=to
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fson&la=greek&can=me%2Fson0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sti%5C&la=greek&can=e%29sti%5C0&prior=me/son
+http://www.perseus.tufts.edu/hopper/morph?l=kata%5C&la=greek&can=kata%5C0&prior=e)sti/
+http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=kata/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29riqmhtikh%5Cn&la=greek&can=a%29riqmhtikh%5Cn0&prior=th/n
+http://www.perseus.tufts.edu/hopper/morph?l=a%29nalogi%2Fan&la=greek&can=a%29nalogi%2Fan0&prior=a)riqmhtikh/n
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=a)nalogi/an
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C1&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=h%28ma%3Ds&la=greek&can=h%28ma%3Ds0&prior=pro/s
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29x&la=greek&can=ou%29x0&prior=h(ma=s
+http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftw&la=greek&can=ou%28%2Ftw0&prior=ou)x
+http://www.perseus.tufts.edu/hopper/morph?l=lhpte%2Fon&la=greek&can=lhpte%2Fon0&prior=ou(/tw
+
+
+ESSAYS & LECTURES | PAPPAS 89 
+ 
+
+  
+
+ελ ηνχηνηο πξέπεη λα ζεσξεζεί σο πβξηζηηθή (απνθιίλνπζα ηνχ κέηξνπ) εάλ ηα 
+
+επηζπκεηά ηεο απνηειέζκαηα δελ είλαη βηψζηκα ζην κέιινλ. ΢ε απηφ ην πιαίζην, ν 
+
+Αξηζηνηέιεο ρξεζηκνπνηεί παξαβνιηθψο ην παξάδεηγκα ηήο δσήο ελφο κεκνλσ-
+
+κέλνπ αηφκνπ ζηα παξαθάησ απνζπάζκαηα απφ ηα Ηζηθά Νηθνκάρεηα: 
+ 
+
+Γηφηη [ε επηπρία] απαηηεί, φπσο είπακε, φρη κφλν ηέιεηα αξεηή, αιιά θαη 
+
+ηέιεηα δσή. Πξάγκαηη, θαηά ηελ δηάξθεηα ηήο δσήο ελφο αηφκνπ επη-
+
+ζπκβαίλνπλ πνιιέο αιιαγέο θαη αληημνφηεηεο φισλ ησλ εηδψλ, θαη 
+
+ζπλεπψο ν πιένλ επεκεξψλ άλζξσπνο κπνξεί ζε κεγάιε ειηθία λα 
+
+πεξηπέζεη ζε κεγάιε δπζηπρία, φπσο πεξηγξάθεηαη ζηνλ κχζν ηνχ 
+
+Πξηάκνπ ζην Σξσηθφ έπνο: Δθείλνλ δε πνπ βίσζε ηέηνηεο θαθνηπρίεο θαη 
+
+απεβίσζε θαη' άζιην ηξφπν, νπδείο ηνλ ζεσξεί επηπρηζκέλνλ (1100a4-9). 
+ 
+
+(Δεῖ γάρ, ὥςπερ εἴπομεν, καὶ ἀρετῆσ τελείασ καὶ βίου τελείου. Πολλαὶ 
+
+γὰρ μεταβολαὶ γίνονται καὶ παντοῖαι τφχαι κατὰ τὸν βίον, καὶ ἐνδζχεται 
+
+τὸν μάλιςτ᾽ εὐκθνοῦντα μεγάλαισ ςυμφοραῖσ περιπεςεῖν ἐπὶ γιρωσ, 
+
+κακάπερ ἐν τοῖσ Τρωικοῖσ περὶ Πριάμου μυκεφεται· τὸν δὲ τοιαφταισ 
+
+χρθςάμενον τφχαισ καὶ τελευτιςαντα ἀκλίωσ οὐδεὶσ εὐδαιμονίηει.)  
+ 
+
+Δπνκέλσο, ηί ζα καο εκπφδηδε απφ ην λα ηζρπξηζζνχκε φηη επηπρήο είλαη 
+
+εθείλνο πνπ δξαζηεξηνπνηείηαη ζχκθσλα κε ηέιεηα αξεηή θαη είλαη 
+
+επαξθψο εθνδηαζκέλνο κε πιηθά αγαζά, φρη γηα θάπνην πεξηζηαζηαθφ 
+
+ρξνληθφ δηάζηεκα, αιιά γηα φιε ηελ δηάξθεηα ηήο δσήο ηνπ; Ή κήπσο ζα 
+
+έπξεπε λα πξνζζέζνπκε ―εθείλνο πνπ είλαη πξννξηζκέλνο λα βηψζεη 
+
+νχησο (ελαξέησο) θαη λα απνβηψζεη αλαιφγσο‖;  Γηφηη ην κέιινλ είλαη 
+
+απνθεθξπκκέλν απφ εκάο, θαη ζεσξνχκε ηελ επηπρία σο έλαλ ηειενιν-
+
+γηθφ ζθνπφ, ήηνη σο θάηη ηέιεην απφ θάζε άπνςε θαη ζε θάζε ρξφλν. Δάλ 
+
+δε απηά ηζρχνπλ, ηφηε ζα απνθαιέζνπκε επηπρείο εθείλνπο εθ ησλ δψλησλ 
+
+ζηνπο νπνίνπο νη αλαθεξζέληεο φξνη εθπιεξνχληαη θαη πξφθεηηαη λα 
+
+εθπιεξσζνχλ, θαη [άξα ζα απνθαινχκε κφλνλ απηνχο] ―επηπρηζκέλνπο 
+
+αλζξψπνπο‖ (1101a14-20).  
+ 
+
+(Τί οὖν κωλφει λζγειν εὐδαίμονα τὸν κατ᾽ ἀρετὴν τελείαν ἐνεργοῦντα 
+
+καὶ τοῖσ ἐκτὸσ ἀγακοῖσ ἱκανῶσ κεχορθγθμζνον μὴ τὸν τυχόντα χρόνον 
+
+ἀλλὰ τζλειον βίον; ἢ προςκετζον καὶ βιωςόμενον οὕτω καὶ 
+
+τελευτιςοντα κατὰ λόγον; Eπειδὴ τὸ μζλλον ἀφανὲσ ἡμῖν ἐςτίν, τὴν 
+
+εὐδαιμονίαν δὲ τζλοσ καὶ τζλειον τίκεμεν πάντῃ πάντωσ. Eἰ δ᾽ οὕτω, 
+
+μακαρίουσ ἐροῦμεν τῶν ηϊντων οἷσ ὑπάρχει καὶ ὑπάρξει τὰ λεχκζντα, 
+
+μακαρίουσ δ᾽ ἀνκρϊπουσ.)  
+ 
+
+Η ππνλννπκέλε αλαινγία είλαη πξνθαλήο: Η δηάξθεηα δσήο ελφο αηφκνπ κπν-
+
+ξεί λα εθηείλεηαη ζε ηξεηο κε ηέζζεξεηο γελεέο (ήηνη 60-80 έηε), ελψ ε ηζηνξηθή 
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/morph?l=dei%3D&la=greek&can=dei%3D0&prior=makari/zontai
+http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr0&prior=dei=
+http://www.perseus.tufts.edu/hopper/morph?l=w%28%2Fsper&la=greek&can=w%28%2Fsper0&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fpomen&la=greek&can=ei%29%2Fpomen0&prior=w(/sper
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=ei)/pomen
+http://www.perseus.tufts.edu/hopper/morph?l=a%29reth%3Ds&la=greek&can=a%29reth%3Ds0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=telei%2Fas&la=greek&can=telei%2Fas0&prior=a)reth=s
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=telei/as
+http://www.perseus.tufts.edu/hopper/morph?l=bi%2Fou&la=greek&can=bi%2Fou0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=telei%2Fou&la=greek&can=telei%2Fou0&prior=bi/ou
+http://www.perseus.tufts.edu/hopper/morph?l=pollai%5C&la=greek&can=pollai%5C0&prior=telei/ou
+http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr2&prior=pollai/
+http://www.perseus.tufts.edu/hopper/morph?l=metabolai%5C&la=greek&can=metabolai%5C0&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=gi%2Fnontai&la=greek&can=gi%2Fnontai0&prior=metabolai/
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C2&prior=gi/nontai
+http://www.perseus.tufts.edu/hopper/morph?l=pantoi%3Dai&la=greek&can=pantoi%3Dai0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=tu%2Fxai&la=greek&can=tu%2Fxai0&prior=pantoi=ai
+http://www.perseus.tufts.edu/hopper/morph?l=kata%5C&la=greek&can=kata%5C0&prior=tu/xai
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn0&prior=kata/
+http://www.perseus.tufts.edu/hopper/morph?l=bi%2Fon&la=greek&can=bi%2Fon0&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C3&prior=bi/on
+http://www.perseus.tufts.edu/hopper/morph?l=e%29nde%2Fxetai&la=greek&can=e%29nde%2Fxetai0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn1&prior=e)nde/xetai
+http://www.perseus.tufts.edu/hopper/morph?l=ma%2Flist%27&la=greek&can=ma%2Flist%270&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=eu%29qhnou%3Dnta&la=greek&can=eu%29qhnou%3Dnta0&prior=ma/list'
+http://www.perseus.tufts.edu/hopper/morph?l=mega%2Flais&la=greek&can=mega%2Flais0&prior=eu)qhnou=nta
+http://www.perseus.tufts.edu/hopper/morph?l=sumforai%3Ds&la=greek&can=sumforai%3Ds0&prior=mega/lais
+http://www.perseus.tufts.edu/hopper/morph?l=peripesei%3Dn&la=greek&can=peripesei%3Dn0&prior=sumforai=s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29pi%5C&la=greek&can=e%29pi%5C0&prior=peripesei=n
+http://www.perseus.tufts.edu/hopper/morph?l=gh%2Frws&la=greek&can=gh%2Frws0&prior=e)pi/
+http://www.perseus.tufts.edu/hopper/morph?l=kaqa%2Fper&la=greek&can=kaqa%2Fper0&prior=gh/rws
+http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n0&prior=kaqa/per
+http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds0&prior=e)n
+http://www.perseus.tufts.edu/hopper/morph?l=*trwikoi%3Ds&la=greek&can=*trwikoi%3Ds0&prior=toi=s
+http://www.perseus.tufts.edu/hopper/morph?l=peri%5C&la=greek&can=peri%5C0&prior=*trwikoi=s
+http://www.perseus.tufts.edu/hopper/morph?l=*pria%2Fmou&la=greek&can=*pria%2Fmou0&prior=peri/
+http://www.perseus.tufts.edu/hopper/morph?l=muqeu%2Fetai&la=greek&can=muqeu%2Fetai0&prior=*pria/mou
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn2&prior=muqeu/etai
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C2&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=toiau%2Ftais&la=greek&can=toiau%2Ftais0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=xrhsa%2Fmenon&la=greek&can=xrhsa%2Fmenon0&prior=toiau/tais
+http://www.perseus.tufts.edu/hopper/morph?l=tu%2Fxais&la=greek&can=tu%2Fxais0&prior=xrhsa/menon
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C4&prior=tu/xais
+http://www.perseus.tufts.edu/hopper/morph?l=teleuth%2Fsanta&la=greek&can=teleuth%2Fsanta0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29qli%2Fws&la=greek&can=a%29qli%2Fws0&prior=teleuth/santa
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29dei%5Cs&la=greek&can=ou%29dei%5Cs0&prior=a)qli/ws
+http://www.perseus.tufts.edu/hopper/morph?l=eu%29daimoni%2Fzei&la=greek&can=eu%29daimoni%2Fzei0&prior=ou)dei/s
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F0&prior=e)ph/bolos
+http://www.perseus.tufts.edu/hopper/morph?l=ou%29%3Dn&la=greek&can=ou%29%3Dn0&prior=ti/
+http://www.perseus.tufts.edu/hopper/morph?l=kwlu%2Fei&la=greek&can=kwlu%2Fei0&prior=ou)=n
+http://www.perseus.tufts.edu/hopper/morph?l=le%2Fgein&la=greek&can=le%2Fgein0&prior=kwlu/ei
+http://www.perseus.tufts.edu/hopper/morph?l=eu%29dai%2Fmona&la=greek&can=eu%29dai%2Fmona0&prior=le/gein
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn2&prior=eu)dai/mona
+http://www.perseus.tufts.edu/hopper/morph?l=kat%27&la=greek&can=kat%270&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=a%29reth%5Cn&la=greek&can=a%29reth%5Cn0&prior=kat'
+http://www.perseus.tufts.edu/hopper/morph?l=telei%2Fan&la=greek&can=telei%2Fan0&prior=a)reth/n
+http://www.perseus.tufts.edu/hopper/morph?l=e%29nergou%3Dnta&la=greek&can=e%29nergou%3Dnta0&prior=telei/an
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C9&prior=e)nergou=nta
+http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29kto%5Cs&la=greek&can=e%29kto%5Cs0&prior=toi=s
+http://www.perseus.tufts.edu/hopper/morph?l=a%29gaqoi%3Ds&la=greek&can=a%29gaqoi%3Ds0&prior=e)kto/s
+http://www.perseus.tufts.edu/hopper/morph?l=i%28kanw%3Ds&la=greek&can=i%28kanw%3Ds0&prior=a)gaqoi=s
+http://www.perseus.tufts.edu/hopper/morph?l=kexorhghme%2Fnon&la=greek&can=kexorhghme%2Fnon0&prior=i(kanw=s
+http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=kexorhghme/non
+http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn3&prior=mh/
+http://www.perseus.tufts.edu/hopper/morph?l=tuxo%2Fnta&la=greek&can=tuxo%2Fnta0&prior=to/n
+http://www.perseus.tufts.edu/hopper/morph?l=xro%2Fnon&la=greek&can=xro%2Fnon0&prior=tuxo/nta
+http://www.perseus.tufts.edu/hopper/morph?l=a%29lla%5C&la=greek&can=a%29lla%5C0&prior=xro/non
+http://www.perseus.tufts.edu/hopper/morph?l=te%2Fleion&la=greek&can=te%2Fleion0&prior=a)lla/
+http://www.perseus.tufts.edu/hopper/morph?l=bi%2Fon&la=greek&can=bi%2Fon0&prior=te/leion
+http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C0&prior=bi/on
+http://www.perseus.tufts.edu/hopper/morph?l=prosqete%2Fon&la=greek&can=prosqete%2Fon0&prior=h)/
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C10&prior=prosqete/on
+http://www.perseus.tufts.edu/hopper/morph?l=biwso%2Fmenon&la=greek&can=biwso%2Fmenon0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftw&la=greek&can=ou%28%2Ftw0&prior=biwso/menon
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C11&prior=ou(/tw
+http://www.perseus.tufts.edu/hopper/morph?l=teleuth%2Fsonta&la=greek&can=teleuth%2Fsonta0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=kata%5C&la=greek&can=kata%5C0&prior=teleuth/sonta
+http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgon&la=greek&can=lo%2Fgon0&prior=kata/
+http://www.perseus.tufts.edu/hopper/morph?l=e%29peidh%5C&la=greek&can=e%29peidh%5C0&prior=lo/gon
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=e)peidh/
+http://www.perseus.tufts.edu/hopper/morph?l=me%2Fllon&la=greek&can=me%2Fllon0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=a%29fane%5Cs&la=greek&can=a%29fane%5Cs0&prior=me/llon
+http://www.perseus.tufts.edu/hopper/morph?l=h%28mi%3Dn&la=greek&can=h%28mi%3Dn0&prior=a)fane/s
+http://www.perseus.tufts.edu/hopper/morph?l=e%29sti%2Fn&la=greek&can=e%29sti%2Fn0&prior=h(mi=n
+http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=e)sti/n
+http://www.perseus.tufts.edu/hopper/morph?l=eu%29daimoni%2Fan&la=greek&can=eu%29daimoni%2Fan0&prior=th/n
+http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C1&prior=eu)daimoni/an
+http://www.perseus.tufts.edu/hopper/morph?l=te%2Flos&la=greek&can=te%2Flos0&prior=de/
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C12&prior=te/los
+http://www.perseus.tufts.edu/hopper/morph?l=te%2Fleion&la=greek&can=te%2Fleion1&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=ti%2Fqemen&la=greek&can=ti%2Fqemen0&prior=te/leion
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnth%7C&la=greek&can=pa%2Fnth%7C0&prior=ti/qemen
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fntws&la=greek&can=pa%2Fntws0&prior=pa/nth|
+http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%291&prior=pa/ntws
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%271&prior=ei)
+http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftw&la=greek&can=ou%28%2Ftw1&prior=d'
+http://www.perseus.tufts.edu/hopper/morph?l=makari%2Fous&la=greek&can=makari%2Fous0&prior=ou(/tw
+http://www.perseus.tufts.edu/hopper/morph?l=e%29rou%3Dmen&la=greek&can=e%29rou%3Dmen0&prior=makari/ous
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn4&prior=e)rou=men
+http://www.perseus.tufts.edu/hopper/morph?l=zw%2Fntwn&la=greek&can=zw%2Fntwn0&prior=tw=n
+http://www.perseus.tufts.edu/hopper/morph?l=oi%28%3Ds&la=greek&can=oi%28%3Ds0&prior=zw/ntwn
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pa%2Frxei&la=greek&can=u%28pa%2Frxei0&prior=oi(=s
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C13&prior=u(pa/rxei
+http://www.perseus.tufts.edu/hopper/morph?l=u%28pa%2Frcei&la=greek&can=u%28pa%2Frcei0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C1&prior=u(pa/rcei
+http://www.perseus.tufts.edu/hopper/morph?l=lexqe%2Fnta&la=greek&can=lexqe%2Fnta0&prior=ta/
+http://www.perseus.tufts.edu/hopper/morph?l=makari%2Fous&la=greek&can=makari%2Fous1&prior=lexqe/nta
+http://www.perseus.tufts.edu/hopper/morph?l=d%27&la=greek&can=d%272&prior=makari/ous
+http://www.perseus.tufts.edu/hopper/morph?l=a%29nqrw%2Fpous&la=greek&can=a%29nqrw%2Fpous0&prior=d'
+
+
+70  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+Σχ. 2: Μη βιώσιμο αισθητικό Χάος στη Σύγχρονη Αθήνα 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ESSAYS & LECTURES | PAPPAS 71 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Σχ. 3: Στρατιωτικές Βάσεις των Η.Π.Α. στη Γερμανία (2012) 
+
+ 
+
+
+
+90  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+πνξεία κίαο πφιεσο-θξάηνπο θαλνληθά θαιχπηεη πνιχ πεξηζζφηεξεο γελεέο (ήηνη 
+
+αηψλεο). Έλαο άλζξσπνο πξέπεη λα ζεσξεζεί επηπρηζκέλνο κφλνλ εάλ δηάγεη έλαλ 
+
+βίν ελ κέηξσ θαηά ηελ δηάξθεηα όιεο ηήο δσήο ηνπ (δεθαεηηψλ), καθξηά απφ παγίδεο 
+
+αθξαίαο αηπρίαο θαη αζιηφηεηνο. Παξνκνίσο, κία πφιε-θξάηνο ζα πξέπεη λα 
+
+ζεσξείηαη επηηπρεκέλε κφλν αλ εθαξκφδεη πνιηηηθέο ελ κέηξσ κε απνηειέζκαηα 
+
+πνπ είλαη βηψζηκα ζε κία δηαγελεαθή ηζηνξηθή πεξίνδν (αηψλσλ).  
+
+Βάζεη απηήο ηήο αλαινγίαο, έλαο νξηζκφο ηνχ κέηξνπ ζηελ αηνκηθή ζπκπε-
+
+ξηθνξά θαη ζηελ πνιηηηθή νξγάλσζε πξέπεη λα ηθαλνπνηεί ην αμίσκα ηήο 
+
+βησζηκόηεηνο, πνπ ζπληζηά ην θξηηήξην δηαθξίζεσο κεηαμχ πξαγκαηηθνύ κέηξνπ 
+
+(real measure), πνπ είλαη βηψζηκν, θαη θαηλνκεληθνύ κέηξνπ (illusory measure), πνπ 
+
+είλαη κε βηψζηκν. Ωο παξάδεηγκα, ε επξεία ζχγρπζε ησλ ζπγρξφλσλ Διιήλσλ 
+
+ζρεηηθά κε ηελ δηαθνξά κεηαμχ πξαγκαηηθήο αλαπηχμεσο (real development) θαη 
+
+θαηλνκεληθήο αλαπηχμεσο (illusory development) θαηαδεηθλχεηαη απφ ηελ πφιε πνπ 
+
+αλήγεηξαλ νιφγπξα ηνχ Παξζελψλνο ζηε κεηαπνιεκηθή επνρή: Η Αζήλα είλαη κία 
+
+απφ ηηο πην άζρεκεο θαη πην κνιπζκέλεο πξσηεχνπζεο ζηελ Δπξψπε (΢ρ. 2). 
+
+Βέβαηα, ζηνλ θφζκν ππάξρνπλ πνιιέο πφιεηο πνπ είλαη ηξνκεξά κνιπζκέλεο, αιιά 
+
+ε Αζήλα είλαη κνλαδηθή: Η πφιε πεξηβάιιεη ηνλ Παξζελψλα ρανηηθψο, σο εάλ ην 
+
+ζνπξεαιηζηηθφ παλδαηκφληφ ηεο λα απεηιεί λα θαηαβξνρζίζεη ηελ Απνιιψληα 
+
+αξκνλία ηνχ Παξζελψλνο. Γηα έμη επάιιειεο δεθαεηίεο (1949-2009), ελψ νη 
+
+ζχγρξνλνη Έιιελεο έθηηδαλ ηελ αιιφθνηε πφιε ηνπο, λφκηδαλ φηη αλέπηπζζαλ ηελ 
+
+νηθνλνκία ηνπο ελ κέηξσ, αθνχ, αλ κε ηη άιιν, θαηάθεξαλ έηζη πξάγκαηη λα 
+
+παξάζρνπλ εξγαζία θαη ζηέγαζε ζε εθαηνκκχξηα Διιήλσλ αγξνηψλ πνπ κεηαλά-
+
+ζηεπαλ ηφηε καδηθψο απφ ηα ρσξηά ηνπο ζηε λέα, ―κνληέξλα‖ Αζήλα. Καηά ηελ 
+
+δηάξθεηα εθείλεο ηήο πεξηφδνπ, ππφ ηελ επήξεηα ηήο Άηεο, νη πεξηζζφηεξνη Έιιελεο 
+
+ήζαλ αλίθαλνη λα δνπλ απηφ πνπ ήηαλ πξνθαλέο ζηελ φξαζε—ήηνη ηελ νπηηθή 
+
+πξαγκαηηθφηεηα φηη ε πφιε ηνπο ζπληζηά κία επηζψξεπζε αηζζεηηθήο χβξεσο 
+
+πεξηθεηκέλεο ζε αθηίλα ρηιηνκέηξσλ γχξσζελ ηνχ Παξζελψλνο. Καηά ζπλέπεηα, δελ 
+
+ήζαλ ζε ζέζε λα ιάβνπλ δηνξζσηηθά κέηξα εγθαίξσο. Μφλνλ πξφζθαηα, ππφ ην 
+
+εξεβψδεο θάζκα ηήο Νεκέζεσο, νη Έιιελεο άξρηζαλ λα επαλαμηνινγνχλ ηελ αληί-
+
+ιεςή ηνπο πεξί πξνφδνπ. Δπηηέινπο ηψξα νη Αζελαίνη κπνξνχλ λα δνπλ, ηδίνηο 
+
+όκκαζη, φηη ε πφιε ηνπο, θαη ην ζπλαθέο πβξηζηηθφ κνληέιν νηθνλνκηθήο αλαπηχ-
+
+μεσο ηήο Διιάδνο, ήζαλ εμ αξρήο κε βηψζηκα.
+13  
+
+Απηή ε καδηθή εθδήισζε Αζελατθήο χβξεσο γχξσ απφ ηνλ Παξζελψλα 
+
+απνηειεί ζχκπησκα ηήο παγθνζκίνπ βηνκεραληθήο χβξεσο επί ηνχ πιαλήηνπ καο, 
+
+ηήο γήο. Η ζχγρξνλε Αζήλα θηίζηεθε σο κία αδεθάγνο εξγαηνχπνιε πνπ 
+
+ζεσξεηηθψο  ζα  δηεζθάιηδε  ηελ  άθζνλε  πξνζθνξά  θζελνχ  εξγαηηθνχ  δπλακηθνχ   
+ 
+
+                                         . 
+
+13. Nicos Souliotis, ―Cultural Economy, Sovereign Debt Crisis and the Importance of Local 
+
+Contexts: The Case of Athens,‖ CITIES: The International Journal of Urban Policy and 
+
+Planning 33 (2013): 61–68. Πξνζβάζηκν ζην: 
+
+http://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens  
+
+http://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+http://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+http://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+http://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+
+
+ESSAYS & LECTURES | PAPPAS 91 
+ 
+
+  
+
+ζηελ παξαθεηκέλε βαξεία βηνκεραλία, ζηελ Διεπζίλα, πξψελ ηεξφ ρψξν ηειέζεσο 
+
+ησλ Διεπζηλίσλ Μπζηεξίσλ. Παξνκνίσο, ζε παγθφζκην επίπεδν, ε απεξηφξηζηε 
+
+πιηζηηθή επέθηαζε ηήο ―θνηλσλίαο ηήο αθζνλίαο‖ εθηνπίδεη ηήλ Απνιιψληα 
+
+παξάδνζε: Η ερψ ησλ ηδεαιηζηηθψλ αμηψλ ησλ ληθεηψλ ηήο νηθνπκεληθήο Μάρεο 
+
+ηνχ Μαξαζψλνο εμαζζελεί φιν θαη πεξηζζφηεξν ζηελ επνρή ηήο ζπγρξφλνπ 
+
+παγθνζκηνπνηήζεσο, παξφηη απεξηόξηζηε νηθνλνκηθή αλάπηπμε ζε έλαλ πιαλήηε κε 
+
+πεξηνξηνζκέλνπο πφξνπο δελ είλαη απιψο κε βηψζηκε. Δίλαη (αληηθαηηθψο) παξάινγε.  
+
+Δίλαη πνιχ αξγά πιένλ γηα ηνχο Αζελαίνπο, δηφηη ε αηζζεηηθή ηνπο ηχθισζε 
+
+έρεη ήδε επηθέξεη ελαληίνλ ηνπο ηελ παξνχζα ηηκσξία απφ ηελ θνηλσληθν-
+
+νηθνλνκηθή Νέκεζη. Σν επηηαθηηθφ δήηεκα ηψξα είλαη εάλ είλαη επίζεο πάξα πνιχ 
+
+αξγά θαη γηα ηελ Αλζξσπφηεηα, ππφ ην πξίζκα ηήο θιηκαηηθήο Νεκέζεσο πνπ ηελ 
+
+βιέπνπκε λα εκθαλίδεηαη ζηνλ νξίδνληα. Παξεθθιίζεηο απφ ην κέηξν δελ κπνξεί λα 
+
+επηβηψζνπλ απφ ηηο δπλάκεηο ηήο θχζεσο γηα κεγάιν ρξνληθφ δηάζηεκα. Η Νέκεζηο 
+
+παξεκβαίλεη πάληνηε, αξγά ή γξήγνξα, γηα λα απνθαηαζηήζεη ηελ σξαηφηεηα, ηελ 
+
+αξκνλία θαη ηελ ηζνξξνπία, νη νπνίεο είλαη φιεο ζπλαθείο κε ηελ βησζηκφηεηα.
+14
+
+  
+
+Αθφκε θαη ζηε δηθαζηηθή πξαθηηθή θαη ηελ ζηξαηεγηθή αλάιπζε, νη έλλνηεο 
+
+ηνχ κέηξνπ θαη ηήο δηθαηνζύλεο ζρεηίδνληαη ζε πνιιέο πεξηπηψζεηο κε ηελ έλλνηα 
+
+ηήο βησζηκφηεηνο.
+15
+
+ Δλδεηθηηθψο, παξνκνία κε ηελ έλλνηα ηνχ κέηξνπ είλαη ε λνκηθή 
+
+αξρή ηήο αληαπνδνηηθφηεηνο ή lex talionis (λνκηθή ηζνδπλακία), φπσο επίζεο θαη 
+
+ην δεκνθηιέο ξεηφ ―κία ζνπ θαη κία κνπ‖ (αγγιηζηί ―tit  for  tat‖). Η πξνέιεπζε 
+
+ακθνηέξσλ αλάγεηαη ζηε Βηβιηθή γξαθή ―νθζαικφλ αληί νθζαικνχ‖
+16
+
+ θαη  ζηνλ  
+
+Βαβπιψλην  λνκηθφ  θψδηθα,  πνπ  ζεζπίζηεθε ην 1772 π.Υ. απφ ηνλ Υακνπξακπί, 
+
+έθην βαζηιέα ηήο Βαβπιψλνο. Ο θψδηθαο ηνχ Υακνπξακπί δελ πεξηειάκβαλε νπνηα-
+
+δήπνηε πξφβιεςε πεξί ειαθξπληηθώλ ιόγσ εηδηθώλ ζπλζεθώλ ψζηε ε λνκηθψο 
+
+πξνθαζνξηζκέλε ηηκσξία λα είλαη δηθαζηηθψο ηξνπνπνηήζηκε ή κεηξηάζηκε θαηά 
+
+πεξίζηαζε. Δλ ηνχηνηο, ζχκθσλα κε ηνλ Αξηζηνηέιε, ε αλαινγηθή αληαπφδνζε,  πνπ  
+
+ 
+ 
+
+                                        . 
+
+14. Patricia Grant, ―An Aristotelian Approach to Sustainable Business,‖ Corporate 
+
+Governance 11.1 (2008): 4–14.  
+ 
+
+15. Stefan Baumgärtner and Martin Quaas, ―What is Sustainability Economics?‖ University 
+
+of Lüneburg Working Paper Series in Economics (2009), 138: 3 (πξνζβάζηκν ζην:  
+
+http://hdl.handle.net/10419/30222): ―Σν φξακα ηήο βησζηκφηεηνο ζηνρεχεη ζηε δηθαηνζχλε 
+
+ζηνλ ηνκέα ησλ ζρέζεσλ αλζξψπνπ-θχζεσο ππφ ην πξίζκα ηνχ καθξνρξνλίνπ θαη εγγελψο 
+
+αβεβαίνπ κέιινληνο. . . . Απηφ πεξηιακβάλεη ηξεηο εηδηθέο ζρέζεηο  : (i) δηθαηνζχλε κεηαμχ 
+
+ησλ αλζξψπσλ απφ δηαθνξεηηθέο γελεέο (δηαγελεαθή δηθαηνζχλε), (ii) δηθαηνζχλε κεηαμχ 
+
+δηαθνξεηηθψλ αλζξψπσλ θάζε γελεάο (ελδνγελεαθή δηθαηνζχλε), θαη (iii) δηθαηνζχλε 
+
+κεηαμχ αλζξψπσλ θαη θχζεσο (θπζηνθεληξηθή εζηθή).‖ 
+ 
+
+16. Η Βηβιηθή εληνιή ―νθζαικφλ αληί νθζαικνχ‖ (  ) κεηαθξάδεηαη θπξηνιε-
+
+θηηθά ―νθζαικφλ θάησ απφ νθζαικφλ‖(Λεπτηηθφλ 24: 20 ·  Έμνδνο 21: 24 ·  Γεπηεξνλφκηνλ 
+
+19:21). 
+
+https://scholar.google.co.nz/citations?view_op=view_citation&hl=en&user=iGRl_DcAAAAJ&citation_for_view=iGRl_DcAAAAJ:u-x6o8ySG0sC
+https://scholar.google.co.nz/citations?view_op=view_citation&hl=en&user=iGRl_DcAAAAJ&citation_for_view=iGRl_DcAAAAJ:u-x6o8ySG0sC
+http://hdl.handle.net/10419/30222
+http://hdl.handle.net/10419/30222
+http://hdl.handle.net/10419/30222
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0156%3Abook%3DLeviticus%3Achapter%3D24%3Averse%3D20
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0156%3Abook%3DExodus%3Achapter%3D21%3Averse%3D24
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0156%3Abook%3DDeuteronomy%3Achapter%3D19%3Averse%3D21
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0156%3Abook%3DDeuteronomy%3Achapter%3D19%3Averse%3D21
+
+
+92  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+ιακβάλεη ππ' φςηλ ηηο ζπλζήθεο ηνχ αδηθήκαηνο, ήηνη ε ελ κέηξσ ηηκσξία, απνηειεί 
+
+ην είδνο ηήο δηθαηνζχλεο πνπ δηαζθαιίδεη ηελ βησζηκφηεηα ηήο πφιεσο-θξάηνπο 
+
+(Ηζηθά, 1132b33-35): 
+ 
+
+Απηφ ην είδνο δηθαηνζχλεο δηαζθαιίδεη ηελ (θνηλσληθή) ζπλνρή: 
+
+αληαπνδνηηθφηεηα θαη' αλαινγία θαη φρη θαηά ηζφηεηα. Γηφηη ε 
+
+ζπλνρή ηήο πφιεσο δηαζθαιίδεηαη δηα ηήο αλαινγηθήο αληαπνδφζεσο. 
+ 
+
+(Συνζχει τὸ τοιοῦτον δίκαιον, τὸ ἀντιπεπονθὸσ κατ᾽ ἀναλογίαν καὶ μὴ 
+
+κατ᾽ ἰςότητα. Τῷ ἀντιποιεῖν γὰρ ἀνάλογον ςυμμζνει ἡ πόλισ.) 
+ 
+
+Η αξρή ηήο αλαινγηθήο αληαπνδνηηθφηεηνο απνηειεί ηελ ελλνηνινγηθή βάζε 
+
+ηήο ελ κέηξσ απνθξίζεσο (measured response), πνπ απνηειεί κηα απνηειεζκαηηθή 
+
+ζηξαηεγηθή ζηε ζεσξία ησλ παηγλίσλ (game theory) θαη εηδηθφηεξα ζην επί κέξνπο 
+
+ππφδεηγκά ηεο επαλαιεπηηθό δίιεκκα θπιαθηζκέλνπ (iterated prisoner’s dilemma).
+17
+
+  
+
+Αιιά θάησ απφ αθξαίεο πεξηζηάζεηο, κία πνιηηηθή ακνηβαηφηεηνο ίζσο είλαη 
+
+άθακπηε θαη αλαπνηειεζκαηηθή εάλ δελ ηθαλνπνηεί ην αμίσκα ηήο βησζηκφηεηνο. 
+
+Γηα παξάδεηγκα, ε ζπλζήθε ησλ Βεξζαιιηψλ ην 1919 επέβαιε πνιεκηθέο απνδε-
+
+κηψζεηο πέξαλ ηνύ κέηξνπ επί ηήο Γεξκαλίαο κεηά ηνλ Α΄ Παγθφζκην Πφιεκν.  
+
+Δθείλν ην ζχζηεκα ηηκσξεηηθψλ πιεξσκψλ ήηαλ κε βηψζηκν. Καηά ζπλέπεηα, ε 
+
+Γεξκαληθή Οηθνλνκία ζχληνκα θαηεζηξάθε, θαη ηειηθά ην πνιηηηθφ ηεο ζχζηεκα 
+
+θαηέξξεπζε ην 1933. Μεηά ηνλ πφιεκν, θαηά ηελ δηάξθεηα ηήο ζηξαηησηηθήο 
+
+θαηνρήο ηήο Γεξκαλίαο (1945-1949), ε αληαπνδνηηθή δηθαηνζχλε είρε ιίγε ρξεζη-
+
+κφηεηα γηα ηνχο ΢πκκάρνπο, φηαλ έπξεπε λα απνθαζίζνπλ πψο λα αληηδξάζνπλ κε 
+
+βηώζηκν ηξφπν ζην Οινθαχησκα. Η νξζή απάληεζε δελ ζα κπνξνχζε λα είλαη λα 
+
+αληηκεησπίζνπλ έλα άιιν Οινθαχησκα, επί ησλ Γεξκαλψλ απηή ηελ θνξά. Αλη' 
+
+απηνχ, ε βησζηκόηεηα αλεδείρζε ηφηε ζην πξνθείκελν ηνχ γεσζηξαηεγηθνχ ζρεδηα-
+
+ζκνχ ζηε δηακφξθσζε ηήο ακεξηθαληθήο πνιηηηθήο ζε ζρέζε κε ηελ Γεξκαλία, 
+
+φπσο εκθαίλεηαη ζην πέκπην εδάθην ηήο επηηειηθήο νδεγίαο (directive) 1067 ηνχ 
+
+Γεληθνχ Δπηηειείνπ ησλ Η.Π.Α. (Joint Chiefs of Staff ), ε νπνία εμεδφζε πξνο ηνλ 
+
+΢ηξαηεγφ Ατδελράνπεξ ηνλ Απξίιην ηνχ 1945 θαη φξηδε ξεηψο θαη απεξηθξάζησο  
+
+ην εμήο [πιάγηνη ραξαθηήξεο δηθνί κνπ]:  
+
+ 
+
+― Ο πξσηαξρηθφο ζηφρνο ησλ ΢πκκάρσλ είλαη λα εκπνδίζνπλ ηελ 
+
+Γεξκαλία λα θαηαζηεί νπνηεδήπνηε μαλά κία απεηιή γηα ηελ εηξήλε 
+
+ηνχ θφζκνπ.‖  
+ 
+
+ ( The principal Allied objective is to prevent Germany from ever again 
+
+becoming a threat to the peace of the world.)  
+
+ 
+
+                                        . 
+
+17. Anatol Rappoport and Albert M. Chammah, Prisoner’s Dilemma (Ann Arbor: 
+
+University of Michigan Press, 1965).  
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1132b%3Abekker+line%3D30
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1132b%3Abekker+line%3D30
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1132b%3Abekker+line%3D30
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1132b%3Abekker+line%3D30
+http://www.perseus.tufts.edu/hopper/morph?l=sune%2Fxei&la=greek&can=sune%2Fxei0&prior=a)llaktikai=s
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C2&prior=sune/xei
+http://www.perseus.tufts.edu/hopper/morph?l=toiou%3Dton&la=greek&can=toiou%3Dton0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=di%2Fkaion&la=greek&can=di%2Fkaion0&prior=toiou=ton
+http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C3&prior=di/kaion
+http://www.perseus.tufts.edu/hopper/morph?l=a%29ntipeponqo%5Cs&la=greek&can=a%29ntipeponqo%5Cs0&prior=to/
+http://www.perseus.tufts.edu/hopper/morph?l=kat%27&la=greek&can=kat%270&prior=a)ntipeponqo/s
+http://www.perseus.tufts.edu/hopper/morph?l=a%29nalogi%2Fan&la=greek&can=a%29nalogi%2Fan0&prior=kat'
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C2&prior=a)nalogi/an
+http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=kat%27&la=greek&can=kat%271&prior=mh/
+http://www.perseus.tufts.edu/hopper/morph?l=i%29so%2Fthta&la=greek&can=i%29so%2Fthta0&prior=kat'
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C0&prior=i)so/thta
+http://www.perseus.tufts.edu/hopper/morph?l=a%29ntipoiei%3Dn&la=greek&can=a%29ntipoiei%3Dn0&prior=tw=|
+http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr0&prior=a)ntipoiei=n
+http://www.perseus.tufts.edu/hopper/morph?l=a%29na%2Flogon&la=greek&can=a%29na%2Flogon0&prior=ga/r
+http://www.perseus.tufts.edu/hopper/morph?l=summe%2Fnei&la=greek&can=summe%2Fnei0&prior=a)na/logon
+http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=summe/nei
+http://www.perseus.tufts.edu/hopper/morph?l=po%2Flis&la=greek&can=po%2Flis0&prior=h(
+http://www.press.umich.edu/20265/prisoners_dilemma
+http://www.press.umich.edu/20265/prisoners_dilemma
+
+
+ESSAYS & LECTURES | PAPPAS 93 
+ 
+
+  
+
+Δηδηθφηεξα, νη Γεξκαληθέο απνδεκηψζεηο πξνο ηνχο ΢πκκάρνπο ήζαλ κάιινλ 
+
+ζρεηηθά κέηξηεο θαη θπξίσο κε-λνκηζκαηηθέο, φπσο κεηαθνξά ηερλνινγίαο απφ ηελ 
+
+Γεξκαλία πξνο ηηο Η.Π.Α. θαη  ηελ  Ρσζία
+18
+
+  ή  κεηαβηβάζεηο  θεθαιαηνπρηθνχ  εμνπιη-
+
+ζκνχ ζηε Γαιιία θαη ηελ Ρσζία—θπξίσο απφ ηελ δηάιπζε εξγνζηαζίσλ πνιεκη-
+
+θνχ εμνπιηζκνχ θαη ηελ απνδφκεζε ηήο βαξείαο βηνκεραλίαο ηήο Γεξκαλίαο.
+19
+
+ Με 
+
+ζηφρν ηελ βησζηκφηεηα, νη Γπηηθνί ΢χκκαρνη εθήξκνζαλ έλα επθάληαζην κίγκα 
+
+πνιηηηθήο, πνπ ζπκπεξηειάκβαλε: άκεζε ζχιιεςε εγθιεκαηηψλ πνιέκνπ πξνο 
+
+ηηκσξία, απνλαδηζηηθνπνίεζε θαη έιεγρν ηνχ Γεξκαληθνχ εθπαηδεπηηθνχ 
+
+ζπζηήκαηνο, αθνπιηζκφ θαη απνζηξαηηθνπνίεζε ηήο Γεξκαλίαο, κηα νκνζπνλδηαθή 
+
+κνξθή δηαθπβεξλήζεσο ζηε κεηαπνιεκηθή Γεξκαλία, πνπ έθηνηε νλνκάδεηαη 
+
+Οκνζπνλδηαθή Δεκνθξαηία ηήο Γεξκαλίαο (ΟΓΓ), ζπκκεηνρή ηήο ΟΓΓ ζε 
+
+ππεξεζληθνχο νξγαληζκνχο, φπσο ζηνλ OEEC θαη αξγφηεξα ζηνλ ΟECD (ΟΟ΢Α), 
+
+ππνρξεσηηθή έληαμε ηήο Γεξκαληθήο νηθνλνκίαο ζε κία ελνπνηεκέλε Δπξσπατθή 
+
+Αγνξά, γελλαηφδσξε αλαδηάξζξσζε ηνχ εμσηεξηθνχ ρξένπο
+20 
+
+ηήο ΟΓΓ θαηά 
+
+πεξίπνπ 50% ην 1953, κία νινθιεξσκέλε θαη ακνηβαίσο απνδεθηή ζπκθσλία 
+
+απνδεκηψζεσλ κεηαμχ ΟΓΓ θαη Ιζξαήι φζνλ αθνξά ζην Οινθαχησκα, 
+
+δηεζλνπνίεζε ηνχ ζπλφινπ ησλ Δλφπισλ Γπλάκεσλ ηήο ΟΓΓ δηα ηήο ππαγσγήο 
+
+ησλ ππφ Ναηντθή δηνίθεζε, θαη επ' αόξηζηνλ ζπλερηδνκέλε ζηξαηνπέδεπζε κνλάδσλ 
+
+ησλ Δλφπισλ Γπλάκεσλ ησλ Η.Π.Α. ζηε Γεξκαλία ζε ζηξαηεγηθφ ξφιν 
+
+πξνθερσξεκέλσλ βάζεσλ θιηκαθψζεσο (forward enablers) (΢ρ. 3). 
+
+΋ζνλ αθνξά ζηε βησζηκφηεηα, ε δηαρείξηζε ηήο εηηεκέλεο Γεξκαλίαο απφ ηνχο 
+
+΢πκκάρνπο ήηαλ κία ελ κέηξσ πνιηηηθή, θαη γη' απηφ έρεη αληέμεη ζε κάθξνο ρξφλνπ 
+
+θαη έρεη ζπκβάιεη ζεηηθά ζηελ εηξήλε ζηελ Δπξψπε γηα πνιιέο δεθαεηίεο. ΢ηνλ 
+
+απφερν ηήο ηξαγσδίαο ηνχ Β  ́Παγθνζκίνπ Πνιέκνπ, ηνχ ηξαγηθνηέξνπ πνιέκνπ ζηελ 
+
+ηζηνξία ηήο Αλζξσπφηεηνο, ε κεηξηνπάζεηα θαη ε βησζηκόηεηα ήζαλ νη δχν αξρέο 
+
+πνπ θαζνδήγεζαλ ηελ Δπξψπε κε αζθάιεηα, ελ κέηξσ, ζηελ πνξεία ηεο πξνο ηελ 
+
+Αξηζηνηέιεηα θάζαξζηλ.
+21
+
+  
+
+ 
+                                         . 
+
+18. John Gimbel, Science, Technology, and Reparations: Exploitation and Plunder in 
+
+Postwar Germany (Stanford: Stanford University Press, 1990), 171.  
+ 
+
+19. Norman M. Naimark, The Russians in Germany: A history of the Soviet Zone of 
+
+occupation 1945-1949. (Cambridge, MA : Harvard University Press, 1995), 206.  
+ 
+
+20. Timothy W. Guinnane, ―Financial Vergangenheitsbewaeltigung: The 1953 London Debt 
+
+Agreement,‖ Yale University Economic Growth Center Research Paper Series 880 (New 
+
+Haven: Yale University, 2004), 22 θαη 24–25.  
+ 
+
+21. ΋πσο παξαηεξήζεθε γηα πξψηε θνξά απφ ηνλ Αξηζηνηέιε (Πνηεηηθά 1449b28), ην 
+
+ραξαθηεξηζηηθφ γλψξηζκα ηήο ηξαγσδίαο ζην ζέαηξν είλαη φηη ―κέζα απφ νίθην θαη θφβν 
+
+πξνθαιεί αλαθνχθηζε (κάθαρςιν) ζε απηά θαη παξφκνηα ζπλαηζζήκαηα‖ (δι᾽ ἐλζου καὶ 
+
+φόβου περαίνουςα τὴν τῶν τοιοφτων παθημάτων κάθαρςιν). 
+
+https://www.foreignaffairs.com/reviews/capsule-review/1990-09-01/science-technology-and-reparations-exploitation-and-plunder
+https://www.foreignaffairs.com/reviews/capsule-review/1990-09-01/science-technology-and-reparations-exploitation-and-plunder
+http://www.hup.harvard.edu/catalog.php?isbn=9780674784062
+http://www.hup.harvard.edu/catalog.php?isbn=9780674784062
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=493802
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=493802
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=493802
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0055%3Asection%3D1449b
+http://www.perseus.tufts.edu/hopper/morph?l=di%27&la=greek&can=di%271&prior=a)paggeli/as
+http://www.perseus.tufts.edu/hopper/morph?l=e%29le%2Fou&la=greek&can=e%29le%2Fou0&prior=di'
+http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C12&prior=e)le/ou
+http://www.perseus.tufts.edu/hopper/morph?l=fo%2Fbou&la=greek&can=fo%2Fbou0&prior=kai/
+http://www.perseus.tufts.edu/hopper/morph?l=perai%2Fnousa&la=greek&can=perai%2Fnousa0&prior=fo/bou
+http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=perai/nousa
+http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn3&prior=th/n
+http://www.perseus.tufts.edu/hopper/morph?l=toiou%2Ftwn&la=greek&can=toiou%2Ftwn0&prior=tw=n
+http://www.perseus.tufts.edu/hopper/morph?l=paqhma%2Ftwn&la=greek&can=paqhma%2Ftwn0&prior=toiou/twn
+http://www.perseus.tufts.edu/hopper/morph?l=ka%2Fqarsin&la=greek&can=ka%2Fqarsin0&prior=paqhma/twn
+
+
+94  THE ST. JOHN’S REVIEW 
+ 
+
+  
+
+4. Σςμπέπασμα 
+ 
+
+Δπί ρηιηεηίεο, απφ ηελ επνρή ηνχ Οκήξνπ κέρξη ζήκεξα, ε θηινζνθία απέηπρε λα 
+
+δηαηππψζεη έλαλ νινθιεξσκέλν νξηζκφ ηνχ κέηξνπ φζνλ αθνξά ζηελ αλζξψπηλε 
+
+ζπκπεξηθνξά.  Δάλ ην κέηξν είλαη ―θαηάιιειε αλαινγία‖, ζχκθσλα κε ιεμηθνγξά-
+
+θνπο,
+(i) 
+
+ ηφηε ηη επαθξηβώο ζεκαίλεη ην ―θαηάιιειε‖ ελ πξνθεηκέλσ; Δάλ είλαη έλα 
+
+―ππνθεηκεληθφ κέζνλ‖ κεηαμχ δχν άθξσλ, ην έλα αλεπαξθείαο θαη ην άιιν 
+
+πεξηζζείαο, πην θνληά ζην έλα άθξν απ' φ,ηη ζην άιιν (ζχκθσλα κε ηνλ Αξηζηνηέιε), 
+
+ηφηε πόζν πην θνληά; Μέρξη ζήκεξα, δελ έρεη δηαηππσζεί έλαο ―καγηθφο‖ αξηζκφο 
+
+(φπσο ν υ) ή έλαο κε-ακθηιεγφκελνο καζεκαηηθφο ηχπνο γηα ηνλ νξηζκφ ηνχ κέηξνπ
+ 
+
+ζηηο θνηλσληθέο επηζηήκεο θαη γεληθφηεξα ζηελ αλζξψπηλε ζπκπεξηθνξά.
+(ii)
+
+    
+
+Η απξνζδηνξηζηία ζηελ έλλνηα ηνχ κέηξνπ, ζε ζπλδπαζκφ κε ηελ αλζξψπηλε 
+
+παξνξκεηηθή ηάζε γηα ππεξβνιή, έρεη θαηαζηήζεη πνιιά άηνκα, θνηλσλίεο θαη 
+
+θξάηε επηξξεπή ζε πβξηζηηθέο απνθιίζεηο απφ απηφ.
+(iii) 
+
+Μφιηο δε νη άλζξσπνη 
+
+ράλνπλ ηελ αίζζεζε ηνύ κέηξνπ,
+(iv)
+
+ ηφηε ράλνπλ επίζεο ηελ επαθή ηνπο κε ηελ 
+
+πξαγκαηηθφηεηα.
+22
+
+ Αιιά αθφκα θαη αλ ράζνπλ απηήλ ηελ αίζζεζε, ηφηε ίζσο λα 
+
+είλαη αθφκε εηο ζέζε λα αληρλεχνπλ εγθαίξσο ηέηνηεο εθηξνπέο, ρξεζηκνπνηψληαο 
+
+ην πνιιάθηο ―δηαζσζηηθφ‖ θξηηήξην ηήο βησζηκόηεηνο.  
+
+Απφ απηήλ ηελ άπνςε, ε νξζνινγηθή αλάιπζε ηήο βησζηκόηεηνο απνηειεί έλα 
+
+εθεδξηθφ (second-best) θαη ρξνλνβφξν κεζνδνινγηθφ εξγαιείν ζε ζχγθξηζε κε ηελ 
+
+άκεζε αηζζεηηθή (νπηηθή) αμηνιφγεζε ηήο αλζξψπηλεο δξαζηεξηφηεηαο φζνλ αθνξά 
+
+ζηελ σξαηφηεηα, ηελ ηζνξξνπία θαη ηελ αξκνλία. Οη Ναδί δελ ζα ερξεηάδνλην κία 
+
+νξζνινγηθή αλάιπζε πεξί ηήο γελνθηνληαθήο χβξεψο ηνπο εάλ κπνξνχζαλ απιψο 
+
+λα δνύλ ηελ αζρήκηα, ηελ ηεξαησδία θαη ηελ βαξβαξφηεηα ησλ ζηξαηνπέδσλ 
+
+ζπγθεληξψζεσο. Σφηε ίζσο λα είραλ έηζη επαλέιζεη ζηα ζπγθαιά ηνπο απφ κφλνη 
+
+ηνπο, εγθαίξσο. Παξνκνίσο, νη αλνηρηφκπαινη θάηνηθνη ησλ Αζελψλ, ηνχ Νηεηξφτη, 
+
+ή ηήο ΢αλγθάεο, ίζσο λα κελ ρξεηάδνληαη κηα πνιπζχλζεηε αλάιπζε πεξί 
+
+πεξηβαιινληηθώλ όξσλ θαη ελ γέλεη νηθνλνκηθήο βησζηκόηεηνο εάλ κπνξνχλ λα δνύλ 
+
+νη ίδηνη απηφ πνπ είλαη αθαξηαία πξνθαλέο ζην κάηη, ήηνη ην αδηέμνδν ηήο 
+
+πβξηζηηθήο νηθνλνκηθήο αλαπηχμεσο. Αιιά γηα εθείλνπο πνπ είλαη θνληφθζαικνη ή 
+
+ηπθινί φζνλ αθνξά ζην κέηξν, ην Αξηζηνηέιεην θξηηήξην ηήο βησζηκόηεηνο ζα 
+
+κπνξνχζε λα είλαη ίζσο αξθνχλησο δηαθσηηζηηθφ.
+23 
+
+ 
+
+                                       . 
+
+22. Γηαζέηνπλ άξαγε νη άλζξσπνη αίζζεζε ηνύ κέηξνπ; Η απάληεζε ζε απηφ ην εξψηεκα 
+
+απνηειεί κέξνο κίαο επξπηέξαο ζπδεηήζεσο, πνπ ζπκπεξηιακβάλεη θαη ην δήηεκα ηήο 
+
+βέιηηζηεο αλζξψπηλεο δσήο. Η πεξί ηνχηνπ έξεπλα πξνυπνζέηεη θηινζνθηθφ πξνβιε-
+
+καηηζκφ, αιιά ηέηνηνο πξνβιεκαηηζκφο δελ είλαη εθηθηφο ζε θάπνηνλ πνπ δελ κπνξεί, θαηά 
+
+πξψην ιφγν, απιά λα δεί ηελ κνξθή ηνχ κέηξνπ (Sachs, ―Measure, Moderation, and the 
+
+Mean,‖ 22).  
+ 
+
+23. Γείθηεο θαη κεηξήζεηο νηθνλνκηθήο βησζηκφηεηνο πξνζδηνξίδνληαη ζην (Καλαδηθφ) 
+
+Report of the Alberta Round Table on Environment and Economy (1993). 
+
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://www.worldcat.org/title/report-of-the-alberta-round-table-on-environment-and-economy/oclc/911724511?referer=di&ht=edition
+
+
+ESSAYS & LECTURES | PAPPAS 95 
+ 
+
+  
+
+cited references 
+ 
+ 
+
+Alberta Round Table on Environment and Economy (Edmonton, Canada):  
+ — Report of the Alberta Round Table on Environment and Economy (1993). 
+ — Sustainable Development Indicators (1994)  
+ 
+
+Arberry, A. J., The Koran Interpreted: A Translation (New York: Simon and Schuster, 1996). 
+ 
+
+Aristotle, Nicomachean Ethics, 1106a (25–35), 1100a (4–9), 1101a (14–20), 1132b (33–35), 1449b28. 
+ 
+
+Baumgärtner, Stefan; Quaas, Martin, ―What is sustainability economics? ‖ University of Lüneburg Working 
+Paper Series in Economics, 138 (2009): 3.  
+
+ Available at: http://hdl.handle.net/10419/30222.  
+ 
+
+Cook, Theodore Andrea, The Curves of Life (London: Constable, 1914; reprinted in New York: Dover 
+Publications, 1979), 420. 
+
+ 
+
+Euclid, Elements, Book 6 (Definition 3). 
+ 
+
+Gimbel, John, Science, Technology, and Reparations: Exploitation and Plunder in Postwar Germany (Stanford: 
+Stanford University Press, 1990), 171. 
+
+ 
+
+Grant, Patricia ―An Aristotelian approach to sustainable business‖, Corporate Governance, 11.1 (2008):  4–14.  
+ 
+
+Guinnane, Timothy W., ―Financial Vergangenheitsbewaeltigung: The 1953 London Debt Agreement‖, Yale 
+University Economic Growth Center Research Paper Series  880 (New Haven: Yale University, 2004), 22 
+and 24–25. Available at: http://ssrn.com/ abstract=493802. 
+
+ 
+
+Herodotus, Histories, 7.10e, 8.26c. 
+ 
+
+Homer, Odyssey, 2.231, 5.9, 7.310, 14.434, 15.68-74, 17.321, 21.294, 22.46.  
+ 
+
+Livio, Mario. The Golden Ratio: The Story of Phi, the World’s Most Astonishing Number (New York: 
+
+Broadway Books, 2002), 6. 
+ 
+
+Lycurgus, Against Leocrates, 1/109. 
+ 
+
+Molyneux, John H., Simonides: A Historical Study (Wauconda, Illinois: Bolchazy–Caducci, 1992), 150. 
+ 
+
+Nietzsche, Friedrich, Philosophy in the Tragic Age of the Greeks, trans. Mariann Cowan (Washington, D.C.: 
+Regnery Publishing, 1962), 61. 
+
+ 
+
+Naimark, Norman M., The Russians in Germany: A history of the Soviet Zone of occupation 1945–1949. 
+(Cambridge, MA : Harvard University Press, 1995), 206. 
+
+ 
+
+Plato, Theaetetus, 152a, 170d–e. 
+ 
+
+Rapoport, Anatol, and Albert M. Chammah, Prisoner’s Dilemma, (Ann Arbor, MI: Michigan University Press, 
+1965). 
+
+ 
+
+Robinson, Thomas More, Heraclitus: Fragments, trans. and ed. T. M. Robinson (Toronto: University of 
+Toronto Press, 1987), 185. 
+
+ 
+
+Sachs, Joe, ―Measure, Moderation, and the Mean,‖ The St. John’s Review 46.2 (2002): 5–23. Available at: 
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf 
+
+ 
+
+Sophocles, Antigone,  621–625. 
+ 
+
+Souliotis, Nicos, ―Cultural Economy, Sovereign Debt Crisis and the Importance of Local Contexts: The Case of 
+Athens,‖ CITIES: The International Journal of Urban Policy and Planning,  33 (2013), 61–68. 
+
+ 
+
+The Holy Qur’an: Arabic Text and English Translation, ed. and trans. Maulawi Sher Ali (Islamabad: Islam 
+International, 2004), 412.  
+
+ 
+
+Thucydides, Histories, 5.89. 
+
+http://www.worldcat.org/title/report-of-the-alberta-round-table-on-environment-and-economy/oclc/911724511?referer=di&ht=edition
+http://www.cubiq.ribg.gouv.qc.ca/in/faces/details.xhtml?id=p%3A%3Ausmarcdef_0000855300&highlight=Auteur%3A+%26quot%3BAlberta+Round+Table+on+Environment+and+Economy%26quot%3B&posInPage=0&bookmark=daf715b9-dabe-4701-891c-c480b5433af1&queryid=441cfbe2-9109-45
+http://www.simonandschuster.com/books/The-Koran-Interpreted/A-J-Arberry/9780684825076
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1106a%3Abekker+line%3D25
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1100a%3Abekker+line%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1101a%3Abekker+line%3D10
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0053%3Abekker+page%3D1132b%3Abekker+line%3D30
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0055%3Asection%3D1449b
+http://hdl.handle.net/10419/30222
+http://hdl.handle.net/10419/30222
+http://hdl.handle.net/10419/30222
+https://archive.org/details/cu31924028937179
+https://archive.org/details/cu31924028937179
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D6%3Atype%3DDef%3Anumber%3D3
+https://books.google.gr/books/about/Science_Technology_and_Reparations.html?id=JDSsAAAAIAAJ&redir_esc=y
+https://books.google.gr/books/about/Science_Technology_and_Reparations.html?id=JDSsAAAAIAAJ&redir_esc=y
+https://books.google.gr/books/about/Science_Technology_and_Reparations.html?id=JDSsAAAAIAAJ&redir_esc=y
+http://www.emeraldinsight.com/doi/abs/10.1108/14720701111108808
+http://ssrn.com/%20abstract=493802
+http://ssrn.com/%20abstract=493802
+http://ssrn.com/%20abstract=493802
+http://ssrn.com/%20abstract=493802
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D7%3Achapter%3D10E%3Asection%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D26%3Asection%3D3
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D2%3Acard%3D224
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D5%3Acard%3D1
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D7%3Acard%3D287
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D14%3Acard%3D401
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D17%3Acard%3D290
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D21%3Acard%3D256
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D22%3Acard%3D42
+http://www.goodreads.com/book/show/24081.The_Golden_Ratio
+http://www.goodreads.com/book/show/24081.The_Golden_Ratio
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0151%3Aspeech%3D1%3Asection%3D109
+http://www.bolchazy.com/Simonides-A-Historical-Study-P3256.aspx
+http://cnqzu.com/library/Philosophy/neoreaction/Friedrich%20Nietzsche/Friedrich_Nietzsche%20-%20Philosophy_in_the_Tragic_Age_of_the_Greeks_(tr._Marianne_Cowan_1996).pdf
+http://cnqzu.com/library/Philosophy/neoreaction/Friedrich%20Nietzsche/Friedrich_Nietzsche%20-%20Philosophy_in_the_Tragic_Age_of_the_Greeks_(tr._Marianne_Cowan_1996).pdf
+http://www.hup.harvard.edu/catalog.php?isbn=9780674784062
+http://www.hup.harvard.edu/catalog.php?isbn=9780674784062
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D152a
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0171%3Atext%3DTheaet.%3Asection%3D170d
+https://www.press.umich.edu/pdf/9780472061655-fm.pdf
+https://www.press.umich.edu/pdf/9780472061655-fm.pdf
+https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson/dp/0802069134
+https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson/dp/0802069134
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0185%3Acard%3D615
+https://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+https://www.academia.edu/2268081/Cultural_economy_sovereign_debt_crisis_and_the_importance_of_local_contexts_The_case_of_Athens
+http://www.alislam.org/quran/Holy-Quran-English.pdf
+http://www.alislam.org/quran/Holy-Quran-English.pdf
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D5%3Achapter%3D89%3Asection%3D1
+
+
+vi  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ἀμείνω αἴςιμα πάντα 
+(το μέτρο είναι πάντοτε άριςτο ) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ ῞Οκεξνο, ᾿Οδύζζεια, 7.310, 15.71  
+
+ 
+
+http://www.perseus.tufts.edu/hopper/morph?l=a%29mei%2Fnw&la=greek&can=a%29mei%2Fnw0&prior=e)xqai/rh|sin
+http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fsima&la=greek&can=ai%29%2Fsima0&prior=d%27
+http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fnta&la=greek&can=pa%2Fnta1&prior=ai)/sima
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D7%3Acard%3D287
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D15%3Acard%3D48
+
+
+ vii 
+ 
+
+  
+
+γλώσσα τού κειμένου 
+ 
+
+Η κεηάθξαζε ηήο κνλνγξαθίαο είλαη γξακκέλε ζηελ θαζνκηινπκέλε Νενειιεληθή, δηαλζηζκέλε κε 
+
+θιαζηθνύο ηύπνπο ρωξίο αθξόηεηεο, ζην κνλνηνληθό ζύζηεκα, ζύκθωλα κε ηνύο εμήο εηδηθνηέξνπο 
+
+θαλόλεο:  
+ 
+
+1.  Άπθπο. Οη ηύπνη ηνύ νξηζηηθνύ άξζξνπ “τού”, “τήρ”, “τούρ” ηνλίδνληαη πάνηοηε, πξνο απνθπγή 
+
+ζπγρύζεωο κε ηηο αληίζηνηρεο θηεηηθέο αληωλπκίεο (“τος”, “τηρ”, “τοςρ”). Σηελ αηηηαηηθή 
+
+εληθνύ ηνύ αξζεληθνύ γέλνπο ην άξζξν είλαη πάληνηε “ηνν” (νπδέπνηε “ην”), π.ρ. “ηνν Θεό” (όρη 
+
+“ην Θεό”).*  Παξνκνίωο, ζηελ αηηηαηηθή εληθνύ ζειπθνύ γέλνπο, ην άξζξν είλαη πάληνηε “ηεν” 
+
+(νπδέπνηε “ηε”), π.ρ. “ηεν δύλακε” (όρη “ηε δύλακε”), πξνο απνθπγή ζπγρύζεωο κε ηελ δνηηθή 
+
+πηώζε ζην κνλνηνληθό ζύζηεκα (π.ρ. “επί ηε βάζεη”). 
+ 
+
+2.  Αςξήσειρ. Οη ρξνληθέο απμήζεηο θαηά θαλόλα δηαηεξνύληαη.  
+ 
+
+3.  Βαπβαπισμοί. Καθόερνη βαξβαξηζκνί ηήο Νενειιεληθήο απνθεύγνληαη. Γεληθά ζην γ  ́πξόζωπν 
+
+παξαηαηηθνύ, ρξεζηκνπνηνύληαη νη θιαζηθέο (εύερεο) θαηαιήμεηο -ετο θαη -οντο, αληί ηωλ 
+
+αληηζηνίρωλ (θαθνήρωλ) λενειιεληθώλ -οταν / όταν  θαη  -ονταν / όνταν / όντοςσαν,  ζπλήζωο  
+
+κε  αύμεζε:  π.ρ. “ελεπιέθοντο” (αληί “εκπιέθονταν” / “εκπιεθόντοςσαν”).  
+ 
+
+4.  Βοηθητικό πήμα. Τν βνεζεηηθό ξήκα “είκαη” δηαηππώλεηαη ωο “ήσαν” ζην γ  ́ πιεζπληηθό 
+
+πξόζωπν ζηνλ παξειζόληα ρξόλν πξνο απνθπγή ζπγρύζεωο κε ην γ  ́εληθό πξόζωπν (“ήηαλ”) 
+
+ηνύ ηδίνπ ρξόλνπ. 
+ 
+
+5.  Δπίθετα και κύπια ονόματα. Τα επίζεηα πνπ αλαθέξνληαη ζε εζλόηεηα αλαγξάθνληαη κε 
+
+θεθαιαίν ην αξρηθό γξάκκα όηαλ ζπλαξηώληαη κε πολιηειακή νληόηεηα, π.ρ. “Γεξκαληθή 
+
+Οηθνλνκία” (αιιά “ειιεληθή ιέμε”). Επίζεηα ή νπζηαζηηθά πνπ αλαθέξνληαη ζε ζξεζθεία 
+
+αλαγξάθνληαη πάληνηε κε θεθαιαίν ην πξώην γξάκκα, π.ρ. “Ιζιακηθή αλαθνξά”.  
+ 
+
+6.  Τπιτόκλιτα και γενική πτώση. Καηά θαλόλα, ε γεληθή πηώζε ηωλ ηξηηνθιίηωλ δηαηεξείηαη, π.ρ. 
+
+“ηήο πόιεωρ”, “ηήο ύβξεωρ” (αληί “ηήο πόιηρ”, “ηήο ύβξηρ” αληίζηνηρα). Επίζεο ε 
+
+παξαιήγνπζα ζηε γεληθή πηώζε ζπλήζωο ηνλίδεηαη πξν καθξάο ιεγνύζεο, π.ρ. “ηήο ελλοίαο”, 
+
+“ηήο κεηξηνπαζείαο” (αληί “ηήο έλλνηαο”, “ηήο κεηξηνπάζεηαο”  αληίζηνηρα). 
+ 
+
+7. Δπιππήματα. Πνιιά επηξξήκαηα ζπλήζωο ιήγνπλ ζηελ θαηάιεμε -ωρ / ώρ, αιιά  ελίνηε  θαη  
+
+ζηελ  θαηάιεμε  -α /  ά  αλάινγα  κε  ηηο  αλάγθεο  θαη  ηνλ  ξπζκό ηνύ θεηκέλνπ. Ελδεηθηηθά, 
+
+ιήγνπλ ζπλήζωο ζε -ωρ /  ώρ πξν νπζηαζηηθνύ ή επηζέηνπ πξνο απνθπγή ζπγρύζεωο (π.ρ. “κηα 
+
+ακνηβαίωρ απνδεθηή ζπκθωλία”), ελώ ιήγνπλ ζπλήζωο ζε -α /  ά ζηελ αξρή παξαγξάθνπ ή 
+
+πξνηάζεωο, ζπλήζωο πξν θόκκαηνο (π.ρ. “Σπγθεθξηκέλα,…”).   
+ 
+
+8. Κοινωνιόλεκτοι. Λαϊθέο θξάζεηο ρξεζηκνπνηνύληαη ελίνηε ζθνπίκωο (π.ρ. “ηόηε ίζωο λα είραλ 
+
+έτσι επαλέιζεη ζηα σςγκαλά ηνπο”).  
+ 
+
+Σπλνπηηθά, ε ηδηόηππε ινγία (“κηθηή”) γιώζζα ηνύ θεηκέλνπ απνηειεί αλαγλωζηηθή γέθςπα κεηαμύ 
+
+ηήο Νενειιεληθήο θαη ηήο Κιαζηθήο Ειιεληθήο, ώζηε ν αλαγλώζηεο λα κεηαπίπηεη επράξηζηα κεηαμύ 
+
+ηνύ θπξίωο (λενειιεληθνύ) θεηκέλνπ θαη ηωλ πξνο ηεθκεξίωζε παξαηηζεκέλωλ (αξραηνειιεληθώλ) 
+
+απνζπαζκάηωλ από ηελ Κιαζηθή Ειιεληθή Γξακκαηεία. 
+
+ 
+
+ 
+
+ 
+
+* Τνλ θαλόλα 1 (πεξί άξζξνπ) πξόηεηλε, από ην 1998, ν νκ. Καζεγεηήο Γιωζζνινγίαο Γεώπγιορ Γ. 
+
+Μπαμπινιώτηρ— ηδέ άξζξν ηνπ ππό ηνλ ηίηιν «Με ην λη θαη κε ηνλ ηόλν» ζηελ εθεκεξίδα ΤΟ 
+
+ΒΗΜΑ, 6/12/1998 (http://www.tovima.gr/opinions/article/?aid=105702). Επίζεο, ηδέ ζρόιην πεξί 
+
+άξζξνπ ζην Λεξικό ηήρ Νέαρ Ελληνικήρ Γλώζζαρ ηνύ ηδίνπ (α  ́ έθδνζε, Απξ. 1998, ζει. 277). 
+
+Γεληθά, ζε απηό ην ιεμηθό δηαηεξείηαη θαη ε γεληθή ηξηηνθιίηωλ (ωο άλω θαλόλαο 6). 
+
+http://www.tovima.gr/opinions/article/?aid=105702
+http://www.tovima.gr/opinions/article/?aid=105702
+http://www.tovima.gr/opinions/article/?aid=105702
+http://www.tovima.gr/opinions/article/?aid=105702
+
+
+viii   
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+copyright endnotes 
+ 
+
+The first edition of this article was first published 
+
+in English (Fall 2014) in The St. John's Review, 
+
+vol. 56.1: pp. 74-94:  
+
+ 
+
+ISSN 0277-4720 
+
+ 
+
+The St. John’s Review is an open-access academic 
+
+academic journal published by the Office of the 
+
+Dean, St. John’s College (Christopher B. Nelson, 
+
+President; Pamela Kraus, Dean; all manuscripts 
+
+are subject to blind review). Address correspond-
+
+ence: The St. John’s Review, St. John’s College, 
+
+60 College Av., Annapolis, MD 21401-1687, USA. 
+
+ 
+
+The first edition of the article, as well as the entire volume 56.1 (Fall 2014) 
+
+of The St. John's Review, are accessible and freely downloadable at: 
+
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf 
+
+ 
+
+In Fall 2016, under licence by the The St. John's Review, a second 
+
+(extended) edition of the article in English was posted in academia.edu at: 
+
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_
+
+of_Sustainability_The_St._Johns_Review_ 
+
+ 
+
+The Foreword (pp. iv-v), Fig. 3 and the cited 
+
+references list (p. 95) of the second edition—at 
+
+academia.edu—are not included in the first 
+
+edition.  
+
+ 
+
+Moreover, in the second edition, excerpts from 
+
+classical Greek works are written in the original 
+
+(i.e. in Classical Greek, not in transliterated text as 
+
+in the first edition). Hypertext links to the lexicons 
+
+of the Perseus Digital Library are embedded in all  
+
+excerpts in the web version of the second edition, 
+
+under licence kindly granted by Tufts University.  
+
+ 
+
+https://www.sjc.edu/publications
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+https://www.sjc.edu/publications
+http://www.sjc.edu/
+https://www.sjc.edu/publications
+http://www.sjc.edu/blog/st-johns-review/
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+https://www.sjc.edu/publications
+https://www.sjc.edu/publications
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://www.perseus.tufts.edu/hopper/
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+https://www.tufts.edu/
+
+
+ ix 
+ 
+
+  
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Non-commercial electronic dissemination, as well as hard-copy (printout or 
+
+photocopy ) reproduction  of the second edition in Modern Greek (this file) 
+
+for academic purposes only (study, teaching or research) is permitted at no 
+
+charge on the author's approval. 
+ 
+
+Author's contact: pappas.research@gmail.com 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Non-Commercial Publication:  
+ 
+
+Posted in 2016 and  
+
+freely downloadable  
+
+in digital form  
+
+at academia.edu: 
+
+ 
+ 
+
+English-language edition of the article (first published in The St. John's Review)   
+[«The Concept of Measure and the Criterion of Sustainability  (The St. John's Review)»]: 
+ 
+
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_
+the_Criterion_of_Sustainability_The_St._Johns_Review_ 
+
+ 
+
+Greek-language edition of the article  (posted in academia.edu) 
+
+[«Η Έννοια τοφ Μέτρου και το Κριτήριο τήσ Βιωςιμότητοσ»]: 
+ 
+
+http://www.academia.edu/29688272/Η_Έννοια_τοφ_Μέτρου
+_και_το_Κριτήριο_τήσ_Βιωςιμότητοσ  
+
+ 
+
+Author's home page at academia.edu:  
+ 
+
+http://columbia.academia.edu/JohnDPappas 
+
+ 
+
+http://columbia.academia.edu/JohnDPappas
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_
+http://www.academia.edu/29688272/%CE%97_%CE%88%CE%BD%CE%BD%CE%BF%CE%B9%CE%B1_%CF%84%CE%BF%CF%8D_%CE%9C%CE%AD%CF%84%CF%81%CE%BF%CF%85_%CE%BA%CE%B1%CE%B9_%CF%84%CE%BF_%CE%9A%CF%81%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF_%CF%84%CE%AE%CF%82_%CE%92%CE%B9%CF%89%CF%83%CE%B9%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%BF%CF%82
+http://www.academia.edu/29688272/%CE%97_%CE%88%CE%BD%CE%BD%CE%BF%CE%B9%CE%B1_%CF%84%CE%BF%CF%8D_%CE%9C%CE%AD%CF%84%CF%81%CE%BF%CF%85_%CE%BA%CE%B1%CE%B9_%CF%84%CE%BF_%CE%9A%CF%81%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF_%CF%84%CE%AE%CF%82_%CE%92%CE%B9%CF%89%CF%83%CE%B9%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%BF%CF%82
+http://www.academia.edu/29688272/%CE%97_%CE%88%CE%BD%CE%BD%CE%BF%CE%B9%CE%B1_%CF%84%CE%BF%CF%8D_%CE%9C%CE%AD%CF%84%CF%81%CE%BF%CF%85_%CE%BA%CE%B1%CE%B9_%CF%84%CE%BF_%CE%9A%CF%81%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF_%CF%84%CE%AE%CF%82_%CE%92%CE%B9%CF%89%CF%83%CE%B9%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%BF%CF%82
+http://www.academia.edu/29688272/%CE%97_%CE%88%CE%BD%CE%BD%CE%BF%CE%B9%CE%B1_%CF%84%CE%BF%CF%8D_%CE%9C%CE%AD%CF%84%CF%81%CE%BF%CF%85_%CE%BA%CE%B1%CE%B9_%CF%84%CE%BF_%CE%9A%CF%81%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF_%CF%84%CE%AE%CF%82_%CE%92%CE%B9%CF%89%CF%83%CE%B9%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%BF%CF%82
+http://en-uoa-gr.academia.edu/DemetraAsimakopoulou
+http://columbia.academia.edu/JohnDPappas
+
+
+x   
+ 
+
+  
+
+acknowledgments 
+ 
+
+I am thankful to William Pastille of  St. John’s College and 
+
+two anonymous reviewers for their meticulous editing of the 
+
+article, and also much indebted to Joe Sachs, whose article 
+
+entitled “Measure, Moderation, and the Mean”, published in 
+
+The St. John’s Review (46.2), has been a source of motivation 
+
+in my writing the first edition of the present article. 
+
+ 
+
+The second edition of the article was made feasible due to 
+
+Liza Cerrato, Managing Editor of the Perseus Digital Library: 
+
+Her prompt approval of the embedded web links and also her 
+
+kind words of encouragement were essential to spurring the 
+
+functional restructuring of the article as a (hypertext-linked) 
+
+tool for academic learning.  
+
+ 
+
+To this end, the contribution of Demetra Asimakopoulou  
+
+of Athens University to the second edition is noteworthy:  
+
+In addition to authoring the Foreword  and translating the 
+
+article in Modern Greek, she has embedded more than  
+
+600 web links in the article text and has thus upgraded it  
+
+to an analytical tool for efficient on-line student study and 
+
+effective in-class instruction as regards the concepts of 
+
+measure and sustainability—i.e. to an educational tool that 
+
+combines instantaneous access to pertinent web resources of 
+
+The St. John’s Review (an open-access journal), academia.edu, 
+
+and the Perseus Digital Library of Tufts University. 
+
+ 
+
+John D. Pappas 
+pappas.research@gmail.com 
+
+http://columbia.academia.edu/JohnDPappas 
+
+ 
+
+http://www.sjc.edu/about/faculty
+http://www.sjc.edu/
+http://www.sjc.edu/about/faculty
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://digitalarchives.sjc.edu/files/original/2b69b2ce561c611b2fc3cefb8e8bdaec.pdf
+http://www.perseus.tufts.edu/hopper/
+http://en-uoa-gr.academia.edu/DemetraAsimakopoulou
+http://en.phil.uoa.gr/
+https://www.sjc.edu/publications
+http://www.academia.edu/
+http://www.perseus.tufts.edu/hopper/
+https://www.tufts.edu/
+http://columbia.academia.edu/JohnDPappas
+
+
+ xi 
+ 
+
+  
+
+ 
+
+ 
+
+St. John's College 
+ 
+
+St. John's College received a collegiate 
+
+charter in 1784, making it one of the 
+
+oldest institutions of higher learning in 
+
+the U.S. It is a private liberal arts 
+
+college  with  two  U.S.  campuses:  one  
+
+nearby the U.S. Naval Academy in Annapolis, Maryland (since 
+
+1784), and one in Santa Fe, New Mexico (since 1964).  
+
+ 
+
+St. John's was a military school for much of the late 19th 
+
+century and early 20th century. It ended compulsory military 
+
+training in 1923, but still the U.S. Navy instituted an on-campus 
+
+Naval Reserve unit at St. John's College in 1924, creating the 
+
+first-ever collegiate Department of Naval Science in the United 
+
+States. In 1948, St. John's became the first previously all-white 
+
+college south of the Mason-Dixon line to voluntarily admit 
+
+African American students. 
+
+ 
+
+Today, St. John's is renowned, as a liberal-arts college, for its 
+
+inernationally distinctive curriculum, the Great Books Program, 
+
+which is based on discussion of works from the Western 
+
+canon of philosophical, religious, historical, scientific, and 
+
+literary works, with strong emphasis on source materials:          
+
+St. John's is committed to collaborative inquiry and to the study 
+
+of original texts of the world’s greatest writers and thinkers from 
+
+Homer, Plato, Aristotle, and Thucydides to Descartes, Pascal, 
+
+Nietzsche, and Einstein. St. John's avoids modern textbooks, 
+
+lectures, and examinations, in favor of a series of manuals, 
+
+student dialogue and class discussion—in emulation of classical 
+
+Ancient-Greek standards of learning—that motivate students to 
+
+speak articulately, read attentively, reason effectively, and think 
+
+creatively. To this end, Tutors, as faculty members are called at 
+
+the College, play a non-directive role in the classroom, and the 
+
+program involves four years of required language studies 
+
+(Ancient Greek, French and Middle/Early English).  
+
+    
+
+St. John's College «ranks fifth nationally in the number of 
+
+graduates earning doctorates in the humanities» and, according to 
+
+The  New  York  Times,  «although  a  small  college,  St. John's  has,  
+
+because of its experimental liberal arts 
+
+program, received more publicity and 
+
+been the center of a greater academic 
+
+controversy than most other colleges 
+
+in the land. Its Great Books Program 
+
+has been attacked and praised by 
+
+leading educators of the day». 
+
+ 
+
+http://www.sjc.edu/
+http://www.sjc.edu/
+https://www.usna.edu/homepage.php
+http://www.sjc.edu/
+http://en.wikipedia.org/wiki/Mason-Dixon_line
+http://www.sjc.edu/
+https://www.sjc.edu/admissions-and-aid/undergraduate-admissions/
+http://en.wikipedia.org/wiki/Western_canon
+http://en.wikipedia.org/wiki/Western_canon
+http://www.sjc.edu/
+http://www.sjc.edu/academics/undergraduate/features/
+http://www.sjc.edu/
+https://www.nytimes.com/
+https://www.sjc.edu/admissions-and-aid/undergraduate-admissions/
+
+
+xii   
+ 
+
+  
+
+ 
+
+. 
+ 
+
+  
+
+ 
+
+Η παροφςα μονογραφία ςτην ΑΓΓΛΙΚΗ: http://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability_The_St._Johns_Review_ 
+ 
+
+ 
+
+Licenced non-commercial  
+Greek-language translation of: 
+
+ 
+
+ 
+The St. John’s Review 
+
+ 
+
+Volume 56.1 (Fall 2014), pp. 74-94 
+
+ 
+
+https://www.academia.edu/29332856/The_Concept_of_Measure_and_the_Criterion_of_Sustainability
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+http://digitalarchives.sjc.edu/files/original/c5b8d9fe3ab5a36b1c057f8dbe269bda.pdf
+
+	Measure - GREEK  4TH edition 3000 ALL
+	Measure - GREEK  4TH edition 3000 ALL
+	Measure - GREEK  4TH edition 3000 ALL
+	Measure - GREEK  4TH edition 3000 first
+	Measure - GREEK  4TH edition 3000
+	Pappas - Measure - Greek 3rd edition - email - FIG 3-4 10
+
+	Measure - GREEK  4TH edition 3000
+	Measure - GREEK  4TH edition 1000 -- ENDNOTES
+
+	Pappas - Measure - Greek 3rd edition - email - FIG 3-4 10
+
+	Measure - GREEK  4TH edition 1000 -- ENDNOTES
+
+	Measure - GREEK  4TH edition 1000 -- ENDNOTES
+

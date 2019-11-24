@@ -104,7 +104,7 @@ def preProcessText(text):
     # remove stopwords
     text = re.compile(r'\b(' + r'|'.join(stopWords) + r')\b\s*').sub('', text)
     # remove special characters
-    text = re.sub('[»«‒§—·•]', '', text)
+    text = re.sub('[»«‒§—·•·]', '', text)
     # remove digits
     text = re.sub(r'\d+', '', text)
     # remove multiple whitespaces
