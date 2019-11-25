@@ -27,7 +27,7 @@
 0. Install the required Python libraries by running:
 
     ```
-        pip install
+        pip install -r requirements.txt
     ```
 
 ### Running
