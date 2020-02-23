@@ -12,8 +12,11 @@ import urllib
 ########################################################################################################################
 
 BASE_URL = 'https://www.openbook.gr/category/literature/page/'
-START_PAGE = 1
-END_PAGE = 82
+SOUP_METADATA_HTML_CONFIGURATION = {'class_': 'post-content description'}
+SOUP_POST_ELEMENTS_CONFIGURATION = {'name': 'article', 'class_': 'post'}
+SOUP_POST_ELEMENT_CONFIGURATION = {'name': 'a', 'class_': 'image-link'}
+START_PAGE = 0
+END_PAGE = 1
 DOWNLOAD_FOLDER = 'pdf'
 DOWNLOAD_FILENAME_EXTENSION = '.pdf'
 TEXT_FOLDER = 'text'
@@ -51,7 +54,7 @@ def extractPublishedYear(textContent):
 def extractISBN(textContent):
     return extractText(textContent, 'ISBN')
 
-def extractattachmentUrl(soupContent):
+def extractΑttachmentUrl(soupContent):
     htmlElement = soupContent.find(class_='wpcmsdev-button')
 
     if htmlElement:
@@ -68,9 +71,9 @@ def getPostUrls():
         pageUrl = BASE_URL + str(pageNumber) + '/'
         pageHtml = requests.get(pageUrl)
         soup = BeautifulSoup(pageHtml.text, 'html.parser')
-        soupElements = soup.findAll('article', class_='post')
+        soupElements = soup.findAll(**SOUP_POST_ELEMENTS_CONFIGURATION)
         for soupElement in soupElements:
-            postUrl = soupElement.find('a', class_='image-link')['href']
+            postUrl = soupElement.find(**SOUP_POST_ELEMENT_CONFIGURATION)['href']
             postUrls.append(postUrl)
 
     return postUrls
@@ -83,7 +86,7 @@ def parsePosts(postUrls):
 
         postHtml = requests.get(postUrl)
         soup = BeautifulSoup(postHtml.text, 'html.parser')
-        soupElement = soup.find(class_='post-content description')
+        soupElement = soup.find(**SOUP_METADATA_HTML_CONFIGURATION)
         textElement = soup.text
 
         id = 'openBook' + str(index)
@@ -92,7 +95,7 @@ def parsePosts(postUrls):
         type = extractType(textElement)
         publishedYear = extractPublishedYear(textElement)
         isbn = extractISBN(textElement)
-        attachmentUrl = extractattachmentUrl(soupElement)
+        attachmentUrl = extractΑttachmentUrl(soupElement)
         filename = id + DOWNLOAD_FILENAME_EXTENSION
 
         postMetadata = {
@@ -148,7 +151,7 @@ def extractTextFromPdf(postsMetadata):
                 parsed = parser.from_file(pdfFilePath)
 
                 # check in case the parsed content is empty
-                if (parsed and parsed['content']):
+                if (parsed and parsed.get('content')):
                     with open(textFilePath, 'w+') as textFileHandler:
                         textFileHandler.write(parsed['content'])
 

@@ -31,11 +31,19 @@
     ```
 
 ### Running
-If running for first time, create the text files per decade by running:
+If running for first time, create the text files per period by running:
     
-        python index.py metadata --exportTextByDecade
+        python index.py metadata --exportTextByPeriod
         python index.py model --action create
 
-Later, after the models have been generated try to see the nearest neighbours of a word by running something similar to this example:
+Later, after the models have been generated you can see the nearest neighbours of a word by running something similar to this example:
     
-        python index.py model --action getNN --word αισθάνομαι --decade 1800
+        python index.py model --action getNN --word αισθάνομαι --period 1800
+
+Get the 10 words with the highest semantic change, based on their cosine distance:
+        
+        python index.py model --action getCD --fromPeriod 1800 --toPeriod 1900
+                
+Get the 10 words with the highest semantic change, based on their cosine similarity (opposite sorted list of cosine distance):
+        
+        python index.py model --action getCS --fromPeriod 1800 --toPeriod 1900
