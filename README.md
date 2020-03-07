@@ -33,7 +33,7 @@
 ### Running
 If running for first time, create the text files per period by running:
     
-        python index.py metadata --exportTextByPeriod
+        python index.py metadata --exportTextByPeriod --corpusName openbook
         python index.py model --action create
 
 Later, after the models have been generated you can see the nearest neighbours of a word by running something similar to this example:

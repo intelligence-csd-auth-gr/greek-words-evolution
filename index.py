@@ -5,17 +5,21 @@ import argparse
 import codecs
 import fasttext
 import glob
-from lib.NearestNeighbours import NearestNeighbours
 import nltk
+import time
 import os
 import pandas
 import re
 from scipy import spatial
 from sklearn.metrics.pairwise import cosine_similarity
+import json
 
 import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+from lib.NearestNeighbours import NearestNeighbours
+from lib.align_embeddings import align_two_embeddings
 
 ########################################################################################################################
 #-----------------------------------------------------------------------------------------------------------------------
@@ -44,13 +48,15 @@ DATA_FOLDER = './data'
 MODELS_FOLDER = './output/models'
 PRODUCED_TEXTS_FOLDER = './output/texts'
 LIB_FOLDER = './lib'
-TEXT_FILES_FOLDER = DATA_FOLDER + '/corpora/openbook/text/parsable'
 MODEL_FILE_EXTENSION = '.model'
 TEXT_FILE_EXTENSION = '.txt'
-METADATA_FILENAME = DATA_FOLDER + '/corpora/openbook/metadata.tsv'
+CORPORA = [
+    {'name': 'openbook', 'textFilesFolder': DATA_FOLDER + '/corpora/openbook/text/parsable', 'metadataFilename': DATA_FOLDER + '/corpora/openbook/metadata.tsv'},
+    {'name': 'project_gutenberg', 'textFilesFolder': DATA_FOLDER + '/corpora/project_gutenberg/text/parsable', 'metadataFilename': DATA_FOLDER + '/corpora/project_gutenberg/metadata.tsv'},
+]
 COMBINED_TEXTS_FILENAME = 'corpus_combined.txt'
 COMBINED_MODEL_FILENAME = MODELS_FOLDER + '/corpus_combined_model.bin'
-START_YEAR = 1900
+START_YEAR = 1960
 END_YEAR = 2020
 SPLIT_YEARS_INTERVAL = 10
 
@@ -106,12 +112,12 @@ def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
 
     return estimatedPublishedYear
 
-def enhanceMetadata(metadata, detectPublishedYear, calculateTokens):
+def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTokens):
     logger.info('Enhancing metadata')
 
     for index, row in metadata.iterrows():
-        textFileContentsAsLines = getTextFileContents(os.path.join(TEXT_FILES_FOLDER, row['id'] + TEXT_FILE_EXTENSION))
-        textFileContentsAsString = preProcessText('\n'.join(textFileContentsAsLines))
+        textFileContentsAsLines = getTextFileContents(os.path.join(textFilesFolder, row['id'] + TEXT_FILE_EXTENSION))
+        textFileContentsAsString = '\n'.join(textFileContentsAsLines)
 
         metadata.loc[index, 'text'] = textFileContentsAsString
 
@@ -129,16 +135,24 @@ def enhanceMetadata(metadata, detectPublishedYear, calculateTokens):
     return metadata
 
 def preProcessText(text):
+    logger.info('Preprocessing text')
+
     stopWords = set(nltk.corpus.stopwords.words('greek'))
 
     text = text.lower()
-    text = re.sub('-\n', '', text)
-    # remove special characters
-    #text = re.sub('[»«‒§—·•■·][^A-Za-z0-9]', '', text)
+
+    # move split words into same line. The second - is a different utf character than the first, which is the normal dash
+    text = re.sub('[-­]\s+', '', text)
+
     # remove stopwords
     text = re.compile(r'\b(' + r'|'.join(stopWords) + r')\b\s*').sub('', text)
+
+    # remove special characters
+    #text = re.sub('[»«‒§—·•■·][^A-Za-z0-9]', '', text)
+
     # remove anything that is not latin or greek letters
     text = re.sub('[^Α-Ωα-ωΊίϊΐΌόΆάΈέΎύϋΰΉήΏώ\s]', '', text)
+
     # remove all accents from vowels
     text = re.sub('[άἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷ]', 'α', text)
     text = re.sub('[ΆἈἉἊἋἌἍἎἏᾈᾉᾊᾋᾌᾍᾎᾏᾸᾹᾺΆᾼ]', 'Α', text)
@@ -154,24 +168,35 @@ def preProcessText(text):
     text = re.sub('[ΎὙὛὝὟ]', 'Υ', text)
     text = re.sub('[ώὠὡὢὣὤὥὦὧῶ]', 'ω', text)
     text = re.sub('[ΏὨὩὪὫὬὭὮὯ]', 'Ω', text)
+
     # remove single character words
     text = re.sub(r'\b[α-ωΑ-Ω]\b', '', text)
+
     # remove digits
     #text = re.sub(r'\d+', '', text)
+
     # remove multiple whitespaces
     text = re.sub('\s\s+', ' ', text)
+
     # remove punctuation
     #text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
 
     return text
 
-def exportTextToFile(text, filename):
-    f = open(filename, 'w')
-    f.write(text)
-    f.close()
+def exportTextToFile(text, filename, exportToJson=False):
+    fileHandler = open(filename, 'w', encoding='utf8')
 
-def exportMetadata(metadata, filename):
-    metadata.to_csv(filename, sep='\t', index=False, header=True, columns=['id', 'title', 'author',
+    if exportToJson:
+        json.dump(text, fileHandler, indent=4, ensure_ascii=False)
+    else:
+        fileHandler.write(text)
+
+    fileHandler.close()
+
+def exportMetadata(metadata, filename='-export.tsv'):
+    exportFilename = int(time.time()) + filename
+
+    metadata.to_csv(exportFilename, sep='\t', index=False, header=True, columns=['id', 'title', 'author',
                                                                            'authorYearOfBirth',
                                                                            'authorYearOfDeath',
                                                                            'publishedYear',
@@ -186,7 +211,8 @@ def exportTextByPeriod(enhancedMetadata):
 
         text = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= currentRangeFrom) &
                                     (enhancedMetadata['publishedYear'] < currentRangeTo)]
-        exportTextToFile(text['text'].str.cat(sep='\n'), os.path.join(PRODUCED_TEXTS_FOLDER, ('%s' + TEXT_FILE_EXTENSION) % i))
+        preProcessedText = preProcessText(text['text'].str.cat(sep='\n'))
+        exportTextToFile(preProcessedText, os.path.join(PRODUCED_TEXTS_FOLDER, ('%s' + TEXT_FILE_EXTENSION) % i))
 
 def createModel(textsFilename, modelsFolder):
     logger.info('Creating model from %s', textsFilename)
@@ -238,17 +264,33 @@ def getCosineSimilarityOfVectors(vectorA, vectorB):
 ########################################################################################################################
 
 def metadataParser(args):
-    metadata = readMetadata(METADATA_FILENAME)
-    enhancedMetadata = enhanceMetadata(metadata=metadata, detectPublishedYear=False, calculateTokens=False)
+    metadataList = []
+    enhancedMetadataList = []
+
+    for corpus in CORPORA:
+        if (not args.corpusName) or (args.corpusName and corpus['name'] == args.corpusName):
+            textFilesFolder = corpus.get('textFilesFolder')
+            metadata = readMetadata(corpus.get('metadataFilename'))
+            metadataList.append(metadata)
+
+            if args.printEnhanced or args.export or args.exportTextByPeriod:
+                enhancedMetadata = enhanceMetadata(textFilesFolder, metadata=metadata, detectPublishedYear=False,
+                                                   calculateTokens=False)
+
+                enhancedMetadataList.append(enhancedMetadata)
 
     if args.printStandard:
-        print(metadata)
-    if args.printEnhanced:
-        print(enhancedMetadata)
-    if args.export:
-        exportMetadata(enhancedMetadata, METADATA_FILENAME)
-    if args.exportTextByPeriod:
-        exportTextByPeriod(enhancedMetadata)
+        combinedMetadata = pandas.concat(metadataList)
+        print(combinedMetadata)
+    elif args.printEnhanced or args.export or args.exportTextByPeriod:
+        combinedEnhancedMetadata = pandas.concat(enhancedMetadataList)
+
+        if args.printEnhanced:
+            print(combinedEnhancedMetadata)
+        if args.export:
+            exportMetadata(combinedEnhancedMetadata)
+        if args.exportTextByPeriod:
+            exportTextByPeriod(combinedEnhancedMetadata)
 
 def modelParser(args):
     if args.action == 'create':
@@ -261,8 +303,11 @@ def modelParser(args):
         nearestNeighbours = NearestNeighbours(FASTTEXT_PATH, os.path.join(MODELS_FOLDER, args.period + MODEL_FILE_EXTENSION), NEIGHBORS_COUNT)
 
         print(nearestNeighbours.getNeighboursForWord(preProcessText(args.word)))
-    elif args.action == 'getCD':
-        logger.info('Selected action: Get cosine distance')
+    elif args.action == 'getCD' or args.action == 'getCS':
+        if args.action == 'getCD':
+            logger.info('Selected action: Get cosine distance')
+        elif args.action == 'getCS':
+            logger.info('Selected action: Get cosine similarity')
 
         fromPeriodFilename = args.fromPeriod + MODEL_FILE_EXTENSION
         toPeriodFilename = args.toPeriod + MODEL_FILE_EXTENSION
@@ -270,31 +315,52 @@ def modelParser(args):
         modelA = fasttext.load_model(os.path.join(MODELS_FOLDER, fromPeriodFilename))
         modelB = fasttext.load_model(os.path.join(MODELS_FOLDER, toPeriodFilename))
 
-        cosineDistances = {}
+        clearVectorModelA = {}
+        clearVectorModelB = {}
+
+        for label in modelA.get_labels():
+            clearVectorModelA[label] = modelA.get_word_vector(label)
+
+        for label in modelB.get_labels():
+            clearVectorModelB[label] = modelB.get_word_vector(label)
+
+        alignedEmbeddingsB = align_two_embeddings(clearVectorModelA, clearVectorModelB)
+
+        results = {}
         for word in modelA.words:
             if word in modelB.words:
-                cosineDistances[word] = getCosineDistanceOfVectors(modelA[word], modelB[word])
+                if args.action == 'getCD':
+                    results[word] = getCosineDistanceOfVectors(clearVectorModelA[word], clearVectorModelB[word])
+                elif args.action == 'getCS':
+                    results[word] = getCosineSimilarityOfVectors(clearVectorModelA[word], clearVectorModelB[word])
 
-        sortedCosineDistances = sorted(cosineDistances.items(), key=lambda x: x[1], reverse=True)
+        if args.action == 'getCD':
+            sortedResults = sorted(results.items(), key=lambda x: x[1], reverse=True)
+        elif args.action == 'getCS':
+            sortedResults = sorted(results.items(), key=lambda x: x[1])
 
-        print(sortedCosineDistances[:10])
-    elif args.action == 'getCS':
-        logger.info('Selected action: Get cosine similarity')
+        resultsPerPeriod = {}
 
-        fromPeriodFilename = args.fromPeriod + MODEL_FILE_EXTENSION
-        toPeriodFilename = args.toPeriod + MODEL_FILE_EXTENSION
+        for wordTuple in sortedResults[:50]:
+            word = wordTuple[0]
+            resultsPerPeriod[word] = {}
 
-        modelA = fasttext.load_model(os.path.join(MODELS_FOLDER, fromPeriodFilename))
-        modelB = fasttext.load_model(os.path.join(MODELS_FOLDER, toPeriodFilename))
+            nearestNeighbours = NearestNeighbours(FASTTEXT_PATH,
+                                                  os.path.join(MODELS_FOLDER, fromPeriodFilename),
+                                                  NEIGHBORS_COUNT)
 
-        cosineSimilarities = {}
-        for word in modelA.words:
-            if word in modelB.words:
-                cosineSimilarities[word] = getCosineSimilarityOfVectors(modelA[word], modelB[word])
+            nn = nearestNeighbours.getNeighboursForWord(word)
+            resultsPerPeriod[word][str(args.fromPeriod)] = nn
 
-        sortedCosineSimilarities = sorted(cosineSimilarities.items(), key=lambda x: x[1])
+            nearestNeighbours = NearestNeighbours(FASTTEXT_PATH,
+                                                  os.path.join(MODELS_FOLDER, toPeriodFilename),
+                                                  NEIGHBORS_COUNT)
 
-        print(sortedCosineSimilarities[:10])
+            nn = nearestNeighbours.getNeighboursForWord(word)
+            resultsPerPeriod[word][str(args.toPeriod)] = nn
+
+        print(resultsPerPeriod)
+        exportTextToFile(resultsPerPeriod, './shifts.json', True)
 
 ########################################################################################################################
 #-----------------------------------------------------------------------------------------------------------------------
@@ -305,6 +371,7 @@ parser.add_argument('--version', action='version', version='0.0.2')
 subparsers = parser.add_subparsers()
 
 parser_metadata = subparsers.add_parser('metadata')
+parser_metadata.add_argument('--corpusName', help='name of the target corpus to work with')
 parser_metadata.add_argument('--printStandard', action='store_true', help='print the standard metadata')
 parser_metadata.add_argument('--printEnhanced', action='store_true', help='print the enhanced metadata')
 parser_metadata.add_argument('--export', action='store_true', help='export the enhanced metadata')
