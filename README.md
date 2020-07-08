@@ -8,7 +8,7 @@
 0. Clone this repository by running:
 
     ```
-        git clone git@github.com:vbarzokas/greek_words_evolution.git
+        git clone git@github.com:intelligence-csd-auth-gr/greek-words-evolution.git
     ```
 0. Clone the required `fastText` repository by running:
 
