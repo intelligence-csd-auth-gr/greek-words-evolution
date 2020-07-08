@@ -1,5 +1,7 @@
 # Greek Words Evolution
 
+This repository accompanies the research paper "Studying the Evolution of Greek Words via Word Embeddings" and contains the set of tools developed for its needs.
+
 ### Requirements
 * Python 3.6.9
 * fastText - a library for efficient learning of word representations and sentence classification.
