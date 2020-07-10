@@ -9,7 +9,6 @@
 
 import numpy as np
 
-
 def align_two_embeddings(emb_to_align, emb_base, common_keys=None):
     """
     :param emb_to_align: embedding vectors to be align
@@ -42,7 +41,7 @@ def align_list_of_embeddingss(emb_list, emb_base):
 
     aligned_embeddings = []
     for emb_to_align in emb_list:
-        aligned_emb = align_two_embs(emb_to_align, emb_base, common_keys)
+        aligned_emb = align_two_embeddings(emb_to_align, emb_base, common_keys)
         aligned_embeddings.append(aligned_emb)
 
     return aligned_embeddings
