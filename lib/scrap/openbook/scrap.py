@@ -62,7 +62,7 @@ def extractISBN(textContent):
     return extractText(textContent, 'ISBN')
 
 
-def extractΑttachmentUrl(soupContent):
+def extractAttachmentUrl(soupContent):
     htmlElement = soupContent.find(class_='wpcmsdev-button')
 
     if htmlElement:
@@ -105,7 +105,7 @@ def parsePosts(postUrls):
         type = extractType(textElement)
         publishedYear = extractPublishedYear(textElement)
         isbn = extractISBN(textElement)
-        attachmentUrl = extractΑttachmentUrl(soupElement)
+        attachmentUrl = extractAttachmentUrl(soupElement)
         filename = id + DOWNLOAD_FILENAME_EXTENSION
 
         postMetadata = {
