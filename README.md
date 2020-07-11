@@ -3,8 +3,8 @@
 This repository accompanies the research paper "Studying the Evolution of Greek Words via Word Embeddings" and contains the set of tools developed for its needs.
 
 ### Requirements
-* Python 3.6.9
-* fastText - a library for efficient learning of word representations and sentence classification.
+* [Python 3.6.9](https://www.python.org/downloads/release/python-369/)
+* [fastText](https://fasttext.cc/) - a library for efficient learning of word representations and sentence classification.
 
 ### Installation
 0. Clone this repository by running:
