@@ -12,8 +12,8 @@ The process is straight-forward.
  - Create a Pull Request against the [**dev**](https://github.com/intelligence-csd-auth-gr/greek-words-evolution) branch.
 
 ## Reporting issues
-If you want to report an issue that you have detected in the project, please use [GitHub for tracking issues](https://github.com/intelligence-csd-auth-gr/greek-words-evolution).
+If you want to report an issue that you have detected in the project, please use [GitHub for tracking issues](https://github.com/intelligence-csd-auth-gr/greek-words-evolution/issues).
 
 ## Feature suggestions
 
-If you want to suggest a new feature for the project (e.g., new integrations), please use [GitHub for tracking feature requests](https://github.com/intelligence-csd-auth-gr/greek-words-evolution).
+If you want to suggest a new feature for the project (e.g., new integrations), please use [GitHub for tracking feature requests](https://github.com/intelligence-csd-auth-gr/greek-words-evolution/issues).
