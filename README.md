@@ -12,12 +12,14 @@ This repository accompanies the research paper "Studying the Evolution of Greek 
     ```
     git clone git@github.com:intelligence-csd-auth-gr/greek-words-evolution.git
     ```
+   
 0. Clone the required `fastText` repository by running:
 
     ```
     git submodule init
     git submodule update
     ```
+   
 0. Install the `fastText` library for your system as described in its documentation that can be found here: https://github.com/facebookresearch/fastText
 
     **Note:** Normally all that is required to do is:
@@ -33,6 +35,7 @@ This repository accompanies the research paper "Studying the Evolution of Greek 
     ```
 
 ### Running
+#### First steps
 If running for first time, create the text files per period by running:
     
     python index.py metadata --exportTextByPeriod --corpusName openbook
@@ -49,3 +52,12 @@ Get the 10 words with the highest semantic change, based on their cosine distanc
 Get the 10 words with the highest semantic change, based on their cosine similarity (opposite sorted list of cosine distance):
         
     python index.py model --action getCS --fromPeriod 1800 --toPeriod 1900
+
+#### Options 
+In order to see a full list of the available options and a short description of each one of them, type:
+
+    python index.py --help
+
+## License
+
+[Apache License 2.0](LICENSE)

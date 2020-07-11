@@ -1,6 +1,4 @@
 import warnings
-warnings.filterwarnings('ignore')
-
 import argparse
 import codecs
 import fasttext
@@ -13,16 +11,16 @@ import re
 from scipy import spatial
 from sklearn.metrics.pairwise import cosine_similarity
 import json
-
 import logging
+from lib.NearestNeighbours import NearestNeighbours
+# from lib.align_embeddings import align_two_embeddings
+
+warnings.filterwarnings('ignore')
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-from lib.NearestNeighbours import NearestNeighbours
-from lib.align_embeddings import align_two_embeddings
-
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
 
 try:
@@ -41,7 +39,7 @@ except LookupError:
     nltk.download('words')
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
 
 DATA_FOLDER = './data'
@@ -51,21 +49,26 @@ LIB_FOLDER = './lib'
 MODEL_FILE_EXTENSION = '.model'
 TEXT_FILE_EXTENSION = '.txt'
 CORPORA = [
-    {'name': 'openbook', 'textFilesFolder': DATA_FOLDER + '/corpora/openbook/text/parsable', 'metadataFilename': DATA_FOLDER + '/corpora/openbook/metadata.tsv'},
-    {'name': 'project_gutenberg', 'textFilesFolder': DATA_FOLDER + '/corpora/project_gutenberg/text/parsable', 'metadataFilename': DATA_FOLDER + '/corpora/project_gutenberg/metadata.tsv'},
+    {
+        'name': 'openbook',
+        'textFilesFolder': DATA_FOLDER + '/corpora/openbook/text/parsable',
+        'metadataFilename': DATA_FOLDER + '/corpora/openbook/metadata.tsv'
+    },
+    {
+        'name': 'project_gutenberg',
+        'textFilesFolder': DATA_FOLDER + '/corpora/project_gutenberg/text/parsable',
+        'metadataFilename': DATA_FOLDER + '/corpora/project_gutenberg/metadata.tsv'
+    },
 ]
 COMBINED_TEXTS_FILENAME = 'corpus_combined.txt'
 COMBINED_MODEL_FILENAME = MODELS_FOLDER + '/corpus_combined_model.bin'
-START_YEAR = 1960
-END_YEAR = 2020
-SPLIT_YEARS_INTERVAL = 10
-
 FASTTEXT_PATH = './fastText/fasttext'
 NEIGHBORS_COUNT = 20
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
+
 
 def readMetadata(filename):
     logger.info('Reading metadata from %s', filename)
@@ -76,24 +79,29 @@ def readMetadata(filename):
 
     return dataFrame
 
+
 def getTextFileContents(filename):
     if os.path.isfile(filename):
         with codecs.open(filename, 'r', 'utf-8') as file:
             fileContents = file.read().splitlines()
-
         file.close()
     else:
         fileContents = []
 
     return fileContents
 
+
 def extractPublishedYear(text):
     # a match of a year in the form of "1 8 2 1", as the first match after the common publishing names
-    match1 = re.findall('(?:ΑΘΗΝΑ|ΑΘΗΝΑΙ|ΑΘΗΝΗΣΙ|ΠΕΙΡΑΙΕΥΣ|ΖΑΚΥΝΘΩ|ΣΜΥΡΝΗ|ΠΑΡΙΣΙΟΙΣ)(?:[\s\D]\d{0,3})*(\d+(?:\s+\d+){3})', text, re.MULTILINE | re.IGNORECASE)
+    match1 = re.findall(
+        r'(?:ΑΘΗΝΑ|ΑΘΗΝΑΙ|ΑΘΗΝΗΣΙ|ΠΕΙΡΑΙΕΥΣ|ΖΑΚΥΝΘΩ|ΣΜΥΡΝΗ|ΠΑΡΙΣΙΟΙΣ)(?:[\s\D]\d{0,3})*(\d+(?:\s+\d+){3})', text,
+        re.MULTILINE | re.IGNORECASE)
     # a match in the form of "1821", as the first match after the common publishing names
-    match2 = re.findall('(?:ΑΘΗΝΑ|ΑΘΗΝΑΙ|ΑΘΗΝΗΣΙ|ΠΕΙΡΑΙΕΥΣ|ΖΑΚΥΝΘΩ|ΣΜΥΡΝΗ|ΠΑΡΙΣΙΟΙΣ)(?:[\s\D]\d{0,3})*(\d{4})', text, re.MULTILINE | re.IGNORECASE)
+    match2 = re.findall(
+        r'(?:ΑΘΗΝΑ|ΑΘΗΝΑΙ|ΑΘΗΝΗΣΙ|ΠΕΙΡΑΙΕΥΣ|ΖΑΚΥΝΘΩ|ΣΜΥΡΝΗ|ΠΑΡΙΣΙΟΙΣ)(?:[\s\D]\d{0,3})*(\d{4})', text,
+        re.MULTILINE | re.IGNORECASE)
     # a match in the form of "1821", as the first match in the whole provided text
-    match3 = re.findall('(\d{4})', text, re.MULTILINE | re.IGNORECASE)
+    match3 = re.findall(r'(\d{4})', text, re.MULTILINE | re.IGNORECASE)
 
     if match1:
         return int(match1[0].replace(' ', ''))
@@ -104,6 +112,7 @@ def extractPublishedYear(text):
 
     return 0
 
+
 def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
     estimatedPublishedYear = ''
 
@@ -111,6 +120,7 @@ def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
         estimatedPublishedYear = (authorYearOfBirth + authorYearOfDeath) // 2
 
     return estimatedPublishedYear
+
 
 def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTokens):
     logger.info('Enhancing metadata')
@@ -124,8 +134,8 @@ def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTok
         if detectPublishedYear:
             firstNLines = " ".join(textFileContentsAsLines[:100])
 
-            publishedYear = extractPublishedYear(firstNLines) or \
-                            estimatePublishedYear(row['authorYearOfBirth'], row['authorYearOfDeath'])
+            publishedYear = extractPublishedYear(firstNLines) or estimatePublishedYear(row['authorYearOfBirth'],
+                                                                                       row['authorYearOfDeath'])
 
             metadata.loc[index, 'publishedYear'] = publishedYear or -1
 
@@ -134,6 +144,7 @@ def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTok
 
     return metadata
 
+
 def preProcessText(text):
     logger.info('Preprocessing text')
 
@@ -141,17 +152,18 @@ def preProcessText(text):
 
     text = text.lower()
 
-    # move split words into same line. The second - is a different utf character than the first, which is the normal dash
-    text = re.sub('[-­]\s+', '', text)
+    # move split words into same line. The second - is a different utf character than the first,
+    # which is the normal dash
+    text = re.sub(r'[-­]\s+', '', text)
 
     # remove stopwords
     text = re.compile(r'\b(' + r'|'.join(stopWords) + r')\b\s*').sub('', text)
 
     # remove special characters
-    #text = re.sub('[»«‒§—·•■·][^A-Za-z0-9]', '', text)
+    # text = re.sub('[»«‒§—·•■·][^A-Za-z0-9]', '', text)
 
     # remove anything that is not latin or greek letters
-    text = re.sub('[^Α-Ωα-ωΊίϊΐΌόΆάΈέΎύϋΰΉήΏώ\s]', '', text)
+    text = re.sub(r'[^Α-Ωα-ωΊίϊΐΌόΆάΈέΎύϋΰΉήΏώ\s]', '', text)
 
     # remove all accents from vowels
     text = re.sub('[άἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷ]', 'α', text)
@@ -173,15 +185,16 @@ def preProcessText(text):
     text = re.sub(r'\b[α-ωΑ-Ω]\b', '', text)
 
     # remove digits
-    #text = re.sub(r'\d+', '', text)
+    # text = re.sub(r'\d+', '', text)
 
     # remove multiple whitespaces
-    text = re.sub('\s\s+', ' ', text)
+    text = re.sub(r'\s\s+', ' ', text)
 
     # remove punctuation
-    #text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
+    # text = re.compile('[%s]' % re.escape(string.punctuation)).sub('', text)
 
     return text
+
 
 def exportTextToFile(text, filename, exportToJson=False):
     fileHandler = open(filename, 'w', encoding='utf8')
@@ -193,19 +206,21 @@ def exportTextToFile(text, filename, exportToJson=False):
 
     fileHandler.close()
 
+
 def exportMetadata(metadata, filename='-export.tsv'):
     exportFilename = int(time.time()) + filename
 
     metadata.to_csv(exportFilename, sep='\t', index=False, header=True, columns=['id', 'title', 'author',
-                                                                           'authorYearOfBirth',
-                                                                           'authorYearOfDeath',
-                                                                           'publishedYear',
-                                                                           'tokensCount'])
+                                                                                 'authorYearOfBirth',
+                                                                                 'authorYearOfDeath',
+                                                                                 'publishedYear',
+                                                                                 'tokensCount'])
 
-def exportTextByPeriod(enhancedMetadata):
-    for i in range(START_YEAR, END_YEAR, SPLIT_YEARS_INTERVAL):
+
+def exportTextByPeriod(enhancedMetadata, fromYear, toYear, splitYearsInterval):
+    for i in range(fromYear, toYear, splitYearsInterval):
         currentRangeFrom = i
-        currentRangeTo = i + SPLIT_YEARS_INTERVAL
+        currentRangeTo = i + splitYearsInterval
 
         logger.info('Exporting text from ' + str(currentRangeFrom) + ' to ' + str(currentRangeTo))
 
@@ -213,6 +228,7 @@ def exportTextByPeriod(enhancedMetadata):
                                     (enhancedMetadata['publishedYear'] < currentRangeTo)]
         preProcessedText = preProcessText(text['text'].str.cat(sep='\n'))
         exportTextToFile(preProcessedText, os.path.join(PRODUCED_TEXTS_FOLDER, ('%s' + TEXT_FILE_EXTENSION) % i))
+
 
 def createModel(textsFilename, modelsFolder):
     logger.info('Creating model from %s', textsFilename)
@@ -232,9 +248,12 @@ def createModel(textsFilename, modelsFolder):
     # thread            # number of threads [number of cpus]
     # lrUpdateRate      # change the rate of updates for the learning rate [100]
     # t                 # sampling threshold [0.0001]
-    model = fasttext.train_unsupervised(textsFilename, model='skipgram', epoch=5, dim=100, minCount=3, minn=0, maxn=0, neg=10, thread=12)
-    modelFilename = os.path.join(modelsFolder, os.path.basename(textsFilename).replace(TEXT_FILE_EXTENSION, MODEL_FILE_EXTENSION))
+    model = fasttext.train_unsupervised(textsFilename, ws=20, model='skipgram', epoch=5, dim=100, minCount=15, minn=3,
+                                        maxn=6, neg=5, thread=12)
+    modelFilename = os.path.join(modelsFolder, os.path.basename(textsFilename).replace(TEXT_FILE_EXTENSION,
+                                                                                       MODEL_FILE_EXTENSION))
     model.save_model(modelFilename)
+
 
 def createModelsFromTextFiles(textFilesFolder):
     filenames = glob.glob(os.path.join(textFilesFolder, '*' + TEXT_FILE_EXTENSION))
@@ -250,8 +269,10 @@ def createModelsFromTextFiles(textFilesFolder):
                 else:
                     logger.info('File %s is empty. Skipping the model creation.', filename)
 
+
 def getCosineDistanceOfVectors(vectorA, vectorB):
     return spatial.distance.cosine(vectorA, vectorB)
+
 
 def getCosineSimilarityOfVectors(vectorA, vectorB):
     # assuming that the two vectors have already the same size
@@ -260,8 +281,9 @@ def getCosineSimilarityOfVectors(vectorA, vectorB):
     return cosine_similarity(vectorA.reshape(1, size), vectorB.reshape(1, size))[0][0]
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
+
 
 def metadataParser(args):
     metadataList = []
@@ -273,7 +295,7 @@ def metadataParser(args):
             metadata = readMetadata(corpus.get('metadataFilename'))
             metadataList.append(metadata)
 
-            if args.printEnhanced or args.export or args.exportTextByPeriod:
+            if args.printEnhanced or args.exportEnhancedMetadata or args.exportTextByPeriod:
                 enhancedMetadata = enhanceMetadata(textFilesFolder, metadata=metadata, detectPublishedYear=False,
                                                    calculateTokens=False)
 
@@ -282,15 +304,16 @@ def metadataParser(args):
     if args.printStandard:
         combinedMetadata = pandas.concat(metadataList)
         print(combinedMetadata)
-    elif args.printEnhanced or args.export or args.exportTextByPeriod:
+    elif args.printEnhanced or args.exportEnhancedMetadata or args.exportTextByPeriod:
         combinedEnhancedMetadata = pandas.concat(enhancedMetadataList)
 
         if args.printEnhanced:
             print(combinedEnhancedMetadata)
-        if args.export:
+        if args.exportEnhancedMetadata:
             exportMetadata(combinedEnhancedMetadata)
         if args.exportTextByPeriod:
             exportTextByPeriod(combinedEnhancedMetadata)
+
 
 def modelParser(args):
     if args.action == 'create':
@@ -300,7 +323,9 @@ def modelParser(args):
     elif args.action == 'getNN':
         logger.info('Selected action: Retrieve nearest neighbours')
 
-        nearestNeighbours = NearestNeighbours(FASTTEXT_PATH, os.path.join(MODELS_FOLDER, args.period + MODEL_FILE_EXTENSION), NEIGHBORS_COUNT)
+        nearestNeighbours = NearestNeighbours(FASTTEXT_PATH,
+                                              os.path.join(MODELS_FOLDER, args.period + MODEL_FILE_EXTENSION),
+                                              NEIGHBORS_COUNT)
 
         print(nearestNeighbours.getNeighboursForWord(preProcessText(args.word)))
     elif args.action == 'getCD' or args.action == 'getCS':
@@ -309,11 +334,11 @@ def modelParser(args):
         elif args.action == 'getCS':
             logger.info('Selected action: Get cosine similarity')
 
-        fromPeriodFilename = args.fromPeriod + MODEL_FILE_EXTENSION
-        toPeriodFilename = args.toPeriod + MODEL_FILE_EXTENSION
+        fromYearFilename = args.fromYear + MODEL_FILE_EXTENSION
+        toYearFilename = args.toYear + MODEL_FILE_EXTENSION
 
-        modelA = fasttext.load_model(os.path.join(MODELS_FOLDER, fromPeriodFilename))
-        modelB = fasttext.load_model(os.path.join(MODELS_FOLDER, toPeriodFilename))
+        modelA = fasttext.load_model(os.path.join(MODELS_FOLDER, fromYearFilename))
+        modelB = fasttext.load_model(os.path.join(MODELS_FOLDER, toYearFilename))
 
         clearVectorModelA = {}
         clearVectorModelB = {}
@@ -324,7 +349,7 @@ def modelParser(args):
         for label in modelB.get_labels():
             clearVectorModelB[label] = modelB.get_word_vector(label)
 
-        alignedEmbeddingsB = align_two_embeddings(clearVectorModelA, clearVectorModelB)
+        # alignedEmbeddingsB = align_two_embeddings(clearVectorModelA, clearVectorModelB)
 
         results = {}
         for word in modelA.words:
@@ -346,14 +371,14 @@ def modelParser(args):
             resultsPerPeriod[word] = {}
 
             nearestNeighbours = NearestNeighbours(FASTTEXT_PATH,
-                                                  os.path.join(MODELS_FOLDER, fromPeriodFilename),
+                                                  os.path.join(MODELS_FOLDER, fromYearFilename),
                                                   NEIGHBORS_COUNT)
 
             nn = nearestNeighbours.getNeighboursForWord(word)
-            resultsPerPeriod[word][str(args.fromPeriod)] = nn
+            resultsPerPeriod[word][str(args.fromYear)] = nn
 
             nearestNeighbours = NearestNeighbours(FASTTEXT_PATH,
-                                                  os.path.join(MODELS_FOLDER, toPeriodFilename),
+                                                  os.path.join(MODELS_FOLDER, toYearFilename),
                                                   NEIGHBORS_COUNT)
 
             nn = nearestNeighbours.getNeighboursForWord(word)
@@ -363,26 +388,32 @@ def modelParser(args):
         exportTextToFile(resultsPerPeriod, './shifts.json', True)
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--version', action='version', version='0.0.2')
 subparsers = parser.add_subparsers()
 
 parser_metadata = subparsers.add_parser('metadata')
-parser_metadata.add_argument('--corpusName', help='name of the target corpus to work with')
-parser_metadata.add_argument('--printStandard', action='store_true', help='print the standard metadata')
-parser_metadata.add_argument('--printEnhanced', action='store_true', help='print the enhanced metadata')
-parser_metadata.add_argument('--export', action='store_true', help='export the enhanced metadata')
-parser_metadata.add_argument('--exportTextByPeriod', action='store_true', help='export the text by period')
+parser_metadata.add_argument('--corpusName', help='The name of the target corpus to work with')
+parser_metadata.add_argument('--printStandard', action='store_true', help='Prints the standard metadata')
+parser_metadata.add_argument('--printEnhanced', action='store_true', help='Prints the enhanced metadata')
+parser_metadata.add_argument('--exportEnhancedMetadata', action='store_true', help='Exports the enhanced metadata')
+parser_metadata.add_argument('--exportTextByPeriod', action='store_true', help='Exports the text by period')
+parser_metadata.add_argument('--fromYear', default='1800', help='The target starting year to extract data from')
+parser_metadata.add_argument('--toYear', default='1900', help='The target ending year to extract data from')
+parser_metadata.add_argument('--splitYearsInterval', default='10', help='The interval to split the years with '
+                                                                        'and export the extracted data')
 parser_metadata.set_defaults(func=metadataParser)
 
 parser_model = subparsers.add_parser('model')
-parser_model.add_argument('--action', default='getNN', help='target action.')
-parser_model.add_argument('--word', help='target word to get nearest neighbours for.')
-parser_model.add_argument('--period', help='the target period to load the model from.')
-parser_model.add_argument('--textsFolder', default='./output/texts', help='the target folder that contains the texts files.')
+parser_model.add_argument('--action', default='getNN', help='Action to perform against the selected model')
+parser_model.add_argument('--word', help='Target word to get nearest neighbours for')
+parser_model.add_argument('--period', help='The target period to load the model from')
+parser_model.add_argument('--textsFolder', default='./output/texts', help='The target folder that contains the '
+                                                                          'texts files')
 parser_model.add_argument('--fromPeriod', default='1800', help='the target starting period.')
 parser_model.add_argument('--toPeriod', default='1900', help='the target ending period.')
 parser_model.set_defaults(func=modelParser)
