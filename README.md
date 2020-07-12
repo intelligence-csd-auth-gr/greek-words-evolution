@@ -1,6 +1,7 @@
 # Greek Words Evolution
 
-This repository accompanies the research paper "Studying the Evolution of Greek Words via Word Embeddings" and contains the set of tools developed for its needs.
+This repository accompanies the paper "Studying the Evolution of Greek Words via Word Embeddings" by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020) and contains the set of tools developed and data prepared for its needs. If you use this code and/or data in your research plase cite the following: V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020).
+
 
 ### Requirements
 * [Python 3.6.9](https://www.python.org/downloads/release/python-369/)
