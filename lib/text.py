@@ -15,8 +15,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 TEXT_FILE_EXTENSION = '.txt'
-PRODUCED_TEXTS_FOLDER = '../output/texts'
-
+PRODUCED_TEXTS_FOLDER = os.path.join(os.path.curdir, 'output', 'texts')
 
 ########################################################################################################################
 # ----------------------------------------------------------------------------------------------------------------------
