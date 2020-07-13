@@ -194,10 +194,17 @@ def preProcessText(text):
 def exportMetadata(metadata, filename='-export.tsv'):
     exportFilename = int(time.time()) + filename
 
-    metadata.to_csv(exportFilename, sep='\t', index=False, header=True, columns=['id', 'title', 'author',
+    metadata.to_csv(exportFilename, sep='\t', index=False, header=True, columns=['id',
+                                                                                 'title',
+                                                                                 'author',
+                                                                                 'type',
+                                                                                 'publishedYear',
+                                                                                 'isbn',
+                                                                                 'filename',
+                                                                                 'postUrl',
+                                                                                 'attachmentUrl',
                                                                                  'authorYearOfBirth',
                                                                                  'authorYearOfDeath',
-                                                                                 'publishedYear',
                                                                                  'tokensCount'])
 
 
@@ -208,7 +215,7 @@ def exportTextByPeriod(enhancedMetadata, fromYear, toYear, splitYearsInterval):
 
         logger.info('Exporting text from ' + str(currentRangeFrom) + ' to ' + str(currentRangeTo))
 
-        text = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= currentRangeFrom) &
+        targetMetadata = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= currentRangeFrom) &
                                     (enhancedMetadata['publishedYear'] < currentRangeTo)]
-        preProcessedText = preProcessText(text['text'].str.cat(sep='\n'))
+        preProcessedText = preProcessText(targetMetadata['text'].str.cat(sep='\n'))
         file.exportTextToFile(preProcessedText, os.path.join(PRODUCED_TEXTS_FOLDER, ('%s' + TEXT_FILE_EXTENSION) % i))
