@@ -176,7 +176,7 @@ def extractTextFromPdf(postsMetadata):
 ########################################################################################################################
 
 #####################################
-# STEP 0 - Set up required folders and any perform any other preliminary tasks
+# STEP 0 - Set up required folders and perform any other preliminary tasks
 #####################################
 if not os.path.exists(DOWNLOAD_FOLDER):
     os.makedirs(DOWNLOAD_FOLDER)
@@ -197,7 +197,7 @@ if not os.path.exists(TEXT_FOLDER):
 postUrls = getPostUrls()
 
 ###
-# 1.2 - Save them in a pickle file
+# 1.2 - Save them in a pickle file for future reference
 ###
 with open(POST_URLS_FILENAME, 'wb') as fp:
     pickle.dump(postUrls, fp)
