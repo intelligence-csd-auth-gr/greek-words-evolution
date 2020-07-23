@@ -160,7 +160,7 @@ parser_metadata.add_argument('--splitYearsInterval', default=10, type=int, help=
 parser_metadata.set_defaults(func=metadataParser)
 
 parser_model = subparsers.add_parser('model')
-parser_model.add_argument('--action', default='getNN', help='Action to perform against the selected model')
+parser_model.add_argument('--action', default='getNN', choices=['getNN', 'getCS', 'getCD'], help='Action to perform against the selected model')
 parser_model.add_argument('--word', help='Target word to get nearest neighbours for')
 parser_model.add_argument('--period', help='The target period to load the model from')
 parser_model.add_argument('--textsFolder', default='./output/texts', help='The target folder that contains the '
