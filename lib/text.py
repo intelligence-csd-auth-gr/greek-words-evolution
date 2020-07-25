@@ -44,9 +44,7 @@ except LookupError:
 def detectMalformed():
     dictionary = enchant.Dict('el_GR')
     stopWords = set(nltk.corpus.stopwords.words('greek'))
-    filenames = glob.glob('../data/corpora/openbook/text/malformed/*.txt')
-
-    malformedFiles = []
+    filenames = glob.glob('../data/corpora/openbook/text/*.txt')
 
     for filename in filenames:
         with open(filename, 'r', encoding='utf-8') as file:
@@ -72,13 +70,10 @@ def detectMalformed():
             if len(tokens) > 100:
                 sampleSize = 100
                 sample = random.choices(tokens, k=sampleSize)
-                # print(sample)
                 results = [dictionary.check(item) for item in sample]
+
                 if sum(results) < 85:
-                    print(sample)
-                    print(filename)
-                    malformedFiles.append(filename)
-                    # shutil.move(filename, './data/corpora/openbook/text/malformed/' + os.path.basename(filename))
+                    shutil.move(filename, './data/corpora/openbook/text/malformed/' + os.path.basename(filename))
                 else:
                     shutil.move(filename, '../data/corpora/openbook/text/parsable/' + os.path.basename(filename))
             else:
