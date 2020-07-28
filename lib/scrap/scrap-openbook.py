@@ -8,7 +8,7 @@ from tika import parser
 import urllib
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
 
 BASE_URL = 'https://www.openbook.gr/category/literature/page/'
@@ -25,11 +25,13 @@ POST_URLS_FILENAME = 'post_urls.pickle'
 METADATA_FILENAME = 'raw_metadata.csv'
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
+
 
 def clearText(text):
     return re.sub('[»«‒§—·•]', '', text).strip()
+
 
 def extractText(textContent, searchString):
     matchingElements = re.search(r'(' + re.escape(searchString) + ':?)(.*)', textContent, re.MULTILINE | re.IGNORECASE)
@@ -39,28 +41,35 @@ def extractText(textContent, searchString):
 
     return ''
 
+
 def extractTitle(textContent):
     return extractText(textContent, 'Τίτλος')
+
 
 def extractAuthor(textContent):
     return extractText(textContent, 'Συγγραφέας')
 
+
 def extractType(textContent):
     return extractText(textContent, 'Είδος')
+
 
 def extractPublishedYear(textContent):
     return extractText(textContent, 'Έτος έκδοσης')
 
+
 def extractISBN(textContent):
     return extractText(textContent, 'ISBN')
 
-def extractΑttachmentUrl(soupContent):
+
+def extractAttachmentUrl(soupContent):
     htmlElement = soupContent.find(class_='wpcmsdev-button')
 
     if htmlElement:
         return htmlElement['href']
 
     return ''
+
 
 def getPostUrls():
     postUrls = []
@@ -77,6 +86,7 @@ def getPostUrls():
             postUrls.append(postUrl)
 
     return postUrls
+
 
 def parsePosts(postUrls):
     postsMetadata = []
@@ -95,7 +105,7 @@ def parsePosts(postUrls):
         type = extractType(textElement)
         publishedYear = extractPublishedYear(textElement)
         isbn = extractISBN(textElement)
-        attachmentUrl = extractΑttachmentUrl(soupElement)
+        attachmentUrl = extractAttachmentUrl(soupElement)
         filename = id + DOWNLOAD_FILENAME_EXTENSION
 
         postMetadata = {
@@ -114,6 +124,7 @@ def parsePosts(postUrls):
 
     return postsMetadata
 
+
 def writeMetadataToCSV(postsMetadata):
     csvColumns = ['id', 'title', 'author', 'type', 'publishedYear', 'isbn', 'filename', 'postUrl', 'attachmentUrl']
 
@@ -127,15 +138,19 @@ def writeMetadataToCSV(postsMetadata):
     except IOError:
         print('I/O error while writing to .csv file', IOError)
 
+
 def downloadAttachments(postsMetadata):
     for postMetadata in postsMetadata:
-        if postMetadata['attachmentUrl'] and not os.path.isfile(os.path.join(DOWNLOAD_FOLDER, postMetadata['filename'])):
+        if postMetadata['attachmentUrl'] and not os.path.isfile(os.path.join(DOWNLOAD_FOLDER,
+                                                                             postMetadata['filename'])):
             print('Downloading file "' + postMetadata['filename'] + '" from ' + postMetadata['attachmentUrl'])
             try:
-                urllib.request.urlretrieve(postMetadata['attachmentUrl'], os.path.join(DOWNLOAD_FOLDER, postMetadata['filename']))
+                urllib.request.urlretrieve(postMetadata['attachmentUrl'], os.path.join(DOWNLOAD_FOLDER,
+                                                                                       postMetadata['filename']))
             except urllib.error.HTTPError as e:
                 print('Download error')
                 print(e)
+
 
 def extractTextFromPdf(postsMetadata):
     for postMetadata in postsMetadata:
@@ -155,12 +170,13 @@ def extractTextFromPdf(postsMetadata):
                     with open(textFilePath, 'w+') as textFileHandler:
                         textFileHandler.write(parsed['content'])
 
+
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
 
 #####################################
-# STEP 0 - Set up required folders and any perform any other preliminary tasks
+# STEP 0 - Set up required folders and perform any other preliminary tasks
 #####################################
 if not os.path.exists(DOWNLOAD_FOLDER):
     os.makedirs(DOWNLOAD_FOLDER)
@@ -169,7 +185,7 @@ if not os.path.exists(TEXT_FOLDER):
     os.makedirs(TEXT_FOLDER)
 
 ########################################################################################################################
-#-----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 ########################################################################################################################
 
 #####################################
@@ -181,10 +197,10 @@ if not os.path.exists(TEXT_FOLDER):
 postUrls = getPostUrls()
 
 ###
-# 1.2 - Save them in a pickle file
+# 1.2 - Save them in a pickle file for future reference
 ###
 with open(POST_URLS_FILENAME, 'wb') as fp:
-   pickle.dump(postUrls, fp)
+    pickle.dump(postUrls, fp)
 
 #####################################
 # STEP 2 - Parse the posts and extract their metadata
