@@ -78,8 +78,10 @@ This repository accompanies the paper _"Studying the Evolution of Greek Words vi
     ```
 
 ### Options 
-The script accepts either of the two positional arguments:
-* `metadata` - allows actions on the metadata, such as text extraction, metadata display or export etc.
+The script accepts either of the following positional arguments:
+* `website` - allows actions on the websites, such as URL extraction, file downloading etc.
+* `metadata` - allows actions on the metadata, metadata display or export etc.
+* `text` - allows actions on the text, such as text extraction, metadata display or export etc.
 * `model` - allows actions on the trained models, such as the training, evaluation through nearest neighbours or shifts of word meanings through periods.  
 
 In order to see a full list of the available options and a short description of each one of them, type:
@@ -88,44 +90,76 @@ In order to see a full list of the available options and a short description of 
 
 The snippets below display a brief description of each of the options that the positional arguments accept.
 
+##### argument: website
+```shell script
+usage: gws.py website [-h] [--target {openbook}]
+                      [--action {fetchLinks,fetchMetadata,fetchFiles}]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --target {openbook}   Target website to scrap data from
+  --action {fetchLinks,fetchMetadata,fetchFiles}
+                        The action to execute on the selected website
+```
+
 ##### argument: metadata
 ```shell script
-usage: gws.py metadata [-h] [--corpusName CORPUSNAME] [--printStandard]
-                       [--printEnhanced] [--exportEnhancedMetadata]
-                       [--exportTextByPeriod] [--fromYear FROMYEAR]
-                       [--toYear TOYEAR]
+usage: gws.py metadata [-h] [--corpus {all,openbook,project_gutenberg}]
+                       [--action {printStandard,printEnhanced,exportEnhanced}]
+                       [--fromYear FROMYEAR] [--toYear TOYEAR]
                        [--splitYearsInterval SPLITYEARSINTERVAL]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --corpusName          The name of the target corpus to work with
-  --printStandard       Prints the standard metadata
-  --printEnhanced       Prints the enhanced metadata
-  --exportEnhancedMetadata
-                        Exports the enhanced metadata
-  --exportTextByPeriod  Exports the text by period
-  --fromYear            The target starting year to extract data from
-  --toYear              The target ending year to extract data from
-  --splitYearsInterval  The interval to split the years with and export the
+  --corpus {all,openbook,project_gutenberg}
+                        The name of the target corpus to work with
+  --action {printStandard,printEnhanced,exportEnhanced}
+                        Action to perform against the metadata of the selected
+                        text corpus
+  --fromYear FROMYEAR   The target starting year to extract data from
+  --toYear TOYEAR       The target ending year to extract data from
+  --splitYearsInterval SPLITYEARSINTERVAL
+                        The interval to split the years with and export the
                         extracted data
-
 ```
 
-##### argument: model
+##### argument: text
 ```shell script
-python gws.py model --help   
-usage: gws.py model [-h] [--action ACTION] [--word WORD] [--period PERIOD]
-                    [--textsFolder TEXTSFOLDER] [--fromYear FROMYEAR]
-                    [--toYear TOYEAR]
+usage: gws.py text [-h] [--corpus {all,openbook,project_gutenberg}]
+                   [--action {combineByPeriod,extractFromPDF}]
+                   [--fromYear FROMYEAR] [--toYear TOYEAR]
+                   [--splitYearsInterval SPLITYEARSINTERVAL]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --action              Action to perform against the selected model
-  --word                Target word to get nearest neighbours for
-  --period              The target period to load the model from
-  --textsFolder         The target folder that contains the texts files
-  --fromYear            The target starting year to create the model for
-  --toYear              The target ending year to create the model for
+  --corpus {all,openbook,project_gutenberg}
+                        The name of the target corpus to work with
+  --action {combineByPeriod,extractFromPDF}
+                        Action to perform against the selected text corpus
+  --fromYear FROMYEAR   The target starting year to extract data from
+  --toYear TOYEAR       The target ending year to extract data from
+  --splitYearsInterval SPLITYEARSINTERVAL
+                        The interval to split the years with and export the
+                        extracted data
+```
+
+
+##### argument: model
+```shell script
+usage: gws.py model [-h] [--action {create,getNN,getCS,getCD}] [--word WORD]
+                    [--period PERIOD] [--textsFolder TEXTSFOLDER]
+                    [--fromYear FROMYEAR] [--toYear TOYEAR]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --action {create,getNN,getCS,getCD}
+                        Action to perform against the selected model
+  --word WORD           Target word to get nearest neighbours for
+  --period PERIOD       The target period to load the model from
+  --textsFolder TEXTSFOLDER
+                        The target folder that contains the texts files
+  --fromYear FROMYEAR   the target starting year to create the model for
+  --toYear TOYEAR       the target ending year to create the model for
 ```
 
 ## License
