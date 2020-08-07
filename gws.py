@@ -100,7 +100,7 @@ def metadataParser(args):
 def textParser(args):
     combinedMetadata = metadata.getCombined(CORPORA, args.corpus, True)
 
-    if args.action == 'combineByPeriod':
+    if args.action == 'exportByPeriod':
         logger.info('Selected action: Export combined text by period')
 
         text.exportTextByPeriod(combinedMetadata, args.fromYear, args.toYear, args.splitYearsInterval)
@@ -187,7 +187,7 @@ parser_metadata.set_defaults(func=metadataParser)
 parser_text = subparsers.add_parser('text')
 parser_text.add_argument('--corpus', default='all', choices=['all', 'openbook', 'project_gutenberg'],
                          help='The name of the target corpus to work with')
-parser_text.add_argument('--action', default='exportByPeriod', choices=['combineByPeriod', 'extractFromPDF'],
+parser_text.add_argument('--action', default='exportByPeriod', choices=['exportByPeriod', 'extractFromPDF'],
                          help='Action to perform against the selected text corpus')
 parser_text.add_argument('--fromYear', default=1800, type=int, help='The target starting year to extract data from')
 parser_text.add_argument('--toYear', default=1900, type=int, help='The target ending year to extract data from')

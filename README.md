@@ -46,7 +46,7 @@ This repository accompanies the paper _"Studying the Evolution of Greek Words vi
 #### First steps
 * If running for first time, create the text files per period by running:  
     ```shell script
-    python gws.py metadata --exportTextByPeriod
+    python gws.py text --action exportByPeriod
     ```
 
 * Then create the models from those text files by running:
