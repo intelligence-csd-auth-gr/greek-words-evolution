@@ -8,6 +8,7 @@ import shutil
 import logging
 import time
 import warnings
+from tika import parser
 import lib.file as file
 
 warnings.filterwarnings('ignore')
@@ -42,6 +43,10 @@ except LookupError:
 
 
 def detectMalformed():
+    """
+    @return:
+    @rtype: None
+    """
     dictionary = enchant.Dict('el_GR')
     stopWords = set(nltk.corpus.stopwords.words('greek'))
     filenames = glob.glob('../data/corpora/openbook/text/*.txt')
@@ -81,6 +86,11 @@ def detectMalformed():
 
 
 def extractPublishedYear(text):
+    """
+    @param text:
+    @return:
+    @rtype: text
+    """
     # a match of a year in the form of "1 8 2 1", as the first match after the common publishing names
     match1 = re.findall(
         r'(?:ΑΘΗΝΑ|ΑΘΗΝΑΙ|ΑΘΗΝΗΣΙ|ΠΕΙΡΑΙΕΥΣ|ΖΑΚΥΝΘΩ|ΣΜΥΡΝΗ|ΠΑΡΙΣΙΟΙΣ)(?:[\s\D]\d{0,3})*(\d+(?:\s+\d+){3})', text,
@@ -103,6 +113,13 @@ def extractPublishedYear(text):
 
 
 def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
+    """
+
+    @param authorYearOfBirth:
+    @param authorYearOfDeath:
+    @return:
+    @rtype text
+    """
     estimatedPublishedYear = ''
 
     if authorYearOfBirth > 1800:
@@ -112,6 +129,15 @@ def estimatePublishedYear(authorYearOfBirth, authorYearOfDeath):
 
 
 def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTokens):
+    """
+
+    @param textFilesFolder:
+    @param metadata:
+    @param detectPublishedYear:
+    @param calculateTokens:
+    @return:
+    @rtype DataFrame
+    """
     logger.info('Enhancing metadata')
 
     for index, row in metadata.iterrows():
@@ -135,6 +161,12 @@ def enhanceMetadata(textFilesFolder, metadata, detectPublishedYear, calculateTok
 
 
 def preProcessText(text):
+    """
+
+    @param text:
+    @return:
+    @rtype: text
+    """
     logger.info('Preprocessing text')
 
     stopWords = set(nltk.corpus.stopwords.words('greek'))
@@ -186,7 +218,14 @@ def preProcessText(text):
 
 
 def exportMetadata(metadata, filename='-export.tsv'):
-    exportFilename = int(time.time()) + filename
+    """
+
+    @param metadata:
+    @param filename:
+    @return:
+    @rtype: None
+    """
+    exportFilename = str(int(time.time())) + filename
 
     metadata.to_csv(exportFilename, sep='\t', index=False, header=True, columns=['id',
                                                                                  'title',
@@ -203,6 +242,15 @@ def exportMetadata(metadata, filename='-export.tsv'):
 
 
 def exportTextByPeriod(enhancedMetadata, fromYear, toYear, splitYearsInterval):
+    """
+
+    @param enhancedMetadata:
+    @param fromYear:
+    @param toYear:
+    @param splitYearsInterval:
+    @return:
+    @rtype: None
+    """
     for i in range(fromYear, toYear, splitYearsInterval):
         currentRangeFrom = i
         currentRangeTo = i + splitYearsInterval
@@ -210,6 +258,38 @@ def exportTextByPeriod(enhancedMetadata, fromYear, toYear, splitYearsInterval):
         logger.info('Exporting text from ' + str(currentRangeFrom) + ' to ' + str(currentRangeTo))
 
         targetMetadata = enhancedMetadata.loc[(enhancedMetadata['publishedYear'] >= currentRangeFrom) &
-                                    (enhancedMetadata['publishedYear'] < currentRangeTo)]
+                                              (enhancedMetadata['publishedYear'] < currentRangeTo)]
         preProcessedText = preProcessText(targetMetadata['text'].str.cat(sep='\n'))
         file.exportTextToFile(preProcessedText, os.path.join(PRODUCED_TEXTS_FOLDER, ('%s' + TEXT_FILE_EXTENSION) % i))
+
+
+def extractTextFromPdf(postsMetadata, pdfFolder, pdfFileExtension, textFolder, textFileExtension):
+    """
+
+    @param postsMetadata:
+    @param pdfFolder:
+    @param pdfFileExtension:
+    @param textFolder:
+    @param textFileExtension:
+    @return:
+    @rtype: None
+    """
+    # for postMetadata in postsMetadata:
+    for index, postMetadata in postsMetadata.iterrows():
+        if (isinstance(postMetadata['id'], str)):
+            pdfFilePath = os.path.join(pdfFolder, postMetadata['id'] + pdfFileExtension)
+
+            # check in case the metadata folder does not exist for some reason
+            if (os.path.isfile(pdfFilePath)):
+                print(pdfFilePath)
+                textFileName = postMetadata['id'] + textFileExtension
+                textFilePath = os.path.join(textFolder, textFileName)
+
+                # check in case we resume the conversion, in order to avoid reconverting the same files again
+                if not (os.path.isfile(textFilePath)):
+                    parsed = parser.from_file(pdfFilePath)
+
+                    # check in case the parsed content is empty
+                    if (parsed and parsed.get('content')):
+                        with open(textFilePath, 'w+') as textFileHandler:
+                            textFileHandler.write(parsed['content'])

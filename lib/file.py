@@ -11,6 +11,12 @@ logger = logging.getLogger(__name__)
 
 
 def readMetadata(filename):
+    """
+
+    @param filename:
+    @return: dataFrame
+    @rtype: DataFrame
+    """
     logger.info('Reading metadata from %s', filename)
 
     dataFrame = pandas.read_csv(filename, sep='\t')
@@ -21,6 +27,12 @@ def readMetadata(filename):
 
 
 def getContents(filename):
+    """
+
+    @param filename:
+    @return:
+    @rtype: list
+    """
     if os.path.isfile(filename):
         with codecs.open(filename, 'r', 'utf-8') as file:
             fileContents = file.read().splitlines()
@@ -32,6 +44,14 @@ def getContents(filename):
 
 
 def exportTextToFile(text, filename, exportToJson=False):
+    """
+
+    @param text:
+    @param filename:
+    @param exportToJson:
+    @return:
+    @return: None
+    """
     fileHandler = open(filename, 'w', encoding='utf8')
 
     if exportToJson:

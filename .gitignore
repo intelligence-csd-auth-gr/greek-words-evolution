@@ -1,4 +1,6 @@
 output/
+data/scrap/pdf
+data/scrap/text
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -7,9 +7,10 @@ def getCosineDistance(vectorA, vectorB):
     """
     Computes the cosine distance between two vectors A and B
 
-    :param vectorA: the first vector to compare
-    :param vectorB: the second vector to compare
-    :return:
+    @param vectorA: the first vector to compare
+    @param vectorB: the second vector to compare
+    @return:
+    @rtype: float
     """
     return spatial.distance.cosine(vectorA, vectorB)
 
@@ -18,10 +19,10 @@ def getCosineSimilarity(vectorA, vectorB):
     """
     Computes the cosine similarity between two vectors A and B
 
-    :param vectorA: the first vector to compare
-    :param vectorB: the second vector to compare
-    :return:
-        cosine_similarity
+    @param vectorA: the first vector to compare
+    @param vectorB: the second vector to compare
+    @return: cosine_similarity
+    @rtype: float
     """
     # assuming that the two vectors have already the same size
     size = len(vectorA)
@@ -32,20 +33,17 @@ def getCosineSimilarity(vectorA, vectorB):
 def alignTwoEmbeddings(targetVector, baseVector, commonKeys=None):
     """
     Aligns two embeddings (essentially vectors)
-
-    :param targetVector: embedding vectors to be align
-    :param baseVector: base embedding vectors
-    :param commonKeys:
-    :return:
-        alignedEmbedding of targetVector
-    """
-    """
-        Example of embedding's data structure
+    Example of embedding's data structure
         embs = {
             a: [0,0,1,....,0],
             b: [1,0,0,....,0],
             ...
         }
+    @param targetVector: embedding vectors to be aligned
+    @param baseVector: base embedding vectors
+    @param commonKeys:
+    @return: alignedEmbedding of targetVector
+    @rtype: list
     """
     if not commonKeys:
         commonKeys = list(set(targetVector.keys()).intersection(set(baseVector.keys())))
@@ -62,10 +60,10 @@ def alignTwoEmbeddings(targetVector, baseVector, commonKeys=None):
 
 def alignEmbeddingsList(targetVectors, baseVector):
     """
-    :param targetVectors: list of embedding vectors to be align
-    :param baseVector: base embedding vectors
-    :return:
-        list of alignedEmbeddings
+    @param targetVectors: list of embedding vectors to be align
+    @param baseVector: base embedding vectors
+    @return: list of alignedEmbeddings
+    @rtype: list
     """
     commonKeys = set.intersection(*[set(emb.keys()) for emb in targetVectors])
     commonKeys = list(commonKeys.intersection(set(baseVector.keys())))

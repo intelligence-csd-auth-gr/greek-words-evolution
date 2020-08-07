@@ -1,10 +1,8 @@
 from bs4 import BeautifulSoup
 import csv
 import os.path
-import pickle
 import requests
 import re
-from tika import parser
 import urllib
 
 ########################################################################################################################
@@ -17,12 +15,6 @@ SOUP_POST_ELEMENTS_CONFIGURATION = {'name': 'article', 'class_': 'post'}
 SOUP_POST_ELEMENT_CONFIGURATION = {'name': 'a', 'class_': 'image-link'}
 START_PAGE = 0
 END_PAGE = 1
-DOWNLOAD_FOLDER = 'pdf'
-DOWNLOAD_FILENAME_EXTENSION = '.pdf'
-TEXT_FOLDER = 'text'
-TEXT_FILENAME_EXTENSION = '.txt'
-POST_URLS_FILENAME = 'post_urls.pickle'
-METADATA_FILENAME = 'raw_metadata.csv'
 
 ########################################################################################################################
 # ----------------------------------------------------------------------------------------------------------------------
@@ -30,10 +22,21 @@ METADATA_FILENAME = 'raw_metadata.csv'
 
 
 def clearText(text):
+    """
+    @param text:
+    @return:
+    @rtype: str
+    """
     return re.sub('[»«‒§—·•]', '', text).strip()
 
 
 def extractText(textContent, searchString):
+    """
+    @param textContent:
+    @param searchString:
+    @return:
+    @rtype: str
+    """
     matchingElements = re.search(r'(' + re.escape(searchString) + ':?)(.*)', textContent, re.MULTILINE | re.IGNORECASE)
 
     if (matchingElements):
@@ -43,26 +46,58 @@ def extractText(textContent, searchString):
 
 
 def extractTitle(textContent):
+    """
+    @param textContent:
+    @return:
+    @rtype: str
+    """
     return extractText(textContent, 'Τίτλος')
 
 
 def extractAuthor(textContent):
+    """
+    @param textContent:
+    @return:
+    @rtype: str
+    """
     return extractText(textContent, 'Συγγραφέας')
 
 
 def extractType(textContent):
+    """
+    @param textContent:
+    @return:
+    @rtype: str
+    """
     return extractText(textContent, 'Είδος')
 
 
 def extractPublishedYear(textContent):
+    """
+    @param textContent:
+    @return:
+    @rtype: str
+    """
     return extractText(textContent, 'Έτος έκδοσης')
 
 
 def extractISBN(textContent):
+    """
+
+    @param textContent:
+    @return:
+    @rtype: str
+    """
     return extractText(textContent, 'ISBN')
 
 
 def extractAttachmentUrl(soupContent):
+    """
+
+    @param soupContent:
+    @return:
+    @rtype: str
+    """
     htmlElement = soupContent.find(class_='wpcmsdev-button')
 
     if htmlElement:
@@ -72,6 +107,11 @@ def extractAttachmentUrl(soupContent):
 
 
 def getPostUrls():
+    """
+
+    @return:
+    @rtype: list
+    """
     postUrls = []
 
     for pageNumber in range(START_PAGE, END_PAGE):
@@ -88,7 +128,14 @@ def getPostUrls():
     return postUrls
 
 
-def parsePosts(postUrls):
+def parsePosts(postUrls, downloadFileNameExtension):
+    """
+
+    @param postUrls:
+    @param downloadFileNameExtension:
+    @return:
+    @rtype: list
+    """
     postsMetadata = []
 
     for index, postUrl in enumerate(postUrls, start=1):
@@ -106,7 +153,7 @@ def parsePosts(postUrls):
         publishedYear = extractPublishedYear(textElement)
         isbn = extractISBN(textElement)
         attachmentUrl = extractAttachmentUrl(soupElement)
-        filename = id + DOWNLOAD_FILENAME_EXTENSION
+        filename = id + downloadFileNameExtension
 
         postMetadata = {
             'id': id,
@@ -125,11 +172,18 @@ def parsePosts(postUrls):
     return postsMetadata
 
 
-def writeMetadataToCSV(postsMetadata):
+def writeMetadataToCSV(postsMetadata, metadataFilename):
+    """
+
+    @param postsMetadata:
+    @param metadataFilename:
+    @return:
+    @rtype: None
+    """
     csvColumns = ['id', 'title', 'author', 'type', 'publishedYear', 'isbn', 'filename', 'postUrl', 'attachmentUrl']
 
     try:
-        with open(METADATA_FILENAME, 'w') as csvFile:
+        with open(metadataFilename, 'w') as csvFile:
             writer = csv.DictWriter(csvFile, fieldnames=csvColumns)
             writer.writeheader()
 
@@ -139,89 +193,21 @@ def writeMetadataToCSV(postsMetadata):
         print('I/O error while writing to .csv file', IOError)
 
 
-def downloadAttachments(postsMetadata):
+def downloadAttachments(postsMetadata, downloadFolder):
+    """
+
+    @param postsMetadata:
+    @param downloadFolder:
+    @return:
+    @rtype: None
+    """
     for postMetadata in postsMetadata:
-        if postMetadata['attachmentUrl'] and not os.path.isfile(os.path.join(DOWNLOAD_FOLDER,
+        if postMetadata['attachmentUrl'] and not os.path.isfile(os.path.join(downloadFolder,
                                                                              postMetadata['filename'])):
             print('Downloading file "' + postMetadata['filename'] + '" from ' + postMetadata['attachmentUrl'])
             try:
-                urllib.request.urlretrieve(postMetadata['attachmentUrl'], os.path.join(DOWNLOAD_FOLDER,
+                urllib.request.urlretrieve(postMetadata['attachmentUrl'], os.path.join(downloadFolder,
                                                                                        postMetadata['filename']))
             except urllib.error.HTTPError as e:
                 print('Download error')
                 print(e)
-
-
-def extractTextFromPdf(postsMetadata):
-    for postMetadata in postsMetadata:
-        pdfFilePath = os.path.join(DOWNLOAD_FOLDER, postMetadata['filename'])
-
-        # check in case the metadata folder does not exist for some reason
-        if (os.path.isfile(pdfFilePath)):
-            textFileName = postMetadata['id'] + TEXT_FILENAME_EXTENSION
-            textFilePath = os.path.join(TEXT_FOLDER, textFileName)
-
-            # check in case we resume the conversion, in order to avoid reconverting the same files again
-            if not (os.path.isfile(textFilePath)):
-                parsed = parser.from_file(pdfFilePath)
-
-                # check in case the parsed content is empty
-                if (parsed and parsed.get('content')):
-                    with open(textFilePath, 'w+') as textFileHandler:
-                        textFileHandler.write(parsed['content'])
-
-
-########################################################################################################################
-# ----------------------------------------------------------------------------------------------------------------------
-########################################################################################################################
-
-#####################################
-# STEP 0 - Set up required folders and perform any other preliminary tasks
-#####################################
-if not os.path.exists(DOWNLOAD_FOLDER):
-    os.makedirs(DOWNLOAD_FOLDER)
-
-if not os.path.exists(TEXT_FOLDER):
-    os.makedirs(TEXT_FOLDER)
-
-########################################################################################################################
-# ----------------------------------------------------------------------------------------------------------------------
-########################################################################################################################
-
-#####################################
-# STEP 1 - Retrieve all the post URLs to scrap
-#####################################
-###
-# 1.1 - Retrieve them from scratch
-###
-postUrls = getPostUrls()
-
-###
-# 1.2 - Save them in a pickle file for future reference
-###
-with open(POST_URLS_FILENAME, 'wb') as fp:
-    pickle.dump(postUrls, fp)
-
-#####################################
-# STEP 2 - Parse the posts and extract their metadata
-#####################################
-postsMetadata = parsePosts(postUrls)
-
-#####################################
-# STEP 3 - Save the extracted metadata of all posts into a CSV file
-#####################################
-writeMetadataToCSV(postsMetadata)
-
-#####################################
-# STEP 4 - Parse the saved CSV file containing the posts metadata and download each attachment
-#####################################
-with open(METADATA_FILENAME) as fileHandler:
-    postsMetadata = csv.DictReader(fileHandler, delimiter=',')
-    downloadAttachments(postsMetadata)
-
-#####################################
-# STEP 4 - Extract text from the the downloaded PDF files
-#####################################
-with open(METADATA_FILENAME) as fileHandler:
-    postsMetadata = csv.DictReader(fileHandler, delimiter=',')
-    extractTextFromPdf(postsMetadata)
