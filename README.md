@@ -10,6 +10,19 @@ This repository accompanies the paper _"Studying the Evolution of Greek Words vi
 V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020)
 ```
 
+or in BibTeX format:
+
+```
+@inproceedings{,
+          title={Studying the Evolution of Greek Words via Word Embeddings},
+          booktitle={Proceedings of the 11th Hellenic Conference on Artificial Intelligence,
+           {SETN} 2020, Athens, Greece, September 02-04, 2020)},
+          author={V. Barzokas, E. Papagiannopoulou and G. Tsoumakas},
+          pages={},
+          year={2020}
+    }
+```
+
 ##### Example visualized result 
 ![alt text](https://github.com/intelligence-csd-auth-gr/greek-words-evolution/raw/master/assets/results-word-krisi-translated.png "Semantic shift of the word 'crisis'.")
 
