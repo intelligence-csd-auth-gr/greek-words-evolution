@@ -5,7 +5,10 @@ A systematic framework that uses diachronic word embeddings to trace semantic sh
 
 ##### Research paper
 This repository accompanies the paper _"Studying the Evolution of Greek Words via Word Embeddings"_ by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020) and contains the set of tools developed and data prepared for its needs. If you use this code and/or data in your research please cite the following: 
-```V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020)```.
+
+```
+V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020)
+```
 
 ##### Example visualized result 
 ![alt text](https://github.com/intelligence-csd-auth-gr/greek-words-evolution/raw/master/assets/results-word-krisi-translated.png "Semantic shift of the word 'crisis'.")
