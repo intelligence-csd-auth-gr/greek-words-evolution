@@ -4,23 +4,21 @@
 A systematic framework that uses diachronic word embeddings to trace semantic shifts or variations in the context of words over time in the Greek language.
 
 ##### Research paper
-This repository accompanies the paper _"Studying the Evolution of Greek Words via Word Embeddings"_ by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the [11th Hellenic Conference on Artificial Intelligence (SETN 2020)](https://setn2020.eetn.gr/) and contains the set of tools developed and data prepared for its needs. If you use this code and/or data in your research please cite the following: 
+This repository accompanies the paper _"Studying the Evolution of Greek Words via Word Embeddings"_ by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the [11th Hellenic Conference on Artificial Intelligence (SETN 2020)](https://setn2020.eetn.gr/) and contains the set of tools developed and data prepared for its needs. The paper is going to be available here https://doi.org/10.1145/3411408.3411425 
+If you use this code and/or data in your research please cite the following:
 
 ```
-V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020)
-```
-
-or in BibTeX format:
-
-```
-@inproceedings{,
-          title={Studying the Evolution of Greek Words via Word Embeddings},
-          booktitle={Proceedings of the 11th Hellenic Conference on Artificial Intelligence,
-           {SETN} 2020, Athens, Greece, September 02-04, 2020)},
-          author={V. Barzokas, E. Papagiannopoulou and G. Tsoumakas},
-          pages={},
-          year={2020}
-    }
+@inproceedings{Barzokas:2020:SEGWWE:3411408.3411425,
+	title 		= {Studying the Evolution of Greek Words via Word Embeddings},
+	booktitle 	= {Proceedings of the 11th Hellenic Conference on Artificial Intelligence {SETN} 2020, Athens, Greece, September 02-04, 2020},
+	author 		= {Barzokas, Vasileios and 
+			   Papagiannopoulou, Eirini and 
+			   Tsoumakas, Grigorios},
+	publisher 	= {ACM},
+	year 		= {2020},
+	url 		= {https://doi.org/10.1145/3411408.3411425},
+	doi 		= {10.1145/3411408.3411425},
+}
 ```
 
 ##### Example visualized result 
