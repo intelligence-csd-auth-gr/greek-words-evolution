@@ -4,7 +4,7 @@
 A systematic framework that uses diachronic word embeddings to trace semantic shifts or variations in the context of words over time in the Greek language.
 
 ##### Research paper
-This repository accompanies the paper _"Studying the Evolution of Greek Words via Word Embeddings"_ by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020) and contains the set of tools developed and data prepared for its needs. If you use this code and/or data in your research please cite the following: 
+This repository accompanies the paper _"Studying the Evolution of Greek Words via Word Embeddings"_ by V. Barzokas, E. Papagiannopoulou and G. Tsoumakas, published in the proceedings of the [11th Hellenic Conference on Artificial Intelligence (SETN 2020)](https://setn2020.eetn.gr/) and contains the set of tools developed and data prepared for its needs. If you use this code and/or data in your research please cite the following: 
 
 ```
 V. Barzokas, E. Papagiannopoulou and G. Tsoumakas (2020) "Studying the Evolution of Greek Words via Word Embeddings", In Proceedings of the 11th Hellenic Conference on Artificial Intelligence (SETN 2020)
