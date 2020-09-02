@@ -9,14 +9,19 @@ This repository accompanies the paper _"Studying the Evolution of Greek Words vi
 If you use this code and/or data in your research please cite the following:
 
 ```
-@inproceedings{Barzokas:2020:SEGWWE:3411408.3411425,
-	title 		= {Studying the Evolution of Greek Words via Word Embeddings},
-	booktitle 	= {Proceedings of the 11th Hellenic Conference on Artificial Intelligence {SETN} 2020, Athens, Greece, September 02-04, 2020},
+@inproceedings{10.1145/3411408.3411425,
 	author 		= {Barzokas, Vasileios and 
 			   Papagiannopoulou, Eirini and 
 			   Tsoumakas, Grigorios},
-	publisher 	= {ACM},
-	year 		= {2020},
+	title 		= {Studying the Evolution of Greek Words via Word Embeddings},
+	booktitle 	= {11th Hellenic Conference on Artificial Intelligence},
+	pages 		= {118–124},			   
+   	year 		= {2020},
+	location 	= {Athens, Greece},
+	series 		= {SETN 2020}
+	isbn		= {9781450388788},
+	publisher 	= {Association for Computing Machinery},
+	address 	= {New York, NY, USA},
 	url 		= {https://doi.org/10.1145/3411408.3411425},
 	doi 		= {10.1145/3411408.3411425},
 }
