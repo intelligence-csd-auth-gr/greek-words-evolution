@@ -88,13 +88,13 @@ If you use this code and/or data in your research please cite the following:
 * Get the 10 words with the highest semantic change, based on their cosine distance:
         
     ```shell script
-    python gws.py model --action getCD --fromPeriod 1980 --toPeriod 2020
+    python gws.py model --action getCD --fromYear 1980 --toYear 2020
     ```
                 
 * Get the 10 words with the highest semantic change, based on their cosine similarity (opposite sorted list of cosine distance):
         
     ```shell script
-    python gws.py model --action getCS --fromPeriod 1980 --toPeriod 2020
+    python gws.py model --action getCS --fromYear 1980 --toYear 2020
     ```
 
 ### Options 
