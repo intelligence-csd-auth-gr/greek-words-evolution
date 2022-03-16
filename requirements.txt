@@ -6,7 +6,7 @@ Cython==0.29.13
 fasttext==0.9.1
 idna==2.8
 joblib==0.14.0
-nltk==3.4.5
+nltk==3.6.6
 numpy==1.17.0
 pandas==0.25.1
 pexpect==4.7.0
