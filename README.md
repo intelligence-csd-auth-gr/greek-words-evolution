@@ -27,7 +27,7 @@ If you use this code and/or data in your research please cite the following:
 }
 ```
 
-##### Example visualized result 
+##### Example visualized result - Highlighted is the most relevant word and the rest are presented in descending order from top to bottom.
 ![alt text](https://github.com/intelligence-csd-auth-gr/greek-words-evolution/raw/master/assets/results-word-krisi-translated.png "Semantic shift of the word 'crisis'.")
 
 ## Requirements
