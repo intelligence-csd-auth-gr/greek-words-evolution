@@ -10,7 +10,7 @@ nltk==3.6.6
 numpy==1.22.0
 pandas==0.25.1
 pexpect==4.7.0
-Pillow==9.0.1
+Pillow==9.3.0
 POT==0.6.0
 ptyprocess==0.6.0
 pybind11==2.3.0
